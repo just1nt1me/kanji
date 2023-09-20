@@ -30,6 +30,7 @@ class Test:
                 sys.exit()
 
             # Compute WordNet-based similarity between user input and correct answer
+            # TODO: check similarity for each comma separated string...
             similarity = wordnet_similarity(answer, row['meaning'])
 
             if similarity > 0.8:  # Adjust the threshold as needed
