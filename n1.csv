@@ -71,7 +71,6 @@ expression,reading,meaning,tags
 効率,こうりつ,efficiency,n1
 公立,こうりつ,public institution,n1
 護衛,ごえい,"guard, convoy, escort",n1
-コーナー,コーナー,corner,n1
 小柄,こがら,"small, diminutive",n1
 小切手,こぎって,"cheque, check",n1
 国産,こくさん,domestic products,n1
@@ -95,54 +94,39 @@ expression,reading,meaning,tags
 試みる,こころみる,"to try, to test",n1
 快い,こころよい,"pleasant, agreeable",n1
 誤差,ごさ,error,n1
-ございます (かん),ございます (かん),"to be (polite, to exist)",n1
 孤児,こじ,orphan,n1
-こじれる,こじれる,"to get complicated, to grow worse",n1
-こす (みずを～),こす (みずを～),"to strain, to filter",n1
 梢,こずえ,treetop,n1
 個性,こせい,"individuality, personality, idiosyncrasy",n1
 戸籍,こせき,"census, family register",n1
 古代,こだい,ancient times,n1
-こたつ,こたつ,"table with heater, (originally) charcoal brazier in a floor well",n1
-こだわる,こだわる,"to fuss over, to be particular about",n1
 誇張,こちょう,exaggeration,n1
-こつ (をつかむ),こつ (をつかむ),"secret, trick, hang",n1
 滑稽,こっけい,"funny, humorous, comical",n1
 国交,こっこう,diplomatic relations,n1
 骨董品,こっとうひん,curio,n1
 固定,こてい,"fixation, fixing (e.g., salary, capital)",n1
 事柄,ことがら,"matter, thing, affair, circumstance",n1
 孤独,こどく,"isolation, loneliness, solitude",n1
-ことごとく,ことごとく,"altogether, entirely",n1
 言付け,ことづけ,to leave a message,n1
 殊に,ことに,"especially, above all",n1
 粉々,こなごな,in very small pieces,n1
 好ましい,このましい,"nice, likable, desirable",n1
 碁盤,ごばん,Go board,n1
 個別,こべつ,particular case,n1
-ごまかす,ごまかす,"to deceive, to falsify, to misrepresent",n1
 細やか,こまやか,"meager, modest",n1
-コマーシャル,コマーシャル,a commercial,n1
 込める,こめる,"to include, to put into",n1
-コメント,コメント,comment,n1
 籠もる,こもる,"to seclude oneself, to be confined in",n1
 固有,こゆう,"characteristic, tradition, peculiar",n1
 暦,こよみ,"calendar, almanac",n1
 凝らす,こらす,"to concentrate, to devote, to peer into",n1
-ごらんなさい (かん),ごらんなさい (かん),"look, (please) try to do",n1
 孤立,こりつ,"isolation, helplessness",n1
 懲りる,こりる,"to learn by experience, to be disgusted with",n1
 凝る,こる,"to stiffen, to harden",n1
 根気,こんき,"patience; perseverance, energy",n1
 根拠,こんきょ,"basis, foundation",n1
 混血,こんけつ,"mixed race, mixed parentage",n1
-コンタクト (レンズ),コンタクト (レンズ),contact; contact lens,n1
 昆虫,こんちゅう,"insect, bug",n1
 根底,こんてい,"root, basis, foundation",n1
 混同,こんどう,"confusion, mixing, merger",n1
-コントラスト,コントラスト,contrast,n1
-コントロール,コントロール,control,n1
-コンパス,コンパス,compass,n1
 根本,こんぽん,"foundation, root, base",n1
 財,ざい,"fortune, riches",n1
 再会,さいかい,"meeting again, reunion",n1
@@ -150,14 +134,12 @@ expression,reading,meaning,tags
 細菌,さいきん,"bacillus, bacterium, germ",n1
 細工,さいく,"work, craftsmanship, trick",n1
 採掘,さいくつ,mining,n1
-サイクル,サイクル,cycle,n1
 採決,さいけつ,"vote, roll call",n1
 再建,さいけん,(temple or shrine) rebuilding,n1
 再現,さいげん,"reproduction, return, revival",n1
 財源,ざいげん,"source of funds, resources, finances",n1
 在庫,ざいこ,"stockpile, stock",n1
 採算,さいさん,profit,n1
-サイズ,サイズ,size,n1
 再生,さいせい,"playback, regeneration, resuscitation",n1
 財政,ざいせい,"economy, financial affairs",n1
 最善,さいぜん,the very best,n1
@@ -167,14 +149,12 @@ expression,reading,meaning,tags
 細胞,さいぼう,cell,n1
 採用,さいよう,"use, adopt",n1
 遮る,さえぎる,"to interrupt, to intercept, to obstruct",n1
-さえずる,さえずる,"to sing, to chirp, to twitter",n1
 冴える,さえる,"to be clear, to be bright, to be skillful",n1
 竿,さお,"rod, pole (e.g., for drying laundry)",n1
 栄える,さかえる,"to flourish, to prosper, to thrive",n1
 差額,さがく,"balance, difference, margin",n1
 杯,さかずき,wine cup,n1
 逆立ち,さかだち,"handstand, headstand",n1
-さきに (いぜん),さきに (いぜん),"before, earlier than, previously",n1
 詐欺,さぎ,"fraud, swindle",n1
 削減,さくげん,"cut, reduction",n1
 錯誤,さくご,mistake,n1
@@ -187,7 +167,6 @@ expression,reading,meaning,tags
 差し支える,さしつかえる,"to interfere, to hinder",n1
 授ける,さずける,"to grant, to award, to teach",n1
 摩する,さする,"to rub, to stroke",n1
-さぞ (さぞや。さぞかし),さぞ (さぞや。さぞかし),"I am sure, certainly, no doubt",n1
 定まる,さだまる,"to become settled, to be fixed",n1
 定める,さだめる,"to decide, to determine",n1
 座談会,ざだんかい,"symposium, round-table discussion",n1
@@ -196,25 +175,18 @@ expression,reading,meaning,tags
 殺人,さつじん,murder,n1
 察する,さっする,"to guess, to sense, to judge",n1
 雑談,ざつだん,"chatting, idle talk",n1
-さっと,さっと,"suddenly, smoothly",n1
-さっぱりする,さっぱりする,to refresh,n1
 悟る,さとる,"to attain enlightenment, to understand",n1
 最中,さなか,"in the middle of, midst",n1
 座標,ざひょう,coordinates,n1
-さほど,さほど,"not so, not that much",n1
-サボる,サボる,to cut (skip) classes; to loaf on the job; to idle away one's time,n1
 様,さま,state; way (a person does something); Mr. or Mrs.,n1
 寒気,さむけ,"chill, shiver, cold",n1
 侍,さむらい,samurai,n1
-さも,さも,"with gusto, with satisfaction",n1
 作用,さよう,"operation, effect, function",n1
-さらう (こどもを～),さらう (こどもを～),to kidnap,n1
 障る,さわる,"to hinder, to interfere with, to affect",n1
 酸,さん,acid,n1
 山岳,さんがく,mountains,n1
 参議院,さんぎいん,House of Councilors,n1
 産休,さんきゅう,maternity leave,n1
-サンキュー,サンキュー,thank you,n1
 残金,ざんきん,remaining money,n1
 産後,さんご,"postpartum, after childbirth",n1
 残酷,ざんこく,"cruelty, harshness",n1
@@ -222,7 +194,6 @@ expression,reading,meaning,tags
 参照,さんしょう,"reference, consultation, consultation",n1
 参上,さんじょう,"calling on, visiting",n1
 残高,ざんだか,"(bank) balance, remainder",n1
-サンタクロース,サンタクロース,Santa Claus,n1
 桟橋,さんばし,"wharf, jetty, pier",n1
 賛美,さんび,"praise, adoration, glorification",n1
 山腹,さんぷく,"hillside, mountainside",n1
@@ -234,8 +205,6 @@ expression,reading,meaning,tags
 仕上げる,しあげる,"to finish up, to complete",n1
 飼育,しいく,"breeding, raising, rearing",n1
 強いて,しいて,"to dare, to insist",n1
-シート,シート,seat; sheet,n1
-ジーパン,ジーパン,jeans,n1
 仕入れる,しいれる,"to lay in stock, to replenish stock, to procure",n1
 強いる,しいる,"to force, to compel, to coerce",n1
 潮,しお,tide,n1
@@ -244,18 +213,14 @@ expression,reading,meaning,tags
 自覚,じかく,self-conscious,n1
 仕掛,しかけ,"device, trick, mechanism",n1
 仕掛ける,しかける,"to lay, to set, to wage",n1
-しかしながら,しかしながら,"however, nevertheless",n1
 色彩,しきさい,color,n1
 式場,しきじょう,"ceremonial hall, place of ceremony (e.g., marriage)",n1
-しきたり,しきたり,"custom, conventional practice, tradition",n1
 事業,じぎょう,"project, enterprise, business",n1
 軽蔑,けいべつ,"scorn, disdain",n1
 経歴,けいれき,"personal history, career",n1
 経路,けいろ,"course, route, channel",n1
-けがらわしい,けがらわしい,"filthy, unfair",n1
 劇団,げきだん,"troupe, theatrical company",n1
 激励,げきれい,encouragement,n1
-ゲスト,ゲスト,guest,n1
 獣,けだもの,"beast, brute",n1
 決,けつ,"decision, vote",n1
 決意,けつい,"decision, determination",n1
@@ -268,12 +233,10 @@ expression,reading,meaning,tags
 結晶,けっしょう,"crystal, crystallization",n1
 結成,けっせい,formation,n1
 結束,けっそく,"union, unity",n1
-げっそり,げっそり,"being disheartened, losing weight",n1
 決断,けつだん,"decision, determination",n1
 月賦,げっぷ,monthly installment,n1
 欠乏,けつぼう,shortage,n1
 蹴飛ばす,けとばす,"to kick away, to kick (someone)",n1
-けなす,けなす,to speak ill of,n1
 煙たい,けむたい,"smoky, feeling awkward",n1
 煙る,けむる,"to smoke (e.g., fire)",n1
 家来,けらい,"retainer, retinue, servant",n1
@@ -301,7 +264,6 @@ expression,reading,meaning,tags
 同等,どうとう,"equality, equal, same rank",n1
 堂々,どうどう,"magnificent, grand, impressive",n1
 尊ぶ,とうとぶ,"to value, to prize, to esteem",n1
-どうにか,どうにか,"in some way or other, one way or another",n1
 投入,とうにゅう,"throw, investment, making (an electrical circuit)",n1
 導入,どうにゅう,"introduction, bringing in, leading in",n1
 当人,とうにん,"the one concerned, the said person",n1
@@ -309,17 +271,12 @@ expression,reading,meaning,tags
 逃亡,とうぼう,escape,n1
 冬眠,とうみん,"hibernation, winter sleep",n1
 同盟,どうめい,"alliance, union, league",n1
-どうやら,どうやら,"it seems like, somehow or other",n1
 動力,どうりょく,"power, motive power, dynamic force",n1
 登録,とうろく,"registration, register, record",n1
 討論,とうろん,discussion; debate,n1
 遠ざかる,とおざかる,to go far off,n1
 遠回り,とおまわり,"detour, roundabout way",n1
-トーン,トーン,tone,n1
-とかく,とかく,"anyhow, anyway, in any case",n1
-とがめる,とがめる,"to blame, to rebuke",n1
 時折,ときおり,sometimes,n1
-とぎれる,とぎれる,"to pause, to be interrupted",n1
 研ぐ,とぐ,"to sharpen, to grind, to polish",n1
 特技,とくぎ,special talent; skill,n1
 独裁,どくさい,"dictatorship, despotism",n1
@@ -331,9 +288,7 @@ expression,reading,meaning,tags
 得点,とくてん,"score, points made",n1
 特派,とくは,"send specially, special envoy",n1
 特有,とくゆう,"characteristic (of, peculiar (to))",n1
-とげ (をさす),とげ (をさす),thorn,n1
 遂げる,とげる,"to accomplish, to achieve, to carry out",n1
-～どころか,～どころか,"rather, far from",n1
 年頃,としごろ,"age, marriageable age, adolescence",n1
 戸締り,とじまり,"closing up, locking the doors",n1
 途上,とじょう,"en/in route, half way",n1
@@ -341,9 +296,7 @@ expression,reading,meaning,tags
 途絶える,とだえる,"to stop, to cease, to come to an end",n1
 特許,とっきょ,"special permission, patent",n1
 特権,とっけん,"privilege, special right",n1
-とっさに,とっさに,at once,n1
 突如,とつじょ,"suddenly, all of a sudden",n1
-とって,とって,"handle, grip, knob",n1
 突破,とっぱ,"breaking through, breakthrough, penetration",n1
 土手,どて,"embankment, bank",n1
 届,とどけ,"report, notification, registration",n1
@@ -357,20 +310,12 @@ expression,reading,meaning,tags
 溝,どぶ,"ditch, drain, gap",n1
 徒歩,とほ,"walking, going on foot",n1
 土木,どぼく,public works,n1
-とぼける,とぼける,"to play dumb, to feign ignorance, to play innocent, to have a blank facial expression; to play the fool; to be in one's dotage",n1
 乏しい,とぼしい,"meager, scarce, hard up, poor",n1
 富,とみ,"wealth, fortune",n1
 富む,とむ,"to be rich, to become rich",n1
 共稼ぎ,ともかせぎ,"working together, (husband and wife) earning a living together",n1
 伴う,ともなう,"to accompany, to bring with",n1
 共働き,ともばたらき,dual income (husband and wife both working),n1
-ドライ,ドライ,dry,n1
-ドライクリーニング,ドライクリーニング,dry cleaning,n1
-ドライバー,ドライバー,"driver, screwdriver",n1
-ドライブイン,ドライブイン,drive in,n1
-トラブル,トラブル,trouble (sometimes used as a verb),n1
-トランジスター,トランジスター,transistor,n1
-とりあえず,とりあえず,"at once, first of all, for the time being",n1
 取扱,とりあつかい,"treatment, handling, management",n1
 取り扱う,とりあつかう,"to treat, to handle, to deal in",n1
 鳥居,とりい,Shinto shrine archway,n1
@@ -388,11 +333,8 @@ expression,reading,meaning,tags
 取り混ぜる,とりまぜる,"to mix, to put together",n1
 取り戻す,とりもどす,"to take back, to regain",n1
 取り寄せる,とりよせる,"to order, to send away for",n1
-ドリル,ドリル,drill,n1
 副,とりわけ,"especially, above all",n1
-とろける,とろける,melt; to be enchanted with,n1
 鈍感,どんかん,"thickheadedness, stolidity",n1
-とんだ,とんだ,"terrible, awful, serious, absolutely not",n1
 度忘れ,どわすれ,"lapse of memory, forget for a moment",n1
 問屋,とんや,wholesale store,n1
 内閣,ないかく,"cabinet, (government)",n1
@@ -400,12 +342,10 @@ expression,reading,meaning,tags
 内緒,ないしょ,"secrecy, privacy, secret",n1
 内心,ないしん,"innermost thoughts, real intention, inmost heart",n1
 内蔵,ないぞう,internal organ; built-in,n1
-ナイター,ナイター,"game under lights (e.g., baseball), night game",n1
 内部,ないぶ,"interior, inside, internal",n1
 内乱,ないらん,"civil war, domestic conflict",n1
 内陸,ないりく,inland,n1
 苗,なえ,rice seedling,n1
-なおさら,なおさら,"all the more, still less",n1
 流し,ながし,sink,n1
 長々,ながなが,"long, drawn-out, very long",n1
 中程,なかほど,"middle, midway",n1
@@ -424,9 +364,6 @@ expression,reading,meaning,tags
 懐く,なつく,to become emotionally attached,n1
 名付ける,なづける,to name,n1
 何気ない,なにげない,"casual, unconcerned",n1
-なにとぞ,なにとぞ,"please, kindly, by all means",n1
-なにより,なにより,"most, best",n1
-ナプキン,ナプキン,napkin,n1
 名札,なふだ,"name plate, name tag",n1
 生臭い,なまぐさい,"smelling of fish or blood, fish or meat",n1
 生温い,なまぬるい,"lukewarm, halfhearted",n1
@@ -439,17 +376,11 @@ expression,reading,meaning,tags
 悩み,なやみ,"trouble(s), worry, distress",n1
 並びに,ならびに,and,n1
 成り立つ,なりたつ,"to consist of; to be practical (logical, feasible, viable), to be concluded, to hold true",n1
-なるたけ,なるたけ,"as much as possible, if possible",n1
 慣れ,なれ,"practice, experience",n1
 馴々しい,なれなれしい,"familiar, make free with",n1
-～なんか,～なんか,in the least ~,n1
-ナンセンス,ナンセンス,nonsense,n1
 何だか,なんだか,"a little, somewhat, somehow",n1
-なんだかんだ,なんだかんだ,something or other,n1
-なんなり,なんなり,"anything, whatever",n1
 荷,に,"load, baggage, cargo",n1
 似通う,にかよう,to resemble closely,n1
-にきび,にきび,"pimple, acne",n1
 賑わう,にぎわう,"to prosper, to flourish, to be crowded with people",n1
 憎しみ,にくしみ,hatred,n1
 肉親,にくしん,"blood relationship, blood relative",n1
@@ -463,8 +394,6 @@ expression,reading,meaning,tags
 担う,になう,"to carry on shoulder, to bear (burden), to shoulder (gun)",n1
 鈍る,にぶる,"to become less capable, to grow dull, to become blunt, to weaken",n1
 にも関わらず,にもかかわらず,"in spite of, nevertheless",n1
-ニュアンス,ニュアンス,nuance,n1
-ニュー,ニュー,new,n1
 入手,にゅうしゅ,"obtaining, coming to hand",n1
 入賞,にゅうしょう,winning a prize or place (in a contest,n1
 入浴,にゅうよく,"bathe, bathing",n1
@@ -479,12 +408,9 @@ expression,reading,meaning,tags
 沼,ぬま,"swamp, bog, pond",n1
 音色,ねいろ,"tone color, timbre",n1
 値打ち,ねうち,"value, worth, price",n1
-ネガ,ネガ,(photographic) negative,n1
 寝かせる,ねかせる,"to put to bed, to lay down, to ferment",n1
-ねじまわし,ねじまわし,screwdriver,n1
 捩れる,ねじれる,"twist, strain",n1
 妬む,ねたむ,"to be jealous, to be envious",n1
-ねだる,ねだる,"to nag, to demand",n1
 熱意,ねつい,"zeal, enthusiasm",n1
 熱湯,ねっとう,boiling water,n1
 熱量,ねつりょう,calorific value,n1
@@ -502,7 +428,6 @@ expression,reading,meaning,tags
 年長,ねんちょう,seniority,n1
 燃料,ねんりょう,fuel,n1
 年輪,ねんりん,annual tree ring,n1
-ノイローゼ,ノイローゼ,neurosis (GER: Neurose),n1
 農耕,のうこう,"farming, agriculture",n1
 農場,のうじょう,farm,n1
 農地,のうち,agricultural land,n1
@@ -512,16 +437,13 @@ expression,reading,meaning,tags
 軒並,のきなみ,row of houses; uniformly,n1
 望ましい,のぞましい,"desirable, hoped for",n1
 乗っ取る,のっとる,"to capture, to occupy, to take over",n1
-のどか,のどか,"tranquil, calm, quiet",n1
 罵る,ののしる,"to speak ill of, to abuse",n1
 延べ,のべ,"futures, credit (buying), stretching, total",n1
 飲み込む,のみこむ,"to gulp down, to swallow deeply, to understand",n1
 乗り込む,のりこむ,"to board, to get into (a car); to march into, to enter",n1
 刃,は,"blade, sword",n1
 ～派,～は,"group, party, section (mil)",n1
-バー,バー,bar,n1
 把握,はあく,"grasp, catch, understanding",n1
-パート,パート,part-time job,n1
 廃棄,はいき,"disposal, abandon, discarding",n1
 配給,はいきゅう,"distribution (e.g., films, rice",n1
 ばい菌,ばいきん,"bacteria, germ(s)",n1
@@ -543,7 +465,6 @@ expression,reading,meaning,tags
 配慮,はいりょ,"consideration, concern, forethought",n1
 配列,はいれつ,"arrangement, array (programming)",n1
 破壊,はかい,destruction,n1
-いたわる,いたわる,"to sympathize with, to console, to care for",n1
 一概に,いちがいに,"unconditionally, necessarily",n1
 著しい,いちじるしい,"remarkable, considerable",n1
 一同,いちどう,"all present, all concerned, all of us",n1
@@ -560,21 +481,17 @@ expression,reading,meaning,tags
 一見,いっけん,"a look, a glimpse, glance; first meeting",n1
 一切,いっさい,"without exception, the whole",n1
 一心,いっしん,"one mind, with rapt attention",n1
-いっそ,いっそ,"rather, sooner, might as well",n1
 一変,いっぺん,complete change,n1
 意図,いと,"intention, aim, design",n1
 営む,いとなむ,"to carry on (e.g., in ceremony), to run a business",n1
 挑む,いどむ,to challenge,n1
 稲光,いなびかり,(flash of) lightning,n1
 祈り,いのり,"prayer, supplication",n1
-いびき,いびき,snoring,n1
 今更,いまさら,"now, again",n1
 未だ,いまだ,"yet, still",n1
 移民,いみん,"emigrant, immigrant",n1
 嫌々,いやいや,"reluctantly, by no means, unwillingly",n1
 卑しい,いやしい,"greedy, vulgar, shabby",n1
-いやに,いやに,"awfully, terribly",n1
-いやらしい,いやらしい,"unpleasant, disgusting, indecent",n1
 意欲,いよく,"will, desire, ambition",n1
 威力,いりょく,"power, might, authority",n1
 衣類,いるい,"clothes, clothing, garments",n1
@@ -582,12 +499,6 @@ expression,reading,meaning,tags
 印鑑,いんかん,"stamp, seal",n1
 陰気,いんき,"gloom, melancholy",n1
 隠居,いんきょ,retirement; retired person,n1
-インターチェンジ,インターチェンジ,interchange,n1
-インターナショナル,インターナショナル,international,n1
-インターフォン,インターフォン,"entry phone, intercom",n1
-インテリ,インテリ,"(abbr.) egghead, intelligentsia",n1
-インフォメーション,インフォメーション,information,n1
-インフレ,インフレ,(abbr.) inflation,n1
 受かる,うかる,to pass (examination),n1
 受け入れ,うけいれ,"receiving, acceptance",n1
 受け入れる,うけいれる,"to accept, to receive",n1
@@ -608,14 +519,11 @@ expression,reading,meaning,tags
 内訳,うちわけ,"the items, breakdown, classification",n1
 写し,うつし,"copy, duplicate",n1
 訴え,うったえ,"lawsuit, complaint",n1
-うっとうしい,うっとうしい,"weary, annoying",n1
-うつむく,うつむく,"to look downward, to stoop",n1
 空ろ,うつろ,"blank, hollow, empty",n1
 器,うつわ,"bowl, vessel, container",n1
 腕前,うでまえ,"ability, skill, facility",n1
 雨天,うてん,rainy weather,n1
 促す,うながす,"to urge, to suggest, to demand",n1
-うぬぼれ,うぬぼれ,"pretension, conceit, hubris",n1
 生まれつき,うまれつき,"by nature, by birth, native",n1
 埋め込む,うめこむ,"to embed, implant",n1
 梅干し,うめぼし,dried plum,n1
@@ -627,7 +535,6 @@ expression,reading,meaning,tags
 上回る,うわまわる,to exceed,n1
 植わる,うわる,to be planted,n1
 運営,うんえい,"management, administration, operation",n1
-うんざり,うんざり,"tedious, boring, being fed up with",n1
 運送,うんそう,"shipping, freight",n1
 運賃,うんちん,"freight rates, shipping expenses, (passenger) fare",n1
 云々,うんぬん,"and so on, and so forth",n1
@@ -635,7 +542,6 @@ expression,reading,meaning,tags
 運命,うんめい,fate,n1
 運輸,うんゆ,transportation,n1
 運用,うんよう,"making use of, application, practical use",n1
-エアメール,エアメール,air mail,n1
 ～営,～えい,~ run,n1
 英字,えいじ,English letter (character),n1
 映写,えいしゃ,projection,n1
@@ -645,13 +551,11 @@ expression,reading,meaning,tags
 閲覧,えつらん,"inspection, reference, browse",n1
 獲物,えもの,"game, spoils, trophy",n1
 襟,えり,"neck, collar",n1
-エレガント,エレガント,elegant,n1
 円滑,えんかつ,"harmony, smoothness",n1
 縁側,えんがわ,"veranda, porch, balcony, open corridor",n1
 沿岸,えんがん,"coast, shore",n1
 婉曲,えんきょく,"euphemistic, indirect, insinuating",n1
 演出,えんしゅつ,"production (erg. play, direction)",n1
-エンジニア,エンジニア,engineer,n1
 演じる,えんじる,"to perform, to play (a part), to act",n1
 演ずる,えんずる,"to perform, to play (a part), to act",n1
 沿線,えんせん,along railway line,n1
@@ -666,15 +570,11 @@ expression,reading,meaning,tags
 黄金,おうごん,gold,n1
 往診,おうしん,"doctor's visit, house call",n1
 応募,おうぼ,"subscription, application",n1
-おおい (かん),おおい (かん),hey,n1
 大方,おおかた,"almost all, majority",n1
 大柄,おおがら,"large build, large pattern",n1
-おおげさ,おおげさ,"grandiose, exaggerated",n1
 大筋,おおすじ,"outline, summary",n1
 大空,おおぞら,"heaven, the sky",n1
-オートマチック,オートマチック,automatic,n1
 大幅,おおはば,"full width, large scale, drastic",n1
-おおまかな,おおまかな,"rough, approximate",n1
 大水,おおみず,flood,n1
 公,おおやけ,public,n1
 犯す,おかす,"to perpetrate, to violate",n1
@@ -683,7 +583,6 @@ expression,reading,meaning,tags
 遅らす,おくらす,"to retard, to delay",n1
 厳か,おごそか,"majestic, dignified",n1
 行い,おこない,"conduct, behavior, action",n1
-おごる (ゆうしょくを～),おごる (ゆうしょくを～),to give (someone) a treat,n1
 収まる,おさまる,to settle into; to be obtained,n1
 納まる,おさまる,to settle into; to be obtained,n1
 治まる,おさまる,"to be at peace, to calm down",n1
@@ -698,15 +597,12 @@ expression,reading,meaning,tags
 遅くとも,おそくとも,at the latest,n1
 恐れ,おそれ,"fear, horror",n1
 恐れ入る,おそれいる,"to be filled with awe, to feel small",n1
-おだてる,おだてる,to flatter,n1
 落ち込む,おちこむ,to get depressed,n1
 落ち着き,おちつき,"calm, composure",n1
 落葉,おちば,fallen leaves,n1
 乙,おつ,2nd in rank,n1
 お使い,おつかい,errand,n1
-おっかない,おっかない,"frightening, scary",n1
 お手上げ,おてあげ,"given in, given up hope",n1
-おどおど,おどおど,"coweringly, hesitantly",n1
 脅す,おどす,"to threaten, to menace",n1
 訪れる,おとずれる,to visit,n1
 お供,おとも,"attendant, companion",n1
@@ -714,14 +610,11 @@ expression,reading,meaning,tags
 同い年,おないどし,of the same age,n1
 自ずから,おのずから,"naturally, as a matter of course",n1
 怯える,おびえる,to become frightened,n1
-おびただしい,おびただしい,"abundantly, innumerably",n1
 脅かす,おびやかす,"to threaten, to coerce",n1
 帯びる,おびる,"to bear, to carry, to be entrusted",n1
 お袋,おふくろ,mother,n1
 覚え,おぼえ,"memory, sense, experience",n1
-おまけ,おまけ,a discount; something additional,n1
 お宮,おみや,Shinto shrine,n1
-おむつ,おむつ,"diaper, nappy",n1
 思い付き,おもいつき,"plan, idea, suggestion",n1
 趣,おもむき,"flavor, appearance, quaint",n1
 赴く,おもむく,"to go, to proceed",n1
@@ -732,17 +625,12 @@ expression,reading,meaning,tags
 及ぶ,およぶ,"to reach, to extend",n1
 折,おり,"chance, occasion",n1
 檻,おり,"cage, pen, jail cell",n1
-オリエンテーション,オリエンテーション,orientation,n1
 折り返す,おりかえす,"to turn up, to fold back",n1
 織物,おりもの,"textile, fabric",n1
 俺,おれ,I (ego) (boastful first-person pronoun),n1
 愚か,おろか,"foolish, stupid",n1
-おろそか,おろそか,"neglect, negligence, carelessness",n1
-おんぶ,おんぶ,carrying on one's back (erg. Baby),n1
-オンライン,オンライン,on-line,n1
 温和,おんわ,"gentle, mild, moderate",n1
 我,が～,ego,n1
-カーペット,カーペット,carpet,n1
 ～界,～かい,"world, circle, kingdom",n1
 ～街,～がい,town,n1
 改悪,かいあく,"deterioration, changing for the worse",n1
@@ -769,11 +657,9 @@ expression,reading,meaning,tags
 会談,かいだん,"conversation, interview",n1
 改定,かいてい,reform,n1
 改訂,かいてい,revision,n1
-ガイド,ガイド,guide,n1
 街道,かいどう,highway,n1
 該当,がいとう,"corresponding, answering to, coming under",n1
 街頭,がいとう,in the street,n1
-ガイドブック,ガイドブック,guidebook,n1
 介入,かいにゅう,intervention,n1
 概念,がいねん,"general idea, concept, notion",n1
 開発,かいはつ,"development, exploitation",n1
@@ -792,10 +678,8 @@ expression,reading,meaning,tags
 顔付き,かおつき,facial expression,n1
 課外,かがい,extracurricular,n1
 掲げる,かかげる,"to hoist, to fly (a sail), to float (a flag)",n1
-かかと,かかと,shoe heel,n1
 書き取る,かきとる,"to write down, to take dictation",n1
 掻き回す,かきまわす,"to stir up, to churn, to disturb",n1
-かく (はじを),かく (はじを),to humiliate oneself,n1
 ～画,～かく,~ strokes,n1
 学芸,がくげい,"arts and sciences, liberal arts",n1
 格差,かくさ,"difference, disparity",n1
@@ -807,7 +691,6 @@ expression,reading,meaning,tags
 革新,かくしん,"reform, innovation",n1
 学説,がくせつ,theory,n1
 確定,かくてい,"fixed, decision",n1
-カクテル,カクテル,cocktail,n1
 獲得,かくとく,"acquisition, possession",n1
 楽譜,がくふ,"score (music, sheet music)",n1
 確保,かくほ,"guarantee, insure, secure",n1
@@ -822,8 +705,6 @@ expression,reading,meaning,tags
 駆けっこ,かけっこ,(foot) race,n1
 加工,かこう,"manufacturing, processing, treatment",n1
 化合,かごう,chemical combination,n1
-かさばる,かさばる,to be bulky,n1
-かさむ,かさむ,"to pile up, to increase",n1
 箇条書,かじょうがき,"itemized form, itemization",n1
 頭,かしら,"head, chief",n1
 微か,かすか,"faint, dim, weak",n1
@@ -842,41 +723,27 @@ expression,reading,meaning,tags
 花壇,かだん,flower bed,n1
 家畜,かちく,"domestic animals, livestock, cattle",n1
 且つ,かつ,"yet, and",n1
-がっくり,がっくり,heartbroken,n1
 合唱,がっしょう,"chorus, singing in a chorus",n1
-がっしり,がっしり,"firmly, solidly, tough",n1
 合致,がっち,"agreement, concurrence, conforming to",n1
-がっちり,がっちり,"solidly built, tightly",n1
-かつて,かつて,"once, before, formerly",n1
 勝手,かって,"kitchen; one's way, selfishness",n1
-カット,カット,"cut, cutting",n1
 活発,かっぱつ,"vigor, active",n1
 合併,がっぺい,"combination, amalgamation, merger",n1
-カテゴリー,カテゴリー,category,n1
 叶う,かなう,to come true,n1
 叶える,かなえる,"to grant (request, wish)",n1
 金槌,かなづち,(iron) hammer,n1
-かなわない,かなわない,"be beyond one's power, be unable",n1
 加入,かにゅう,"becoming a member, admission",n1
 予て,かねて,"previously, already, lately",n1
 庇う,かばう,"to protect someone, to&nbsp;&nbsp;cover up for someone",n1
 株式,かぶしき,stock,n1
-かぶれる,かぶれる,to react to; to be influenced by,n1
 花粉,かふん,pollen,n1
 貨幣,かへい,"money, currency, coinage",n1
 構える,かまえる,to set up,n1
 過密,かみつ,crowded,n1
 噛み切る,かみきる,"to bite off, to gnaw through",n1
-カムバック,カムバック,comeback,n1
-カメラマン,カメラマン,cameraman,n1
 粥,かゆ,rice porridge,n1
 体付き,からだつき,"body build, figure",n1
 絡む,からむ,"to entangle, to entwine",n1
-かりに,かりに,"temporarily; if, for argument's sake",n1
-カルテ,カルテ,clinical records (GER: Karte),n1
-ガレージ,ガレージ,garage (at house),n1
 過労,かろう,"overwork, strain",n1
-かろうじて,かろうじて,"barely, narrowly",n1
 交す,かわす,to exchange,n1
 代る代る,かわるがわる,alternately,n1
 簡易,かんい,"simplicity, easiness, quasi-",n1
@@ -907,7 +774,6 @@ expression,reading,meaning,tags
 簡素,かんそ,"simplicity, plain",n1
 観点,かんてん,point of view,n1
 感度,かんど,"sensitivity, severity (quake)",n1
-カンニング,カンニング,"cunning, cheat",n1
 元年,がんねん,first year (of a specific reign),n1
 幹部,かんぶ,"management, executive",n1
 完ぺき,かんぺき,"perfection, completeness, flawless",n1
@@ -944,7 +810,6 @@ expression,reading,meaning,tags
 兆,きざし,"sign, omen, indication",n1
 気質,きしつ,"character, trait, temperament",n1
 期日,きじつ,"fixed date, settlement date",n1
-きしむ,きしむ,"to jar, to creak, to grate",n1
 議事堂,ぎじどう,Diet building,n1
 記述,きじゅつ,"describing, descriptor",n1
 気象,きしょう,"weather, climate",n1
@@ -959,11 +824,7 @@ expression,reading,meaning,tags
 鍛える,きたえる,"to forge, to train, to discipline",n1
 気立て,きだて,"good-natured, kind-hearted",n1
 来る,きたる,"to come, to approach,",n1
-きちっと,きちっと,"exactly, perfectly",n1
 几帳面,きちょうめん,"methodical, punctual, steady",n1
-きっかり,きっかり,"exactly, precisely",n1
-きっちり,きっちり,"precisely, tightly",n1
-きっぱり,きっぱり,"clearly, plainly, distinctly",n1
 規定,きてい,"regulation, provisions",n1
 起点,きてん,starting point,n1
 軌道,きどう,orbit; track,n1
@@ -976,7 +837,6 @@ expression,reading,meaning,tags
 気まぐれ,きまぐれ,"whim, caprice, uneven temper",n1
 生真面目,きまじめ,"serious, sincerity",n1
 期末,きまつ,(end of the season or term),n1
-きまりわるい,きまりわるい,"feeling awkward, being ashamed",n1
 記名,きめい,"signature, register",n1
 規約,きやく,"agreement, rules, code",n1
 脚色,きゃくしょく,"dramatization (e.g., film",n1
@@ -984,8 +844,6 @@ expression,reading,meaning,tags
 脚本,きゃくほん,scenario,n1
 華奢,きゃしゃ,"delicate, slender",n1
 客観,きゃっかん,objective,n1
-キャッチ,キャッチ,catch,n1
-キャリア,キャリア,"career, career government employee",n1
 救援,きゅうえん,"relief, rescue, reinforcement",n1
 休学,きゅうがく,"temporary absence from school, suspension",n1
 究極,きゅうきょく,"ultimate, final, eventual",n1
@@ -1038,8 +896,6 @@ expression,reading,meaning,tags
 拒否,きょひ,"denial, rejection, refusal",n1
 許容,きょよう,"permission, pardon",n1
 清らか,きよらか,"clean, pure, chaste",n1
-きらびやか,きらびやか,"gorgeous, gaudy, dazzling",n1
-～きり,～きり,only,n1
 義理,ぎり,"debt of gratitude, obligation",n1
 切替,きりかえ,"exchange, conversion, switchover",n1
 気流,きりゅう,atmospheric current,n1
@@ -1056,7 +912,6 @@ expression,reading,meaning,tags
 勤務,きんむ,"service, duty, work",n1
 禁物,きんもつ,"taboo, forbidden thing",n1
 勤労,きんろう,"labor, exertion, diligent service",n1
-クイズ,クイズ,quiz,n1
 食い違う,くいちがう,"to cross each other, to differ",n1
 空間,くうかん,"space, room, airspace",n1
 空腹,くうふく,hunger,n1
@@ -1064,25 +919,17 @@ expression,reading,meaning,tags
 区間,くかん,section,n1
 茎,くき,stalk,n1
 区切り,くぎり,"an end, a stop, punctuation",n1
-くぐる,くぐる,to pass through; to go around,n1
-くじ (～をひく),くじ (～をひく),"lottery, lot",n1
-くじびき,くじびき,"lottery, drawn lot",n1
-くすぐったい,くすぐったい,ticklish,n1
 愚痴,ぐち,"idle complaint, grumble",n1
 口吟む,くちずさむ,to humble,n1
 嘴,くちばし,"beak, bill",n1
 朽ちる,くちる,to rot,n1
 覆す,くつがえす,"to overturn, to upset, to overthrow",n1
-くっきり,くっきり,"distinctly, clearly, boldly",n1
 屈折,くっせつ,"bending, indentation, refraction",n1
-ぐっと,ぐっと,"firmly, fast, more",n1
 首飾り,くびかざり,necklace,n1
 首輪,くびわ,"necklace, choker",n1
 組み込む,くみこむ,"to insert, to include, to cut in (printing)",n1
 組み合わせる,くみあわせる,"to join together, to combine, to join up",n1
 蔵,くら,"warehouse, cellar",n1
-グレー,グレー,"grey, gray",n1
-クレーン,クレーン,crane,n1
 玄人,くろうと,"expert, professional",n1
 黒字,くろじ,balance (figure) in the black,n1
 軍艦,ぐんかん,"warship, battleship",n1
@@ -1122,7 +969,6 @@ expression,reading,meaning,tags
 天体,てんたい,heavenly body,n1
 伝達,でんたつ,"transmission (e.g., news, communication, delivery)",n1
 天地,てんち,"heaven and earth, the universe",n1
-てんで,てんで,"(not) at all, altogether, entirely",n1
 転任,てんにん,change of post,n1
 展望,てんぼう,"view, outlook, prospect",n1
 伝来,でんらい,"ancestral, hereditary, imported",n1
@@ -1154,7 +1000,6 @@ expression,reading,meaning,tags
 仕切る,しきる,"to partition, to divide, to mark off",n1
 資金,しきん,"funds, capital",n1
 軸,じく,"axis, stem, shaft",n1
-しくじる,しくじる,"to fail, to fall through, to blunder",n1
 仕組,しくみ,"structure, mechanism",n1
 死刑,しけい,death penalty,n1
 湿気る,しける,"to be damp, to be moist",n1
@@ -1176,7 +1021,6 @@ expression,reading,meaning,tags
 市場,しじょう,(the) market (as a concept),n1
 辞職,じしょく,resignation,n1
 雫,しずく,drop (of water),n1
-システム,システム,system,n1
 沈める,しずめる,"to sink, to submerge",n1
 施設,しせつ,"establishment, facility",n1
 事前,じぜん,"prior, beforehand, in advance",n1
@@ -1199,12 +1043,9 @@ expression,reading,meaning,tags
 赤らむ,あからむ,"to become red, to blush",n1
 上がり,あがり,"ascent; income; completion, stop",n1
 諦め,あきらめ,"resignation, reconciliation, consolation",n1
-アクセル,アクセル,(abbr.) accelerator,n1
-あくどい,あくどい,gaudy vicious,n1
 顎,あご,chin,n1
 憧れ,あこがれ,"yearning, longing, aspiration",n1
 麻,あさ,hemp,n1
-あざ,あざ,"birthmark, bruise",n1
 浅ましい,あさましい,"shameful, mean, despicable",n1
 欺く,あざむく,to deceive,n1
 鮮やか,あざやか,"vivid, clear",n1
@@ -1212,17 +1053,14 @@ expression,reading,meaning,tags
 悪しからず,あしからず,"don't take me wrong, but..., I'm sorry",n1
 味わい,あじわい,"flavor, relish",n1
 焦る,あせる,"to be in a hurry, to be impatient",n1
-あせる (こえが～),あせる (こえが～),"to fade, to discolor",n1
 値,あたい,"value, price, worth",n1
 値する,あたいする,"to be worth, to deserve",n1
 悪化,あっか,"deterioration, worsen",n1
 扱い,あつかい,"treatment, service",n1
 呆気ない,あっけない,"not enough, too quick (short, long, etc.)",n1
-あっさり,あっさり,"easily, readily, quickly",n1
 斡旋,あっせん,"kind offices, mediation",n1
 圧倒,あっとう,"overwhelm, overpower",n1
 圧迫,あっぱく,"pressure, coercion, oppression",n1
-あつらえる,あつらえる,"to give an order, to place an order",n1
 圧力,あつりょく,"stress, pressure",n1
 当て,あて,expectations; depend,n1
 ～宛,～あて,"for…(e.g., In a letter)",n1
@@ -1230,16 +1068,12 @@ expression,reading,meaning,tags
 跡継ぎ,あとつぎ,"heir, successor",n1
 後回し,あとまわし,"putting off, postponing",n1
 油絵,あぶらえ,oil painting,n1
-アプローチ,アプローチ,approach (in golf),n1
-あべこべ,あべこべ,"contrary, opposite, inverse",n1
 甘える,あまえる,"to behave like a spoiled child, to fawn on",n1
 雨具,あまぐ,rain gear,n1
 甘口,あまくち,sweet flavor,n1
-アマチュア,アマチュア,amateur,n1
 網,あみ,net,n1
 操る,あやつる,"to manipulate, to operate, to pull strings",n1
 危ぶむ,あやぶむ,"to fear, to have misgivings, to be doubtful",n1
-あやふや,あやふや,"uncertain, vague, ambiguous",n1
 過ち,あやまち,"fault, error, indiscretion",n1
 誤る,あやまる,to make a mistake,n1
 歩み,あゆみ,"step, progress, history",n1
@@ -1249,17 +1083,10 @@ expression,reading,meaning,tags
 争い,あらそい,"dispute, quarrel, conflict",n1
 改まる,あらたまる,to be renewed; to be formal,n1
 荒っぽい,あらっぽい,"rough, rude",n1
-アラブ,アラブ,Arab,n1
 霰,あられ,"hail (e.g., falling ice balls)",n1
 有り様,ありさま,"state, condition",n1
-ありのまま,ありのまま,"the truth, as it is, frankly",n1
-ありふれる,ありふれる,"common, ordinary, routine",n1
-アルカリ,アルカリ,alkali,n1
-アルミ,アルミ,"aluminum (Al, aluminum)",n1
-アワー,アワー,hour,n1
 合わす,あわす,"to join together, to face, to unite",n1
 ～合せ,～あわせ,in all,n1
-アンコール,アンコール,encore,n1
 暗殺,あんさつ,assassination,n1
 暗算,あんざん,mental arithmetic,n1
 暗示,あんじ,"hint, suggestion",n1
@@ -1268,11 +1095,8 @@ expression,reading,meaning,tags
 案の定,あんのじょう,"sure enough, as usual",n1
 いい加減,いいかげん,"random, irresponsible",n1
 言い訳,いいわけ,"excuse, explanation",n1
-イェス,イェス,yes; Jesus,n1
 家出,いえで,running away from home,n1
 生かす,いかす,to keep something alive; to make use of,n1
-いかに,いかに,"how, in what way",n1
-いかにも,いかにも,truly (same as 実に (じつに)),n1
 異議,いぎ,"objection, dissent, protest",n1
 生き甲斐,いきがい,"something one lives for, very important",n1
 行き違い,いきちがい,"misunderstanding, disagreement",n1
@@ -1283,15 +1107,12 @@ expression,reading,meaning,tags
 異見,いけん,"different opinion, objection",n1
 意向,いこう,"intention, idea, inclination",n1
 移行,いこう,switching over to,n1
-いざ,いざ,"now, come (now), crucial moment",n1
 移住,いじゅう,"migration, immigration",n1
 衣装,いしょう,"clothing, costume, outfit",n1
-いじる,いじる,"to touch, to tamper with",n1
 異性,いせい,the opposite sex,n1
 遺跡,いせき,historic ruins,n1
 依存,いぞん,"dependence, dependent, reliance",n1
 委託,いたく,"consign (goods (for sale) to a firm), entrust",n1
-いたって,いたって,"very much, exceedingly, extremely",n1
 出世,しゅっせ,"promotion, successful career, eminence",n1
 出題,しゅつだい,proposing a question,n1
 出動,しゅつどう,"mobilization, action",n1
@@ -1337,7 +1158,6 @@ expression,reading,meaning,tags
 上陸,じょうりく,"landing, disembarkation",n1
 蒸溜,じょうりゅう,distillation,n1
 奨励,しょうれい,"encouragement, promotion",n1
-ショー,ショー,show,n1
 除外,じょがい,"exception, exclusion",n1
 職員,しょくいん,"staff member, personnel",n1
 植民地,しょくみんち,colony,n1
@@ -1349,7 +1169,6 @@ expression,reading,meaning,tags
 所持,しょじ,"possession, owning",n1
 所属,しょぞく,"attached to, belong to",n1
 処置,しょち,treatment,n1
-しょっちゅう,しょっちゅう,"always, constantly",n1
 所定,しょてい,"fixed, prescribed",n1
 所得,しょとく,income,n1
 処罰,しょばつ,punishment,n1
@@ -1408,37 +1227,16 @@ expression,reading,meaning,tags
 崇拝,すうはい,"worship, adoration",n1
 据え付ける,すえつける,"to install, to equip, to mount",n1
 据える,すえる,"to set, to lay, to place",n1
-すがすがしい,すがすがしい,"fresh, refreshing",n1
 救い,すくい,"help, aid, relief",n1
-すくう (みずを～),すくう (みずを～),to scoop,n1
 健やか,すこやか,"vigorous, healthy, sound",n1
 濯ぐ,すすぐ,"to rinse, to wash out",n1
 進み,すすみ,progress,n1
 裾,すそ,"(trouser) cuff, (skirt) hem, cut edge of a hairdo",n1
-スタジオ,スタジオ,studio,n1
-スチーム,スチーム,steam,n1
-ストライキ,ストライキ,strike,n1
-スト,スト,(abbr.) strike,n1
-ストロー,ストロー,straw,n1
-ストロボ,ストロボ,"stroboscope (literally: strobo, strobe lamp, stroboscopic lamp)",n1
-すばしこい,すばしこい,"nimble, smart, quick",n1
 素早い,すばやい,"fast, quick",n1
-ずばり,ずばり,"decisively, unreservedly, frankly",n1
-スプリング,スプリング,spring,n1
-スペース,スペース,space,n1
-ずぶぬれ,ずぶぬれ,"soaked, dripping wet",n1
-スポーツカー,スポーツカー,sports car,n1
 澄ます,すます,"to clear, to make clear, to listen for",n1
 清ます,すます,"to clear, to make clear, to listen for",n1
 済ます,すます,to finish; to settle; to do without,n1
-すみやか,すみやか,speedy,n1
-スラックス,スラックス,slacks,n1
-ずらっと,ずらっと,"in a line, in a row",n1
-ずるずる,ずるずる,"dragging on, sound of sniffling",n1
-ずれ,ずれ,"difference, gap",n1
-すれちがい,すれちがい,chance encounter,n1
 擦れる,すれる,"to rub, to chafe",n1
-すんなり,すんなり,"pass with no objection, slim, slender",n1
 生育,せいいく,"growth, development, breeding",n1
 成育,せいいく,"growth, raising",n1
 成果,せいか,"results, fruits",n1
@@ -1475,17 +1273,14 @@ expression,reading,meaning,tags
 制約,せいやく,"limitation, constraints",n1
 勢力,せいりょく,"influence, power, might, strength",n1
 整列,せいれつ,"stand in a row, form a line",n1
-セール,セール,sale,n1
 急かす,せかす,"to hurry, to urge on",n1
 伜,せがれ,"son, my son",n1
 責務,せきむ,"duty, obligation",n1
-セクション,セクション,section,n1
 世辞,せじ,"flattery, compliment",n1
 世帯,せたい,household,n1
 是正,ぜせい,"correction, revision",n1
 世代,せだい,generation,n1
 切開,せっかい,"opening up, cutting through",n1
-セックス,セックス,sex,n1
 切実,せつじつ,"compelling, serious, severe, acute",n1
 接触,せっしょく,"touch, contact",n1
 接続詞,せつぞくし,conjunction,n1
@@ -1497,8 +1292,6 @@ expression,reading,meaning,tags
 絶版,ぜっぱん,out of print,n1
 設立,せつりつ,"establishment, foundation, institution",n1
 攻め,せめ,"attack, offense",n1
-ゼリー,ゼリー,jelly,n1
-セレモニー,セレモニー,ceremony,n1
 世論,せろん,public opinion,n1
 先,せん,"priority, precedence, previous",n1
 繊維,せんい,"fiber, fiber, textile",n1
@@ -1508,7 +1301,6 @@ expression,reading,meaning,tags
 戦災,せんさい,war damage,n1
 専修,せんしゅう,specialization,n1
 戦術,せんじゅつ,tactics,n1
-センス,センス,"sense (for music, style, tact, etc.)",n1
 潜水,せんすい,diving,n1
 全盛,ぜんせい,height of prosperity,n1
 先代,せんだい,"family predecessor, previous age, previous generation",n1
@@ -1547,20 +1339,17 @@ expression,reading,meaning,tags
 装備,そうび,equipment,n1
 創立,そうりつ,"establishment, founding",n1
 添える,そえる,"to add to, to attach, to accompany",n1
-ソース,ソース,source,n1
 即座に,そくざに,"immediately, right away",n1
 促進,そくしん,"promotion, acceleration, encouragement",n1
 即する,そくする,"to conform to, to agree with, to be adapted to,",n1
 束縛,そくばく,"restraint, restriction, confinement",n1
 側面,そくめん,"side, sidelight, lateral",n1
 損う,そこなう,"to harm, to hurt",n1
-そこら,そこら,"everywhere, somewhere",n1
 素材,そざい,"raw materials, subject matter",n1
 阻止,そし,"obstruction, check, hindrance",n1
 訴訟,そしょう,"litigation, lawsuit",n1
 育ち,そだち,"breeding, growth",n1
 措置,そち,"measure, step",n1
-ソックス,ソックス,socks,n1
 素っ気無い,そっけない,"cold, short, curt, blunt",n1
 外方,そっぽ,look (or turn) the other way,n1
 備え付ける,そなえつける,"to provide, to equip, to install",n1
@@ -1571,16 +1360,10 @@ expression,reading,meaning,tags
 背く,そむく,"to run counter to, to go against",n1
 染まる,そまる,to be dyed,n1
 染める,そめる,"to dye, to color",n1
-そらす,そらす,"to bend, to warp",n1
-そり (～にのる),そり (～にのる),"sleigh, sled",n1
 反る,そる,"to warp, to be warped, to curve",n1
-それゆえ,それゆえ,"therefore, for that reason, so",n1
-ソロ,ソロ,solo,n1
 揃い,そろい,"set, suit, uniform",n1
-ぞんざい,ぞんざい,"rude, careless, slovenly",n1
 損失,そんしつ,loss,n1
 存続,そんぞく,"duration, continuance",n1
-ダース,ダース,dozen,n1
 対応,たいおう,dealing with,n1
 大家,たいか,"rich family, distinguished family",n1
 退化,たいか,"degeneration, retrogression",n1
@@ -1603,21 +1386,15 @@ expression,reading,meaning,tags
 台無し,だいなし,"mess, spoiled, (come to) nothing",n1
 滞納,たいのう,"non-payment, default",n1
 対比,たいひ,"contrast, comparison",n1
-タイピスト,タイピスト,typist,n1
 大部,たいぶ,"most (e.g., most part, greater, fairly, a good deal, much)",n1
 大便,だいべん,feces,n1
 代弁,だいべん,speak for another,n1
 待望,たいぼう,"long-expected, waiting",n1
 台本,だいほん,"libretto, scenario",n1
-タイマー,タイマー,timer,n1
 怠慢,たいまん,"negligence, carelessness",n1
-タイミング,タイミング,timing,n1
-タイム,タイム,time,n1
-タイムリー,タイムリー,"timely, run-batted-in (baseball), RBI",n1
 対面,たいめん,"interview, meeting",n1
 代用,だいよう,substitution,n1
 体力,たいりょく,physical strength,n1
-タイル,タイル,tile,n1
 対話,たいわ,"conversation, dialogue",n1
 耐える,たえる,"to endure, to put up with",n1
 堪える,たえる,"to endure, to put up with",n1
@@ -1626,7 +1403,6 @@ expression,reading,meaning,tags
 打開,だかい,"solution, breakthrough",n1
 焚火,たきび,(open) fire,n1
 妥協,だきょう,"compromise, giving in",n1
-たくましい,たくましい,"burly, strong, sturdy",n1
 巧み,たくみ,"skill, cleverness",n1
 丈,たけ,"length, height",n1
 打撃,だげき,"blow, damage; batting (baseball)",n1
@@ -1645,16 +1421,13 @@ expression,reading,meaning,tags
 脱する,だっする,"to escape from, to get out",n1
 達成,たっせい,achievement,n1
 脱退,だったい,"secession, withdrawal",n1
-だったら,だったら,if it's the case,n1
 立て替える,たてかえる,"to pay in advance, to pay for another",n1
 建前,たてまえ,position; stance one takes in public; principle,n1
 奉る,たてまつる,"to offer, to do respectfully",n1
-だと,だと,if it's the case,n1
 他動詞,たどうし,transitive verb (direct object),n1
 辿り着く,たどりつく,"to reach, to make it somehow",n1
 辿る,たどる,"to follow (road, to pursue (course), to follow up",n1
 束ねる,たばねる,"to tie up in a bundle, to control",n1
-だぶだぶ,だぶだぶ,"loose, baggy",n1
 他方,たほう,"another side, on the other hand",n1
 多忙,たぼう,busy,n1
 給う,たまう,"to receive, to grant",n1
@@ -1662,14 +1435,10 @@ expression,reading,meaning,tags
 溜まり,たまり,"collected things, gathering place, arrears",n1
 賜る,たまわる,"to grant, to bestow",n1
 保つ,たもつ,"to keep, to preserve, to sustain",n1
-たやすい,たやすい,"easy, simple, light",n1
 多様,たよう,"diversity, variety",n1
-だるい,だるい,"sluggish, feel heavy (tired), languid",n1
 弛み,たるみ,"slack, slackening",n1
 弛む,たるむ,"to slacken, to loosen, to relax",n1
 垂れる,たれる,"to hang, to droop; to drip",n1
-タレント,タレント,"talent, star, personality",n1
-タワー,タワー,tower,n1
 単一,たんいつ,"single, simple, sole",n1
 短歌,たんか,31-syllable Japanese poem,n1
 担架,たんか,"stretcher, litter",n1
@@ -1686,12 +1455,9 @@ expression,reading,meaning,tags
 旦那,だんな,"master (of house), husband (informal)",n1
 短波,たんぱ,short wave,n1
 蛋白質,たんぱくしつ,protein,n1
-ダンプ,ダンプ,dump truck,n1
 断面,だんめん,cross section,n1
 弾力,だんりょく,"elasticity, flexibility",n1
 治安,ちあん,"public order, security",n1
-チームワーク,チームワーク,teamwork,n1
-チェンジ,チェンジ,change,n1
 違える,ちがえる,to change,n1
 畜産,ちくさん,animal husbandry,n1
 畜生,ちくしょう,"beast, brute, damn",n1
@@ -1711,8 +1477,6 @@ expression,reading,meaning,tags
 着工,ちゃっこう,start of (construction) work,n1
 茶の間,ちゃのま,living room (Japanese style),n1
 茶の湯,ちゃのゆ,tea ceremony,n1
-ちやほや,ちやほや,"pamper, make a fuss of, spoil",n1
-チャンネル,チャンネル,a channel,n1
 宙返り,ちゅうがえり,"somersault, looping-the-loop",n1
 中継,ちゅうけい,"relay, hook-up",n1
 忠告,ちゅうこく,"advice, warning",n1
@@ -1740,13 +1504,11 @@ expression,reading,meaning,tags
 重宝,ちょうほう,"convenient, useful",n1
 調理,ちょうり,cooking,n1
 調和,ちょうわ,harmony,n1
-ちょくちょく,ちょくちょく,"often, frequently, now and then, occasionally",n1
 直面,ちょくめん,confrontation,n1
 著書,ちょしょ,"literary work, book",n1
 貯蓄,ちょちく,savings,n1
 直感,ちょっかん,"intuition, instinct",n1
 著名,ちょめい,"well-known, noted, celebrated",n1
-ちらっと,ちらっと,"at a glance, by accident",n1
 塵,ちり,"dust, dirt",n1
 塵取り,ちりとり,dustpan,n1
 賃金,ちんぎん,wages,n1
@@ -1771,13 +1533,11 @@ expression,reading,meaning,tags
 継目,つぎめ,"joint, seam",n1
 尽きる,つきる,"to be used up, to be run out",n1
 尽くす,つくす,"to exhaust, to run out; to devote, to serve",n1
-つくづく,つくづく,"completely, really",n1
 作り,つくり,"make up, structure, physique",n1
 造り,つくり,"make up, structure, physique",n1
 繕う,つくろう,"to mend, to repair",n1
 付け加える,つけくわえる,to add one thing to another,n1
 告げる,つげる,to inform,n1
-つじつま (はなしの～),つじつま (はなしの～),"coherence, consistency",n1
 筒,つつ,"pipe, tube",n1
 突く,つつく,"to thrust, to strike, to attack; to poke, to nudge, to pick at",n1
 突っ突く,つっつく,to prompt someone,n1
@@ -1787,13 +1547,10 @@ expression,reading,meaning,tags
 勤め先,つとめさき,place of work,n1
 努めて,つとめて,"make an effort!, work hard!",n1
 津波,つなみ,"tsunami, tidal wave",n1
-つねる,つねる,to pinch,n1
 角,つの,horn,n1
 募る,つのる,"to invite, to solicit help, participation, etc",n1
 唾,つば,"saliva, spit, sputum",n1
 呟く,つぶやく,"to mutter, to murmur",n1
-つぶら,つぶら,"round, rotund",n1
-つぶる (めを～),つぶる (めを～),to close the eyes,n1
 壷,つぼ,"jar, pot, vase",n1
 蕾,つぼみ,"bud, flower bud",n1
 連なる,つらなる,"to extend, to stretch out, to stand in a row",n1
@@ -1807,7 +1564,6 @@ expression,reading,meaning,tags
 提携,ていけい,"cooperation, tie-up, joint business",n1
 体裁,ていさい,"decency, style, form, appearance",n1
 提示,ていじ,"presentation, exhibit, suggest, citation",n1
-ティシュペーパー,ティシュペーパー,tissue,n1
 定食,ていしょく,"fixed-price lunch, set meal, dinner",n1
 訂正,ていせい,"correction, revision",n1
 停滞,ていたい,"stagnation, tie-up, congestion, retention",n1
@@ -1815,7 +1571,6 @@ expression,reading,meaning,tags
 定年,ていねん,retirement age,n1
 堤防,ていぼう,"bank, weir",n1
 手遅れ,ておくれ,being (too); belated treatment,n1
-でかい,でかい,huge,n1
 手掛かり,てがかり,"hint, clue, key",n1
 手掛ける,てがける,"to handle, to manage, to work with",n1
 手数,てかず,"trouble, labor, handling",n1
@@ -1823,18 +1578,13 @@ expression,reading,meaning,tags
 適応,てきおう,"adaptation, accommodation, conformity",n1
 適宜,てきぎ,suitability,n1
 適性,てきせい,aptitude,n1
-できもの,できもの,"boil, rash",n1
 手際,てぎわ,"performance, skill, tact",n1
 出くわす,でくわす,"to happen to meet, to come across",n1
 手順,てじゅん,"process, procedure, protocol",n1
 手錠,てじょう,"handcuffs, manacles",n1
-デコレーション,デコレーション,decoration,n1
 手近,てぢか,"near, handy, familiar",n1
-てっきり,てっきり,"surely, certainly, beyond doubt",n1
 鉄鋼,てっこう,iron and steel,n1
-デッサン,デッサン,rough sketch (FRE: dessin),n1
 徹する,てっする,"to devote oneself, to believe in",n1
-てっぺん,てっぺん,"top, summit, apex",n1
 鉄棒,てつぼう,"iron rod, crowbar, horizontal bar (gymnastics)",n1
 出直し,でなおし,"adjustment, touch up",n1
 掌,てのひら,the palm,n1
@@ -1844,40 +1594,29 @@ expression,reading,meaning,tags
 手本,てほん,"model, pattern",n1
 手回し,てまわし,"preparations, arrangements",n1
 手元,てもと,"(money) on hand or at home, one's purse; usual skill",n1
-デモンストレーション,デモンストレーション,demonstration,n1
 照り返す,てりかえす,"to reflect, to throw back light",n1
-テレックス,テレックス,"telex, teletypewriter exchange",n1
 手分け,てわけ,division of labor,n1
 天,てん,"heaven, sky",n1
 田園,でんえん,"country, rural districts",n1
 天下,てんか,"the world, whole country",n1
 転回,てんかい,"revolution, rotation",n1
 連休,れんきゅう,consecutive holidays,n1
-レンジ,レンジ,"range, stove",n1
 連日,れんじつ,every day,n1
 連帯,れんたい,solidarity,n1
-レンタカー,レンタカー,rented car,n1
 連中,れんちゅう,"colleagues, company, a lot",n1
-レントゲン,レントゲン,X-ray (lit: Roentgen),n1
 連邦,れんぽう,"commonwealth, federation of states",n1
 連盟,れんめい,"league, union, alliance",n1
 老衰,ろうすい,"senility, senile decay",n1
 朗読,ろうどく,"reading aloud, recitation",n1
 浪費,ろうひ,"waste, extravagance",n1
 労力,ろうりょく,"labor, effort, trouble",n1
-ロープウエイ,ロープウエイ,"ropeway, aerial tram",n1
-ロープ,ロープ,rope,n1
-ろくな,ろくな,"satisfactory, decent",n1
 露骨,ろこつ,"blunt, outspoken; conspicuous; broad, suggestive",n1
-ロマンチック,ロマンチック,romantic,n1
 論議,ろんぎ,discussion,n1
 論理,ろんり,logic,n1
 惑星,わくせい,planet,n1
 技,わざ,"art, technique",n1
-わざわざ,わざわざ,"take the trouble (to do), doing something especially rather than incidentally",n1
 煩わしい,わずらわしい,"burdensome, troublesome, complicated",n1
 渡り鳥,わたりどり,"migratory bird, bird of passage",n1
-ワット,ワット,watt,n1
 詫び,わび,apology,n1
 和文,わぶん,"Japanese text, sentence in Japanese",n1
 藁,わら,straw,n1
@@ -1886,8 +1625,6 @@ expression,reading,meaning,tags
 割込む,わりこむ,"to cut in, to disturb",n1
 悪者,わるもの,"bad fellow, rascal",n1
 捗る,はかどる,"to make progress, to move right ahead (with the work), to advance",n1
-はかない,はかない,"short-lived, momentary, ephemeral",n1
-ばかばかしい,ばかばかしい,stupid,n1
 破棄,はき,"revocation, annulment, breaking (e.g., treaty)",n1
 剥ぐ,はぐ,"to tear off, to peel off, to rip off",n1
 迫害,はくがい,persecution,n1
@@ -1904,7 +1641,6 @@ expression,reading,meaning,tags
 派遣,はけん,"dispatch, send",n1
 恥,はじ,"shame, embarrassment",n1
 弾く,はじく,"to play (piano, guitar)",n1
-パジャマ,パジャマ,pajamas,n1
 恥じらう,はじらう,"to feel shy, to be bashful, to blush",n1
 恥じる,はじる,to feel ashamed,n1
 橋渡し,はしわたし,"bridge building', mediation",n1
@@ -1914,13 +1650,11 @@ expression,reading,meaning,tags
 裸足,はだし,barefoot,n1
 果たす,はたす,"to accomplish, to fulfill, to carry out, to achieve",n1
 蜂蜜,はちみつ,honey,n1
-パチンコ,パチンコ,pachinko (Japanese pinball),n1
 罰,ばつ,"punishment, penalty",n1
 発育,はついく,"(physical) growth, development",n1
 発芽,はつが,germination,n1
 発掘,はっくつ,"excavation, exhumation; discovery (e.g., new talent)",n1
 発言,はつげん,"utterance, speech, proposal",n1
-バッジ,バッジ,badge,n1
 発生,はっせい,"outbreak, spring forth, occurrence",n1
 仕立てる,したてる,"to tailor, to make, to prepare",n1
 下取り,したどり,"trade in, part exchange",n1
@@ -1931,8 +1665,6 @@ expression,reading,meaning,tags
 質疑,しつぎ,question,n1
 失脚,しっきゃく,"losing one's standing, being overthrown, falling",n1
 実業家,じつぎょうか,"industrialist, businessman",n1
-シック,シック,chic,n1
-じっくり,じっくり,"deliberately, carefully",n1
 躾,しつけ,"discipline, training",n1
 躾ける,しつける,"to discipline, to teach manners",n1
 実践,じっせん,"practice, put into practice",n1
@@ -1946,8 +1678,6 @@ expression,reading,meaning,tags
 助動詞,じょどうし,auxiliary verb,n1
 淑やか,しとやか,graceful,n1
 萎びる,しなびる,"to shrivel, to fade",n1
-シナリオ,シナリオ,scenario,n1
-しなやか,しなやか,"supple, flexible, elastic",n1
 屎尿,しにょう,human waste,n1
 地主,じぬし,landlord,n1
 凌ぐ,しのぐ,"to outdo, to surpass; to endure",n1
@@ -1955,7 +1685,6 @@ expression,reading,meaning,tags
 始発,しはつ,first train,n1
 耳鼻科,じびか,otolaryngology,n1
 私物,しぶつ,"private property, personal effects",n1
-しぶとい,しぶとい,"tenacious, stubborn",n1
 司法,しほう,administration of justice,n1
 始末,しまつ,disposal; cleaning up afterwards,n1
 染みる,しみる,to soak; pierce,n1
@@ -1964,7 +1693,6 @@ expression,reading,meaning,tags
 視野,しや,"field of vision, outlook",n1
 弱,じゃく,"delicate, supple",n1
 社交,しゃこう,social life,n1
-ジャズ,ジャズ,jazz,n1
 謝絶,しゃぜつ,refusal,n1
 社宅,しゃたく,company owned house,n1
 若干,じゃっかん,"some, few, number of",n1
@@ -1972,10 +1700,6 @@ expression,reading,meaning,tags
 斜面,しゃめん,"slope, slanting surface, bevel",n1
 砂利,じゃり,"gravel, ballast, pebbles",n1
 洒落る,しゃれる,"to joke, to play on words; stylish",n1
-ジャンパー,ジャンパー,"jacket, jumper",n1
-ジャンプ,ジャンプ,jump,n1
-ジャンボ,ジャンボ,jumbo,n1
-ジャンル,ジャンル,genre,n1
 種,しゅ,seed; variety,n1
 私有,しゆう,private ownership,n1
 ～宗,～しゅう,sect,n1
@@ -2031,26 +1755,17 @@ expression,reading,meaning,tags
 品質,ひんしつ,quality,n1
 貧弱,ひんじゃく,"poor, meager, insubstantial",n1
 品種,ひんしゅ,"breed, type, variety",n1
-ヒント,ヒント,hint,n1
 頻繁,ひんぱん,frequency,n1
 貧乏,びんぼう,"poverty, destitute, poor",n1
-ファイト,ファイト,fight,n1
-ファイル,ファイル,file; portfolio,n1
-ファン,ファン,fan,n1
 不意,ふい,"sudden, abrupt, unexpected",n1
-フィルタ,フィルタ,filter,n1
 封,ふう,seal,n1
 封鎖,ふうさ,"blockade, freezing (funds)",n1
 風車,ふうしゃ,windmill,n1
 風習,ふうしゅう,custom,n1
 風俗,ふうぞく,"manners, customs; sex industry",n1
-ブーツ,ブーツ,boots,n1
 風土,ふうど,"natural features, climate",n1
-ブーム,ブーム,boom,n1
-フォーム,フォーム,foam; form,n1
 部下,ぶか,one's subordinate,n1
 不可欠,ふかけつ,"indispensable, essential",n1
-ぶかぶか,ぶかぶか,"too big, baggy",n1
 不吉,ふきつ,"ominous, sinister, bad luck, ill omen",n1
 不況,ふきょう,"recession, depression, slump",n1
 布巾,ふきん,dish cloth,n1
@@ -2063,10 +1778,8 @@ expression,reading,meaning,tags
 老ける,ふける,to age,n1
 富豪,ふごう,"wealthy person, millionaire",n1
 布告,ふこく,"edict, ordinance, proclamation",n1
-ブザー,ブザー,buzzer,n1
 負債,ふさい,"debt, liabilities",n1
 不在,ふざい,absence,n1
-ふさわしい,ふさわしい,appropriate,n1
 不順,ふじゅん,"irregularity, unseasonableness",n1
 負傷,ふしょう,"injury, wound",n1
 侮辱,ぶじょく,"insult, contempt, slight",n1
@@ -2097,18 +1810,14 @@ expression,reading,meaning,tags
 不明,ふめい,"unknown, ambiguous",n1
 部門,ぶもん,"class, group, category, department, field, branch",n1
 扶養,ふよう,"support, maintenance",n1
-ふらふら,ふらふら,"unsteady on one's feet, totter, dizzy",n1
-ぶらぶら,ぶらぶら,"dangle heavily, sway to and fro, stroll idly",n1
 振り返る,ふりかえる,"to turn head, to turn around, to look back",n1
 振り出し,ふりだし,"outset, starting point, drawing or issuing (draft)",n1
 不良,ふりょう,"badness, delinquent, failure",n1
 浮力,ふりょく,buoyancy,n1
 武力,ぶりょく,"armed might, military power, the sword, force",n1
-ブル,ブル,bull,n1
 震わせる,ふるわせる,"to be shaking, to be trembling",n1
 無礼,ぶれい,"impolite, rude",n1
 付録,ふろく,"appendix, supplement",n1
-フロント,フロント,front,n1
 憤慨,ふんがい,"indignation, resentment",n1
 文化財,ぶんかざい,"cultural assets, cultural property",n1
 分業,ぶんぎょう,"division of labor, specialization, assembly-line production",n1
@@ -2119,7 +1828,6 @@ expression,reading,meaning,tags
 噴出,ふんしゅつ,"spewing, gushing, spouting",n1
 文書,ぶんしょ,"document, writing",n1
 紛争,ふんそう,"dispute, trouble, strife",n1
-ふんだん,ふんだん,"plentiful, abundant, lavish",n1
 分担,ぶんたん,"apportionment, sharing",n1
 奮闘,ふんとう,"hard struggle, strenuous effort",n1
 分配,ぶんぱい,"division, sharing",n1
@@ -2127,7 +1835,6 @@ expression,reading,meaning,tags
 粉末,ふんまつ,fine powder,n1
 分離,ぶんり,"separation, detachment, segregation",n1
 分裂,ぶんれつ,"split, division, break up",n1
-ペア,ペア,"pair, pear",n1
 兵器,へいき,"arms, weapons, ordinance",n1
 閉口,へいこう,shut mouth,n1
 閉鎖,へいさ,"closing, closure, shutdown",n1
@@ -2135,14 +1842,9 @@ expression,reading,meaning,tags
 平常,へいじょう,"normal, usual",n1
 平方,へいほう,"square (e.g., meter, square)",n1
 並列,へいれつ,"arrangement, parallel, abreast",n1
-ベース,ベース,"base, bass",n1
 辟易,へきえき,"wince, shrink back, succumbing to, being frightened",n1
-ぺこぺこ,ぺこぺこ,"fawn, be very hungry",n1
-ベスト,ベスト,best; vest,n1
-ベストセラー,ベストセラー,best-seller,n1
 隔たる,へだたる,to be distant,n1
 縁,へり,edge,n1
-へりくだる,へりくだる,to deprecate oneself and praise the listener,n1
 弁解,べんかい,"explanation, justification, excuse",n1
 変革,へんかく,"change, reform(the) Reformation",n1
 返還,へんかん,"return, restoration",n1
@@ -2157,8 +1859,6 @@ expression,reading,meaning,tags
 弁論,べんろん,"discussion, debate, argument",n1
 穂,ほ,"ear (of plant), head (of plant)",n1
 保育,ほいく,"nursing, nurturing, rearing",n1
-ボイコット,ボイコット,boycott,n1
-ポイント,ポイント,point,n1
 法案,ほうあん,bill (law),n1
 防衛,ぼうえい,"defense, protection, self-defense",n1
 防火,ぼうか,"fire prevention, fire fighting, fire proof",n1
@@ -2191,9 +1891,6 @@ expression,reading,meaning,tags
 放り出す,ほうりだす,"to throw out, to give up, to abandon",n1
 暴力,ぼうりょく,violence,n1
 飽和,ほうわ,saturation,n1
-ホース,ホース,hose,n1
-ポーズ,ポーズ,pause,n1
-ホール,ホール,hall; hole,n1
 保温,ほおん,"retaining warmth, keeping heat in, heat insulation",n1
 捕獲,ほかく,"capture, seizure",n1
 保管,ほかん,"custody, safekeeping, storage",n1
@@ -2209,7 +1906,6 @@ expression,reading,meaning,tags
 誇る,ほこる,"to boast of, to be proud of",n1
 綻びる,ほころびる,"to come apart at the seams, to smile broadly",n1
 干し～,ほし～,dried ~,n1
-ポジション,ポジション,position,n1
 干し物,ほしもの,dried washing (clothes,n1
 保守,ほしゅ,"conservative, maintaining",n1
 補充,ほじゅう,"supplementation, replenishment, replenishing",n1
@@ -2220,18 +1916,11 @@ expression,reading,meaning,tags
 発作,ほっさ,"fit, attack",n1
 没収,ぼっしゅう,forfeited,n1
 発足,ほっそく,"starting, inauguration",n1
-ポット,ポット,pot,n1
-ほっぺた,ほっぺた,cheek,n1
-ぼつぼつ,ぼつぼつ,"gradually, here and there, spots",n1
 没落,ぼつらく,"ruin, fall, collapse",n1
 解ける,ほどける,"to come untied, to come apart",n1
 施す,ほどこす,"to give, to conduct, to perform",n1
-ほとり,ほとり,vicinity of lake; river,n1
-ぼやく,ぼやく,"to grumble, to complain",n1
-ぼやける,ぼやける,"to become dim, to become blurred",n1
 保養,ほよう,"health preservation, recuperation, recreation",n1
 捕虜,ほりょ,prisoner of war,n1
-ボルト,ボルト,volt; bolt,n1
 滅びる,ほろびる,"to be ruined, to perish, to be destroyed",n1
 滅ぼす,ほろぼす,"to destroy, to overthrow, to ruin",n1
 本格,ほんかく,"propriety, full-scale",n1
@@ -2243,12 +1932,8 @@ expression,reading,meaning,tags
 本音,ほんね,"(one's) real intention, motive",n1
 本能,ほんのう,instinct,n1
 本場,ほんば,"home, best place, genuine",n1
-ポンプ,ポンプ,pump,n1
 本文,ほんぶん,"text (of document), body (of letter)",n1
 本名,ほんみょう,real name,n1
-マーク,マーク,mark,n1
-マイ～,マイ～,"my ~, one's own ~",n1
-マイクロフォン,マイクロフォン,microphone,n1
 埋蔵,まいぞう,"buried property, treasure trove",n1
 舞う,まう,"to dance, to flutter about, to revolve",n1
 真上,まうえ,"just above, right overhead",n1
@@ -2260,36 +1945,28 @@ expression,reading,meaning,tags
 紛らわしい,まぎらわしい,"confusing, misleading, ambiguous",n1
 紛れる,まぎれる,"to be diverted, to slip into",n1
 真心,まごころ,"sincerity, devotion",n1
-まごつく,まごつく,"to be confused, to be flustered",n1
 誠,まこと,"truth, faith, fidelity",n1
 誠に,まことに,"indeed, really (very polite), absolutely",n1
-まさしく,まさしく,"surely, no doubt, evidently",n1
 勝る,まさる,"to excel, to surpass, to out-rival",n1
 ～増し,～まし,~increase,n1
 交える,まじえる,"to mix, to converse with, to cross (swords)",n1
 真下,ました,"right under, directly below",n1
-まして,まして,"still more, still less (with neg. verb), to say nothing of",n1
 交わる,まじわる,"to cross, to intersect, to mingle with,",n1
 麻酔,ますい,anesthesia,n1
-またがる (うまを～),またがる (うまを～),to straddle,n1
 待ち合わせ,まちあわせ,appointment,n1
 待ち遠しい,まちどおしい,looking forward to,n1
 待ち望む,まちのぞむ,"to look anxiously for, to wait eagerly for",n1
-まちまち,まちまち,"various, different",n1
 末期,まっき,"deathbed, hour of death",n1
 真っ二つ,まっぷたつ,in two equal parts,n1
-まと,まと,"mark, target",n1
 纏まり,まとまり,"conclusion, settlement, consistency",n1
 纏め,まとめ,"settlement, conclusion",n1
 免れる,まぬがれる,"to escape from, to be exempted",n1
 招き,まねき,invitation,n1
 瞬き,まばたき,"wink, twinkling (of stars), flicker (of light)",n1
 麻痺,まひ,"paralysis, palsy, numbness",n1
-～まみれ,～まみれ,"covered with (by, in) ~",n1
 眉,まゆ,eyebrow,n1
 鞠,まり,ball,n1
 丸ごと,まるごと,"in its entirety, whole, wholly",n1
-まるっきり,まるっきり,"completely, perfectly, just as if",n1
 丸々,まるまる,completely,n1
 丸める,まるめる,"to make round, to round off, to roll up",n1
 満月,まんげつ,full moon,n1
@@ -2310,9 +1987,6 @@ expression,reading,meaning,tags
 未熟,みじゅく,"inexperience, unskilled, immature",n1
 微塵,みじん,"particle, atom",n1
 水気,みずけ,"moisture, dampness",n1
-ミスプリント,ミスプリント,misprint,n1
-みすぼらしい,みすぼらしい,"shabby, seedy",n1
-ミセス,ミセス,Mrs.,n1
 見せびらかす,みせびらかす,"to show off, to flaunt",n1
 見せ物,みせもの,"show, exhibition",n1
 満たす,みたす,"to satisfy, to ingratiate, to fill, to fulfill",n1
@@ -2339,20 +2013,17 @@ expression,reading,meaning,tags
 見晴らし,みはらし,view,n1
 身振り,みぶり,gesture,n1
 脈,みゃく,pulse,n1
-ミュージック,ミュージック,music,n1
 未練,みれん,"lingering affection, attachment, regret(s)",n1
 見渡す,みわたす,"to look out over, to survey (scene), to take an extensive view of",n1
 民宿,みんしゅく,private house providing lodging and meals to tourists,n1
 民族,みんぞく,"people, race",n1
 民俗,みんぞく,folk customs,n1
 無意味,むいみ,"nonsense, no meaning",n1
-ムード,ムード,mood,n1
 無口,むくち,reticence,n1
 婿,むこ,son-in-law,n1
 無効,むこう,"invalid, no effect, unavailable",n1
 無言,むごん,silence,n1
 無邪気,むじゃき,"innocence, simple-mindedness",n1
-むしる,むしる,"to pluck, to pick, to tear",n1
 結び,むすび,"ending, conclusion, union",n1
 結び付き,むすびつき,"connection, relation",n1
 結び付く,むすびつく,"to be connected or related, to join together",n1
@@ -2379,7 +2050,6 @@ expression,reading,meaning,tags
 名誉,めいよ,"honor, credit, prestige",n1
 明瞭,めいりょう,clarity,n1
 明朗,めいろう,"bright, clear, cheerful",n1
-メーカー,メーカー,manufacturer,n1
 目方,めかた,weight,n1
 恵み,めぐみ,blessing,n1
 恵む,めぐむ,"to bless, to show mercy to",n1
@@ -2389,10 +2059,8 @@ expression,reading,meaning,tags
 雌,めす,female (animal),n1
 目付き,めつき,"look, expression of the eyes, eyes",n1
 滅亡,めつぼう,"downfall, collapse, destruction",n1
-メディア,メディア,media,n1
 目途,めど,"goal, outlook",n1
 目盛,めもり,"scale, gradations",n1
-メロディー,メロディー,melody,n1
 面会,めんかい,interview,n1
 免除,めんじょ,"exemption, exoneration, discharge",n1
 面する,めんする,"to face on, to look out on to",n1
@@ -2406,27 +2074,17 @@ expression,reading,meaning,tags
 申し分,もうしぶん,"objection, shortcomings",n1
 盲点,もうてん,blind spot,n1
 猛烈,もうれつ,"violent, vehement, rage",n1
-モーテル,モーテル,motel,n1
-もがく,もがく,"to struggle, to wriggle, to be impatient",n1
 目録,もくろく,"catalogue, catalog, list",n1
 目論見,もくろみ,"a plan, a scheme, intention",n1
 模型,もけい,"model, dummy, marquette",n1
 模索,もさく,groping (for),n1
-もしかして,もしかして,"perhaps, possibly",n1
-もしくは,もしくは,"or, otherwise",n1
-もたらす,もたらす,"to bring, to take, to bring about",n1
 持ち切り,もちきり,"hot topic, talk of the town",n1
 目下,もっか,"at present, now",n1
 専ら,もっぱら,"wholly, solely, entirely",n1
-もてなす,もてなす,"to entertain, to make welcome",n1
-もてる,もてる,"to be well liked, to be popular",n1
-モニター,モニター,(computer) monitor,n1
 物好き,ものずき,(idle) curiosity,n1
 物足りない,ものたりない,"unsatisfied, unsatisfactory",n1
-もはや,もはや,"already, now",n1
 模範,もはん,"model, example",n1
 模倣,もほう,"imitation, copying",n1
-もめる,もめる,"to disagree, to dispute",n1
 股,もも,"thigh, femur",n1
 腿,もも,"thigh, femur",n1
 催す,もよおす,"to hold (a meeting), to give (a dinner)",n1
@@ -2435,14 +2093,12 @@ expression,reading,meaning,tags
 漏る,もる,"to leak, to run out",n1
 漏れる,もれる,"to leak out, to escape, to filter out",n1
 脆い,もろい,"brittle, fragile, tender-hearted",n1
-もろに,もろに,"completely, altogether, bodily",n1
 矢,や,arrow,n1
 野外,やがい,"fields, outskirts, open air, suburbs",n1
 ～薬,～やく,medicine,n1
 夜具,やぐ,bedding,n1
 役職,やくしょく,"post, managerial position, official position",n1
 役場,やくば,town hall,n1
-やけに,やけに,"sure, very",n1
 屋敷,やしき,mansion,n1
 養う,やしなう,"to rear, to maintain, to cultivate",n1
 野心,やしん,"ambition, aspiration",n1
@@ -2452,11 +2108,7 @@ expression,reading,meaning,tags
 奴,やつ,"(vulg.) fellow, guy, chap",n1
 闇,やみ,"darkness, shady, illegal",n1
 病む,やむ,"to fall ill, to be ill",n1
-ややこしい,ややこしい,"puzzling, tangled, complicated, complex",n1
-やりとおす,やりとおす,"to carry through, to achieve, to complete",n1
-やりとげる,やりとげる,to accomplish,n1
 和らげる,やわらげる,"to soften, to moderate, to relieve",n1
-ヤング,ヤング,young,n1
 ～油,～ゆ,~ oil,n1
 優位,ゆうい,"predominance, ascendancy, superiority",n1
 憂鬱,ゆううつ,"depression, melancholy",n1
@@ -2480,9 +2132,6 @@ expression,reading,meaning,tags
 故,ゆえ,"reason, cause, circumstances",n1
 歪む,ゆがむ,"to warp, to be crooked, to be distorted",n1
 揺さぶる,ゆさぶる,"to shake, to jolt, to rock, to swing",n1
-ゆとり,ゆとり,"reserve, affluence, time (to spare)",n1
-ユニーク,ユニーク,unique,n1
-ユニフォーム,ユニフォーム,uniform,n1
 指差す,ゆびさす,to point at,n1
 弓,ゆみ,bow,n1
 揺らぐ,ゆらぐ,"to swing, to sway, to shake",n1
@@ -2516,12 +2165,10 @@ expression,reading,meaning,tags
 予言,よげん,"prediction, promise, prognostication",n1
 横綱,よこづな,sumo grand champion,n1
 汚れ,よごれ,"dirt, filth",n1
-よし (かん),よし (かん),all right!,n1
 良し,よし,all right!,n1
 善し悪し,よしあし,"good or bad, merits or demerits, quality",n1
 余所見,よそみ,"looking away, looking aside",n1
 余地,よち,"place, room, margin",n1
-よって (よりどころ),よって (よりどころ),"therefore, consequently",n1
 与党,よとう,"government party, (ruling) party in power, government",n1
 呼び止める,よびとめる,to flag down,n1
 夜更し,よふかし,"staying up late, keeping late hours",n1
@@ -2532,13 +2179,10 @@ expression,reading,meaning,tags
 寄り掛かる,よりかかる,"to lean against, to recline on, to lean on, to rely on",n1
 弱る,よわる,"to weaken, to be troubled, to be emaciated",n1
 来場,らいじょう,attendance,n1
-ライス,ライス,rice,n1
 酪農,らくのう,dairy farming,n1
 落下,らっか,"fall, drop, come down",n1
 楽観,らっかん,optimism,n1
-ランプ,ランプ,lamp; ramp,n1
 濫用,らんよう,"abuse, misuse, using to excess",n1
-リード,リード,lead; reed,n1
 理屈,りくつ,"theory, reason",n1
 利子,りし,interest (bank),n1
 利潤,りじゅん,"profit, returns",n1
@@ -2571,24 +2215,14 @@ expression,reading,meaning,tags
 類,るい,"kind, class, family",n1
 類推,るいすい,analogy,n1
 類似,るいじ,analogous,n1
-ルーズ,ルーズ,loose,n1
 冷酷,れいこく,"cruelty, coldheartedness, ruthless",n1
 冷蔵,れいぞう,refrigeration,n1
 冷淡,れいたん,"coolness, indifference",n1
-レース,レース,race; lace,n1
-レギュラー,レギュラー,regular,n1
-レッスン,レッスン,lesson,n1
-レディー,レディー,lady,n1
-レバー,レバー,lever; liver,n1
 恋愛,れんあい,"love, romance",n1
-バッテリー,バッテリー,battery,n1
-バット,バット,"bat, vat",n1
 発病,はつびょう,"attack, to become sick",n1
 初耳,はつみみ,something heard for the first time,n1
 果て,はて,"the end, the extremity, the limit(s)",n1
 果てる,はてる,"to end, to be finished, to be exhausted",n1
-ばてる,ばてる,"to be exhausted, to be worn out",n1
-パトカー,パトカー,patrol car,n1
 甚だ,はなはだ,"very, greatly, exceedingly",n1
 華々しい,はなばなしい,"brilliant, magnificent, spectacular",n1
 花びら,はなびら,(flower) petal,n1
@@ -2596,22 +2230,17 @@ expression,reading,meaning,tags
 阻む,はばむ,"to keep someone from doing, to stop, to oppose",n1
 浜,はま,"beach, seashore",n1
 浜辺,はまべ,"beach, foreshore",n1
-はまる,はまる,"to get into, to go into, to fit, to be fit for, to suit",n1
 早める,はやめる,"to hasten, to quicken, to accelerate",n1
 腹立ち,はらだち,anger,n1
 原っぱ,はらっぱ,"open field, empty lot, plain",n1
-はらはら,はらはら,feel nervous,n1
-ばらまく,ばらまく,"to disseminate, to scatter",n1
 張り紙,はりがみ,"notice, poster",n1
 遥か,はるか,"far, far-away, distant",n1
 破裂,はれつ,"explosion, rupture, break off",n1
 腫れる,はれる,"to swell (from inflammation, to become swollen)",n1
 繁栄,はんえい,"prospering, prosperity, flourishing",n1
 版画,はんが,art print,n1
-ハンガー,ハンガー,(coat) hanger,n1
 反感,はんかん,"antipathy, revolt, animosity",n1
 反響,はんきょう,"echo, reverberation, repercussion",n1
-パンク,パンク,"puncture, bursting; punk",n1
 反撃,はんげき,"counterattack, counteroffensive, counterblow",n1
 判決,はんけつ,"judicial decision, judgment, sentence, decree",n1
 反射,はんしゃ,"reflection, reverberation",n1
@@ -2628,8 +2257,6 @@ expression,reading,meaning,tags
 反乱,はんらん,"rebellion, revolt, uprising",n1
 氾濫,はんらん,"overflowing, flood",n1
 美,び,beauty,n1
-ひいては,ひいては,"not only…but also, in addition to, consequently",n1
-ビールス,ビールス,virus,n1
 控室,ひかえしつ,waiting room,n1
 控える,ひかえる,to hold back; to make notes,n1
 悲観,ひかん,"pessimism, disappointment",n1
@@ -2643,18 +2270,15 @@ expression,reading,meaning,tags
 日頃,ひごろ,"normally, habitually",n1
 久しい,ひさしい,"long, long-continued, old (story)",n1
 悲惨,ひさん,"tragedy, disaster; misery, wretched, pitiful",n1
-ビジネス,ビジネス,business,n1
 比重,ひじゅう,specific gravity,n1
 美術,びじゅつ,"art, fine arts",n1
 秘書,ひしょ,(private) secretary,n1
 微笑,びしょう,smile,n1
 密か,ひそか,"secret, private, surreptitious",n1
 浸す,ひたす,"to soak, to dip, to drench",n1
-ひたすら,ひたすら,"nothing but, earnestly, intently",n1
 左利き,ひだりきき,"left-handedness, sake drinker, left-hander",n1
 引っ掻く,ひっかく,to scratch,n1
 必修,ひっしゅう,required (subject),n1
-びっしょり,びっしょり,"wet through, drenched",n1
 必然,ひつぜん,"inevitable, necessary",n1
 匹敵,ひってき,"comparing with, rival, equal",n1
 一息,ひといき,"a breath, a pause, an effort",n1
@@ -2673,14 +2297,10 @@ expression,reading,meaning,tags
 避難,ひなん,"taking refuge, finding shelter",n1
 日の丸,ひのまる,the Japanese flag,n1
 火花,ひばな,spark,n1
-ひび (かべの～),ひび (かべの～),"crack, fissure, flaw",n1
 悲鳴,ひめい,"shriek, scream",n1
 冷やかす,ひやかす,"to banter, to make fun of, to jeer at, to cool, to refrigerate",n1
 日焼け,ひやけ,sunburn,n1
 標語,ひょうご,"motto, slogan, catchword",n1
 描写,びょうしゃ,"depiction, description, portrayal",n1
-ひょっと,ひょっと,"possibly, accidentally",n1
-びら,びら,"handout, leaflet",n1
 平たい,ひらたい,"flat, even, level",n1
-びり,びり,"last on the list, at the bottom",n1
 比率,ひりつ,"ratio, proportion, percentage",n1

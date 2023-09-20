@@ -20,24 +20,48 @@ class Test:
             df = pd.DataFrame(pd.read_csv(csv))
             self.deck[level] = df.sample(n=10)
 
-    # show kanji, allow user input, score semantic similarity
+
+    def test_type(self):
+        self.type = input("Practice reading (j) or definition (e)? Enter j/e: ")
+        if self.type not in ["j", "e"]:
+            raise ValueError("Invalid input")
+
+
+    # test user's ability to read kanji, input is ひらがな
     def test(self, kanji, score):
-        for index, row in kanji.iterrows():
-            answer = input(f"{row['expression']} (type 'exit' to quit): ")
+        if self.type == "j":
+            for index, row in kanji.iterrows():
+                answer = input(f"{row['expression']} (type 'exit' to quit): ")
 
-            # Check if the user wants to exit
-            if answer.lower() == 'exit':
-                sys.exit()
+                # check if user wants to exit
+                if answer.lower() == 'exit':
+                    sys.exit()
 
-            # Compute WordNet-based similarity between user input and correct answer
-            # TODO: check similarity for each comma separated string...
-            similarity = wordnet_similarity(answer, row['meaning'])
+                if answer == row['reading']:
+                    print(f"{answer} is correct")
+                    score += 1
+                else:
+                    print(f"{answer} is incorrect. {row['expression']} is read {row['reading']}")
 
-            if similarity > 0.8:  # Adjust the threshold as needed
-                print(f"{answer} is correct. {row['expression']} means {row['meaning']}")
-                score += 1
-            else:
-                print(f"{answer} is incorrect. {row['expression']} means {row['meaning']}")
+        if self.type == "e":
+            # show kanji, allow user input, score semantic similarity
+            for index, row in kanji.iterrows():
+                answer = input(f"{row['expression']} (type 'exit' to quit): ")
+
+                # Check if the user wants to exit
+                if answer.lower() == 'exit':
+                    sys.exit()
+
+                # Compute WordNet-based similarity between user input and correct answer
+                # TODO: check similarity for each comma separated string...
+                similarity = wordnet_similarity(answer, row['meaning'])
+
+                if similarity > 0.8:  # Adjust the threshold as needed
+                    print(f"{answer} is correct. {row['expression']} means {row['meaning']}")
+                    score += 1
+                else:
+                    print(f"{answer} is incorrect. {row['expression']} means {row['meaning']}")
+
         return score
 
     # user takes test level by level until failing score
@@ -57,4 +81,5 @@ class Test:
 if __name__ == "__main__":
     test_instance = Test()
     test_instance.get_deck()
+    test_instance.test_type()
     test_instance.take_test()

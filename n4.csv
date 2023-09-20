@@ -1,36 +1,26 @@
 expression,reading,meaning,tags
 踏む,ふむ,"to step on, to tread on",n4
 ～区,～く,"~ district, ~ ward, ~ borough",n4
-すっと,すっと,"straight, quickly",n4
 盗む,ぬすむ,to steal; to rob,n4
 大抵,たいてい,"generally, usually",n4
-とうとう,とうとう,"finally, at last",n4
-ガソリン,ガソリン,"gasoline, petrol",n4
 鳴る,なる,"to sound, to ring (v.i.)",n4
-しっかり,しっかり,"firmly, steady",n4
 生きる,いきる,to live,n4
 苦い,にがい,bitter,n4
 沸く,わく,"to boil, to grow hot",n4
 意見,いけん,"opinion, view, idea",n4
-やはり; やっぱり,やはり; やっぱり,"as I thought, absolutely",n4
 漫画,まんが,"comic (book), cartoon",n4
-ステレオ,ステレオ,stereo,n4
 医学,いがく,medical science,n4
-テキスト,テキスト,text; text book,n4
 ～月,～つき,month,n4
 折る,おる,"to snap, to break; to bend",n4
 ～会,～かい,~ meeting,n4
-うかがう,うかがう,to ask,n4
 聞こえる,きこえる,"to be heard, to be audible",n4
 僕,ぼく,I (used by men towards those of equal or lower status),n4
 必ず,かならず,"surely, certainly",n4
 壊す,こわす,"to break, to break down",n4
 怒る,おこる,to get angry; to scold angrily,n4
 床屋,とこや,barber's (shop),n4
-オートバイ,オートバイ,motorcycle (lit: auto-bi(ke)),n4
 運動,うんどうする,exercise,n4
 止む,やむ,"to cease, to stop",n4
-もし,もし,if,n4
 表,おもて,surface; front; outside,n4
 大学生,だいがくせい,"college student, university student",n4
 運転手,うんてんしゅ,driver (by occupation),n4
@@ -41,23 +31,16 @@ expression,reading,meaning,tags
 お宅,おたく,(someone else's) house; home -- polite word for 家 (いえ) --,n4
 柔らかい,やわらかい,"soft (in reference to texture), tender",n4
 拾う,ひろう,"to pick up (something), to find",n4
-～ございます,～ございます,"to be (polite), to exist",n4
 気,き,"spirit, mood",n4
 比べる,くらべる,to compare,n4
-ほとんど,ほとんど,"mostly, almost",n4
-つもり,つもり,"intention, plan",n4
 郊外,こうがい,"suburb, outskirts",n4
-だめ,だめ,"useless, no good, hopeless",n4
 売り場,うりば,place where things are sold,n4
 正月,しょうがつ,"New Year, New Year's Day",n4
 規則,きそく,"rule, regulation",n4
-うん,うん,"yes (informal), all right (ok)",n4
 発音,はつおん,pronunciation,n4
 焼く,やく,"to bake, to grill",n4
 屋上,おくじょう,rooftop,n4
 失礼,しつれい,"discourtesy, impoliteness; Excuse me",n4
-ごみ,ごみ,"trash, garbage",n4
-アフリカ,アフリカ,Africa,n4
 点,てん,"mark, score, grade; point, dot",n4
 一生懸命,いっしょうけんめい,"very hard (as in ""to work hard""), with utmost effort",n4
 今度,こんど,"now, this time, near future, one of these days, next time",n4
@@ -65,7 +48,6 @@ expression,reading,meaning,tags
 建てる,たてる,to build,n4
 複雑,ふくざつ,"complexity, complication",n4
 彼,かれ,"he, boyfriend",n4
-いらっしゃる,いらっしゃる,"-- honorific expression for いく, くる, and いる --",n4
 布団,ふとん,futon,n4
 大事,だいじ,"important, valuable, serious matter",n4
 贈り物,おくりもの,a gift; a present,n4
@@ -75,35 +57,26 @@ expression,reading,meaning,tags
 台風,たいふう,typhoon,n4
 日,ひ,"sun, sunshine, day",n4
 ～軒,～けん,counter for houses,n4
-そう,そう,"really, (is that) so; yes, right",n4
 通る,とおる,"to pass (by), to go through",n4
 過ぎる,すぎる,"to exceed, to go beyond",n4
-レポート; リポート,レポート; リポート,report,n4
 葉,は,leaf,n4
 必要,ひつよう,necessary,n4
 課長,かちょう,section manager,n4
 地震,じしん,earthquake,n4
-すると,すると,"and, then",n4
 止める,やめる,"to end, to stop",n4
-ガラス,ガラス,"glass, pane",n4
 ～学部,～がくぶ,department of a university,n4
 厳しい,きびしい,hard; rigorous; strict,n4
-エスカレーター,エスカレーター,escalator,n4
 人口,じんこう,population,n4
 月,つき,moon,n4
 絹,きぬ,silk,n4
-ちっとも,ちっとも,not at all (neg. verb),n4
 深い,ふかい,"deep, profound",n4
 壊れる,こわれる,"to be broken, to break",n4
 揺れる,ゆれる,"to shake, to sway",n4
 落る,おちる,"to fall, to drop",n4
-できるだけ,できるだけ,"if at all possible, as much as possible",n4
 悲しい,かなしい,"sad, sorrowful",n4
 中学校,ちゅうがっこう,junior high school pupil,n4
-ガス,ガス,gas,n4
 祈る,いのる,to pray; to wish,n4
 盛ん,さかん,"prosperous, active, thriving",n4
-アルバイト,アルバイト,part-time job,n4
 起こす,おこす,to wake (someone) up,n4
 致す,いたす,-- extra-modest expression for する --,n4
 噛む,かむ,"to bite, to chew",n4
@@ -112,10 +85,8 @@ expression,reading,meaning,tags
 嘘,うそ,lie,n4
 小説,しょうせつ,novel,n4
 親,おや,a parent,n4
-それに,それに,moreover; besides,n4
 西洋,せいよう,"the West, Western countries",n4
 思う,おもう,"to think, to feel",n4
-パート (タイム),パート (タイム),part time (esp. female part time employees),n4
 時代,じだい,"age, period, epoch, era",n4
 申し上げる,もうしあげる,"(humble)to say, to tell",n4
 ～式,～しき,~ ceremony; ~ style,n4
@@ -132,27 +103,20 @@ expression,reading,meaning,tags
 決まる,きまる,to be set; fixed (v.i.),n4
 開く,ひらく,to open; to hold (an event),n4
 逃げる,にげる,"to escape, to run away",n4
-だから,だから,so; therefore,n4
 残念,ざんねん,regret; regrettable,n4
 畳,たたみ,tatami mat (Japanese straw mat),n4
 丁寧,ていねい,"polite, courteous, careful",n4
 地理,ちり,geography,n4
-さっき,さっき,a little while ago,n4
 怖い,こわい,"scary, frightening",n4
 包む,つつむ,"to wrap, to cover",n4
-なるべく,なるべく,"if possible, as much as possible",n4
 無理,むり,"unreasonable, impossible",n4
-サンドイッチ,サンドイッチ,sandwich,n4
 会議室,かいぎしつ,conference room,n4
 品物,しなもの,goods,n4
 人形,にんぎょう,"doll, figure",n4
 利用,りよう,"use, utilization",n4
 飾る,かざる,"to decorate, to adorn",n4
 恥ずかしい,はずかしい,"ashamed, embarrassed",n4
-いくら～ても,いくら～ても,however much one may ~,n4
 用事,ようじ,business to take care of; tasks; errands,n4
-ビル,ビル,(abbr.) building,n4
-けんかする,けんかする,quarrel,n4
 頑張る,がんばる,"to try one's best, to try hard, to persist",n4
 投げる,なげる,"to pitch, to cast away",n4
 故障,こしょうする,breakdown,n4
@@ -160,13 +124,10 @@ expression,reading,meaning,tags
 受ける,うける,"to take (an examination, interview, etc.); to receive",n4
 気分,きぶん,"feeling, mood",n4
 間違える,まちがえる,to make a mistake,n4
-そんな,そんな,"such, like that, that sort of",n4
 星,ほし,star,n4
 場合,ばあい,"case, situation",n4
-やっと,やっと,"at last, finally",n4
 足りる,たりる,to be sufficient; to be enough,n4
 行う,おこなう,to carry out; to conduct (typically used in written language),n4
-ぶどう,ぶどう,grapes,n4
 無くなる,なくなる,"to disappear, to get lost",n4
 準備,じゅんびする,prepare,n4
 世界,せかい,world,n4
@@ -180,12 +141,10 @@ expression,reading,meaning,tags
 決める,きめる,to decide (v.t.),n4
 調べる,しらべる,to check; to look up; to inquire; to search,n4
 寝坊,ねぼう,sleeping in late,n4
-パパ,パパ,"papa, daddy",n4
 光る,ひかる,"to shine, to glitter",n4
 夫,おっと,husband,n4
 雲,くも,cloud,n4
 坂,さか,"slope, hill",n4
-～(て) しまう,～(て) しまう,to end up ~,n4
 飛行場,ひこうじょう,airport,n4
 柔道,じゅうどう,judo,n4
 決して,けっして,never,n4
@@ -196,9 +155,7 @@ expression,reading,meaning,tags
 昔,むかし,old days; past,n4
 美しい,うつくしい,"beautiful, lovely",n4
 捨てる,すてる,"throw away (trash), dump, discard",n4
-なさる,なさる,-- honorific expression for する --,n4
 事,こと,"thing(s), matter(s), fact",n4
-どんどん,どんどん,quickly and steadily; at a rapid pace,n4
 試合,しあい,"match, game, competition",n4
 適当,てきとう,"fitness, suitability",n4
 素晴らしい,すばらしい,wonderful; terrific,n4
@@ -213,53 +170,39 @@ expression,reading,meaning,tags
 歯医者,はいしゃ,dentist,n4
 熱心,ねっしん,enthusiasm,n4
 始める,はじめる,"to start, to begin",n4
-もらう,もらう,to receive,n4
 泣く,なく,to cry,n4
 治る,なおる,to get better; to recover from illness (v.i.),n4
 熱,ねつ,"fever, temperature",n4
 お祭り,おまつり,festival,n4
 水道,すいどう,"water service, water line",n4
 匂い,におい,"odor, smell",n4
-ベル,ベル,bell,n4
 赤ん坊,あかんぼう,baby,n4
-おかしい,おかしい,strange; odd; funny,n4
 事故,じこ,accident,n4
 変,へん,"strange, odd",n4
 辞典,じてん,"encyclopedia, reference book",n4
 残る,のこる,"to remain (v.i.), to be left",n4
 立てる,たてる,"to stand (something) up, to erect (something)",n4
-くれる,くれる,"to give, to do for",n4
 ～員,～いん,member of ~,n4
 原因,げんいん,"cause, origin, source",n4
 驚く,おどろく,"to be surprised, to be astonished",n4
-いただく,頂く,-- extra-modest expression for たべる and のむ; humble expression for もらう --,n4
 祖母,そぼ,grandmother,n4
 場所,ばしょ,"place, location",n4
 答,こたえ,"answer, response",n4
-もちろん,もちろん,"certainly, of course",n4
 漬ける,つける,"to soak, to moisten, to pickle",n4
 受付,うけつけ,reception(ist) desk,n4
 内,うち,"within, inside",n4
-スクリーン,スクリーン,screen,n4
 増える,ふえる,"to increase, to multiply",n4
-または,または,"or, otherwise",n4
-けがする,けがする,"injury (to animate object), hurt",n4
 以下,いか,"less than, below",n4
 選ぶ,えらぶ,to choose; to select,n4
-～ばかり,～ばかり,"just did ~, only",n4
 心,こころ,"heart, mind",n4
-～だす,～だす,to start doing ~,n4
-サラダ,サラダ,salad,n4
 届ける,とどける,to deliver (v.t.),n4
 挨拶,あいさつする,greet(ing),n4
 景色,けしき,"scenery, landscape",n4
 確か,たしか,"if I remember correctly; certain, definite",n4
-ステーキ,ステーキ,steak,n4
 食料品,しょくりょうひん,"foodstuff, groceries",n4
 森,もり,forest,n4
 以内,いない,"within, less (no more) than",n4
 予定,よてい,"plans, arrangement, schedule",n4
-オーバー,オーバー,"overcoat; over, exceeding, exaggeration",n4
 乾く,かわく,to get dry,n4
 石,いし,stone,n4
 思い出す,おもいだす,"to recall, to remember",n4
@@ -275,8 +218,6 @@ expression,reading,meaning,tags
 探す,さがす,"to search, to seek, to look for",n4
 形,かたち,shape,n4
 運転,うんてんする,driving,n4
-すっかり,すっかり,"all, completely",n4
-アナウンサー,アナウンサー,announcer,n4
 お土産,おみやげ,souvenir,n4
 消しゴム,けしゴム,eraser,n4
 旅館,りょかん,a Japanese inn,n4
@@ -293,30 +234,22 @@ expression,reading,meaning,tags
 技術,ぎじゅつ,"technique, technology, skill",n4
 小鳥,ことり,small bird,n4
 下宿,げしゅく,"lodging, boarding house",n4
-ジャム,ジャム,jam,n4
 招待,しょうたいする,invitation,n4
 鏡,かがみ,mirror,n4
-はず,はず,it should be so,n4
 法律,ほうりつ,law,n4
 進む,すすむ,"to advance, to proceed",n4
 楽む,たのしむ,to enjoy,n4
 貿易,ぼうえき,trade,n4
 反対,はんたい,"oppose, opposition, resistance",n4
-おる,おる,-- extra-modest expression for いる --,n4
 申す,もうす,-- extra-modest (humble) expression for 言う (いう) --,n4
 試験,しけん,an exam,n4
 真面目,まじめ,"diligent, serious",n4
-ごらんになる,,-- honorific expression for みる --,n4
 店員,てんいん,clerk; shop-employee,n4
 泊まる,とまる,to stay (over night) (v.i.),n4
-よろしい,よろしい,"(hon.) good, OK, all right",n4
 今夜,こんや,"this evening, tonight",n4
-おつり,おつり,change; balance of money returned to the purchaser,n4
-チェックする,チェックする,check,n4
 会話,かいわ,conversation,n4
 空気,くうき,"air, atmosphere",n4
 交通,こうつう,"traffic, transportation",n4
-ワープロ,ワープロ,word processor,n4
 喜ぶ,よろこぶ,"to rejoice, to be delighted, to be glad",n4
 急行,きゅうこう,express train or bus,n4
 皆,みな,everyone,n4
@@ -324,7 +257,6 @@ expression,reading,meaning,tags
 空港,くうこう,airport,n4
 手袋,てぶくろ,glove(s),n4
 校長,こうちょう,"principal, headmaster",n4
-ごちそう,ごちそう,"feast, treating (someone)",n4
 踊り,おどり,dance,n4
 興味,きょうみ,interest (in something),n4
 引っ越す,ひっこす,to move to a new place of residence,n4
@@ -333,7 +265,6 @@ expression,reading,meaning,tags
 遠慮,えんりょする,"restraint, reserve, hesitate",n4
 亡くなる,なくなる,to pass away,n4
 科学,かがく,science,n4
-はっきり,はっきり,"clearly, distinctly",n4
 差し上げる,さしあげる,-- humble expression for あげる --,n4
 気持ち,きもち,"feeling, sensation, mood",n4
 祖父,そふ,grandfather,n4
@@ -343,24 +274,19 @@ expression,reading,meaning,tags
 入学,にゅうがくする,entry to school or university,n4
 片付ける,かたづける,"to (clean) tidy up (v.t.), to put away",n4
 写す,うつす,to copy (v.t.); to photograph,n4
-パソコン,パソコン,(personal) computer,n4
 部長,ぶちょう,department (division) manager,n4
 火事,かじ,fire,n4
 足す,たす,to add (numbers),n4
 教会,きょうかい,church,n4
 彼ら,かれら,they (usually male),n4
 一杯,いっぱい,"full, to the utmost",n4
-アメリカ,アメリカ,"America, U.S.A.",n4
 男性,だんせい,man; male,n4
 理由,りゆう,reason,n4
 生産,せいさんする,production; to produce,n4
 着物,きもの,kimono; Japanese traditional dress,n4
-おもちゃ,おもちゃ,a toy,n4
 暮れる,くれる,"to get dark, to come to an end",n4
 釣る,つる,to fish,n4
-～ちゃん,～ちゃん,suffix for familiar (female) person,n4
 打つ,うつ,"to hit, to strike",n4
-あんな,あんな,"such, like that",n4
 謝る,あやまる,to apologize,n4
 昼間,ひるま,"daytime, during the day",n4
 教育,きょういく,education,n4
@@ -380,38 +306,28 @@ expression,reading,meaning,tags
 血,ち,blood,n4
 ～続ける,～つづける,to continue doing ~,n4
 毛,け,"hair, fur",n4
-ひどい,ひどい,"terrible, awful, unfair, cruel",n4
 例えば,たとえば,"for example, e.g.",n4
 中々,なかなか,"very, considerably, quite",n4
 随分,ずいぶん,extremely,n4
-～やすい,～やすい,easy to do ~,n4
 押し入れ,おしいれ,closet,n4
 電灯,でんとう,electric light,n4
 叱る,しかる,to scold,n4
-サンダル,サンダル,sandal,n4
-びっくりする,びっくりする,to be surprised,n4
-うまい,うまい,delicious; skillful; fortunate,n4
 変える,かえる,"to change, to alter, to vary",n4
 講堂,こうどう,auditorium,n4
 子,こ,child,n4
 沸かす,わかす,to boil,n4
-レジ,レジ,register,n4
-しばらく,しばらく,little while,n4
 特に,とくに,particularly,n4
 空く,あく,"to open, to become empty (vacant)",n4
 計画,けいかくする,"plan, project, schedule",n4
 通り,とおり,"~ Street, ~ Avenue",n4
 下着,したぎ,underwear,n4
 経済,けいざい,"economics, finance, economy",n4
-こう,こう,"like this, this way",n4
 是非,ぜひ,"certainly, by all means; without fail",n4
 裏,うら,"reverse side, back",n4
 為,ため,"good, advantage, in order to",n4
-おいでになる,おいでになる,(hon.) to be,n4
 変わる,かわる,"to change (v.i.), to be transformed, to vary",n4
 以外,いがい,"other than, with the exception of, excepting",n4
 済む,すむ,"to finish, to end",n4
-ハンバーグ,ハンバーグ,hamburger steak,n4
 市,し,city,n4
 引き出し,ひきだし,drawer,n4
 遊び,あそび,play,n4
@@ -420,8 +336,6 @@ expression,reading,meaning,tags
 見える,みえる,to be visible; -- polite verb meaning 来る (くる) --,n4
 十分,じゅうぶん,enough,n4
 音,おと,"sound, note",n4
-きっと,きっと,"surely, definitely, undoubtedly, certainly",n4
-まず,まず,"first (of all), to start with",n4
 遠く,とおく,"far away, distant",n4
 大体,だいたい,approximately; in most cases; in general; to begin with (same as もともと),n4
 折れる,おれる,"to break, to be folded, to give in; to turn (a corner)",n4
@@ -436,43 +350,33 @@ expression,reading,meaning,tags
 島,しま,island,n4
 道具,どうぐ,tool,n4
 滑る,すべる,"to slide, to slip",n4
-それほど,それほど,to that degree; extent,n4
 以上,いじょう,more than; this is all,n4
-～まま,～まま,as it is,n4
 特急,とっきゅう,limited express (train faster than an express),n4
-プレゼント,プレゼント,"present, gift",n4
-～(に) よると,～(に) よると,according to ~,n4
 妻,つま,wife (humble),n4
 帰り,かえり,"return, coming back",n4
 具合,ぐあい,"condition, state, health",n4
 堅; 硬; 固い,かたい,"solid, hard, firm",n4
 駐車場,ちゅうしゃじょう,parking lot,n4
-スーツ,スーツ,suit,n4
 危険,きけん,"danger, risk, hazard",n4
 髪,かみ,hair,n4
 天気予報,てんきよほう,weather forecast,n4
 彼女,かのじょ,girlfriend; she,n4
 間,あいだ,"space, interval",n4
 卒業,そつぎょう,graduation,n4
-それで,それで,"and (conj.), thereupon, because of that",n4
 枝,えだ,"branch, twig",n4
 専門,せんもん,major; speciality,n4
-そろそろ,そろそろ,"gradually, soon",n4
 送る,おくる,"to send, to dispatch",n4
-あげる,あげる,to give,n4
 騒ぐ,さわぐ,"to make noise, to clamor",n4
 尋ねる,たずねる,to inquire (same as 質問する),n4
 放送,ほうそうする,broadcasting,n4
 政治,せいじ,politics,n4
 市民,しみん,citizen,n4
-ファックス,ファックス,fax,n4
 負ける,まける,"to lose (a game) (v.i.), to be defeated",n4
 指輪,ゆびわ,(finger) ring,n4
 田舎,いなか,"rural, countryside",n4
 見つける,みつける,"to discover, to find (v.t.)",n4
 高校生,こうこうせい,high school student,n4
 講義,こうぎ,a lecture,n4
-そんなに,そんなに,"so much, like that",n4
 昼休み,ひるやすみ,"lunch break, noon recess",n4
 忘れ物,わすれもの,"lost article, something forgotten",n4
 下りる,おりる,"to get down, to go; come down",n4
@@ -482,7 +386,6 @@ expression,reading,meaning,tags
 日記,にっき,"diary, journal",n4
 高校; 高等学校,こうこう; こうとうがっこう,high school; senior high school,n4
 似る,にる,"to resemble, to be similar",n4
-～おわる,～おわる,to finish doing ~,n4
 暖房,だんぼう,heating,n4
 留守,るす,absence; not at home,n4
 割合,わりあい,"rate, ratio, percentage",n4
@@ -490,8 +393,6 @@ expression,reading,meaning,tags
 慣れる,なれる,to grow accustomed to,n4
 普通,ふつう,common; usual,n4
 手伝う,てつだう,to help,n4
-なるほど,なるほど,I see; I now understand,n4
-くださる,くださる,"(hon.) to give, to confer",n4
 息子,むすこ,(humble) son,n4
 お子さん,おこさん,(someone else's) child (polite),n4
 会場,かいじょう,"venue, meeting place",n4
@@ -505,9 +406,7 @@ expression,reading,meaning,tags
 ご存じ,ごぞんじ,"knowing, acquaintance",n4
 下る,さがる,"to descend, to drop, to fall",n4
 字,じ,letter; character,n4
-アジア,アジア,Asia,n4
 褒める,ほめる,to praise; to say nice things,n4
-あ,あ,Ah,n4
 最も,もっとも,most,n4
 合う,あう,"to fit, to match",n4
 ～代,～だい,~ age; period,n4
@@ -516,7 +415,6 @@ expression,reading,meaning,tags
 退院,たいいんする,leaving hospital,n4
 展覧会,てんらんかい,exhibition,n4
 久しぶり,ひさしぶり,it has been a long time; for the first time in a long time,n4
-カーテン,カーテン,curtain,n4
 汽車,きしゃ,train (steam),n4
 遅れる,おくれる,to (be) become late,n4
 見つかる,みつかる,"to be found (v.i.), to be discovered",n4
@@ -524,7 +422,6 @@ expression,reading,meaning,tags
 太る,ふとる,to gain weight,n4
 注射,ちゅうしゃ,injection,n4
 様,よう,"way, manner, kind",n4
-～おき,～おき,after every ~,n4
 最初,さいしょ,"beginning, first",n4
 御～,ご～,honorable ~,n4
 安心,あんしん,"peace of mind, relief",n4
@@ -548,7 +445,6 @@ expression,reading,meaning,tags
 点く,つく,"to be started, to be switched on",n4
 この間,このあいだ,"the other day, recently",n4
 格好,かっこう,"appearance, manner, shape, form, posture",n4
-かまう,,"to mind, to care about, to be concerned about",n4
 続ける,つづける,"to continue, to keep up",n4
 落す,おとす,"to drop, to lose",n4
 明日,あす,tomorrow,n4
@@ -557,15 +453,11 @@ expression,reading,meaning,tags
 割れる,われる,to break,n4
 背中,せなか,back (of body),n4
 新聞社,しんぶんしゃ,newspaper company,n4
-いじめる,いじめる,"to bully, to torment",n4
 回る、回す,まわる、まわす,"to go around, to revolve",n4
 ～君,～くん,"Mr. (junior) ~, master ~",n4
-おっしゃる,おっしゃる,-- honorific expression for いう --,n4
 眠い,ねむい,"sleepy, drowsy",n4
 濡れる,ぬれる,to get wet,n4
 倒れる,たおれる,"to collapse, to break down",n4
-スーパー (マーケット),スーパー (マーケット),supermarket,n4
-アクセサリー,アクセサリー,accessory,n4
 考える,かんがえる,to think (about); to consider,n4
 向かう,むかう,"to face, to go towards",n4
 自由,じゆう,freedom,n4
@@ -576,19 +468,13 @@ expression,reading,meaning,tags
 失敗,しっぱい,"failure, mistake",n4
 工業,こうぎょう,(manufacturing) industry,n4
 移る,うつる,to move (from a house); to transfer (from a department); to shift,n4
-スーツケース,スーツケース,suitcase,n4
-ひげ,ひげ,beard,n4
 研究室,けんきゅうしつ,the professor's office; laboratory,n4
 工場,こうじょう,factory,n4
 紹介,しょうかい,an introduction,n4
-けれど; けれども,けれど; けれども,"but, although",n4
 舟,ふね,"ship, boat",n4
 動く,うごく,to move,n4
-～(に) ついて,～(に) ついて,"about, concerning",n4
-コンサート,コンサート,concert,n4
 虫,むし,insect,n4
 優しい,やさしい,"kind (person), gentle (person), easy (problem)",n4
-コンピュータ; コンピューター,コンピュータ; コンピューター,computer,n4
 植える,うえる,to plant,n4
 両方,りょうほう,"both sides, both parties",n4
 汚れる,よごれる,to become dirty,n4
@@ -606,11 +492,9 @@ expression,reading,meaning,tags
 復習,ふくしゅう,"review (of lessons), revision",n4
 間に合う,まにあう,to be in time for,n4
 役に立つ,やくにたつ,"to be helpful, to be useful",n4
-もうすぐ,もうすぐ,very soon; in a few moments; days,n4
 真中,まんなか,"middle, center",n4
 戻る,もどる,to return (v.i.); to come back,n4
 研究,けんきゅう,"study, research, investigation",n4
-ケーキ,ケーキ,cake,n4
 草,くさ,grass,n4
 込む,こむ,to be crowded,n4
 この頃,このごろ,"these days, nowadays",n4
@@ -626,8 +510,6 @@ expression,reading,meaning,tags
 看護婦,かんごふ,(female) nurse,n4
 見物,けんぶつ,sightseeing,n4
 相談,そうだんする,consultation,n4
-ガソリンスタンド,ガソリンスタンド,"gas station, service station",n4
-テニス,テニス,tennis,n4
 眠る,ねむる,to sleep,n4
 上がる,あがる,"to rise, to go up",n4
 翻訳,ほんやく,translation,n4
@@ -639,22 +521,16 @@ expression,reading,meaning,tags
 会議,かいぎ,business meeting; conference,n4
 湖,みずうみ,lake,n4
 集まる,あつまる,"to gather (v.i.), to collect",n4
-～にくい,～にくい,difficult to do ~,n4
 生活,せいかつする,"living, life; to live",n4
 糸,いと,thread,n4
 関係,かんけい,"relation(ship), connection",n4
-ピアノ,ピアノ,piano,n4
 ～目,～め,"number ~ sequence, ~nd; ~th",n4
 番組,ばんぐみ,broadcast program,n4
 急,きゅう,"urgent, sudden; steep",n4
 棚,たな,"shelves, rack",n4
 木綿,もめん,cotton,n4
 輸出,ゆしゅつする,export,n4
-タイプ,タイプ,"type, style",n4
-すり,すり,pickpocket,n4
 嬉しい,うれしい,to be happy; to be glad,n4
-アルコール,アルコール,alcohol,n4
-ソフト,ソフト,soft; soft hat; software,n4
 神社,じんじゃ,Shinto shrine,n4
 大分,だいぶ,"fairly well, to a large extent, considerably, pretty much",n4
 楽しみ,たのしみ,"pleasure, joy",n4
@@ -662,6 +538,4 @@ expression,reading,meaning,tags
 電報,でんぽう,telegram,n4
 家内,かない,(one's own) wife,n4
 指,ゆび,finger,n4
-これから,これから,"from now on, after this",n4
-たまに,たまに,occasionally,n4
 社会,しゃかい,society,n4
