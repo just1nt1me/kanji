@@ -1,117 +1,117 @@
 expression,reading,meaning,tags
-〜(日本) 式,～(にほん) しき,"custom,",n2
-～位,～い,~th place,n2
-～園,～えん,~ garden (especially man made),n2
-～日,～か,counter for days,n2
-～下,～か,under ~,n2
-～化,～か,action of making something,n2
-～科,～か,"family, group, course",n2
-～歌,～か,song of ~,n2
-～画,～が,"picture, painting",n2
-～外,～がい,out of ~,n2
-～難い,～がたい,hard (difficult) to do ~,n2
-～刊,～かん,"~ issued (magazine, newspaper)",n2
-～間,～かん,"between, during",n2
-～巻,～かん,volume,n2
-～館,～かん,"~ hall, ~ building",n2
-～感,～かん,"feeling, sense, impression",n2
-～期,～き,"~age, ~period",n2
-～器,～き,"device, equipment",n2
-～機,～き,machine,n2
-～気味,～ぎみ,slightly ~,n2
-～教,～きょう,religion,n2
-～行,～ぎょう,"line, row",n2
-～業,～ぎょう,type of business,n2
-～切れ,～きれ,out of ~,n2
-～口,～くち,"~ opening; ~ entrance, ~ exit",n2
-～家,～け,"~'s family, the house of ~",n2
-～形,～けい,shape of ~,n2
-～系,～けい,"~ system, ~ lineage, ~ group",n2
-～圏,～けん,"bloc, sphere, area",n2
-～校,～こう,counter for school,n2
-～港,～こう,~ port,n2
-～号,～ごう,counter for magazine; the name of ship,n2
-～国,～こく,nation of ~,n2
-～毎,～ごと,"every ~, each ~",n2
-～山,～さん,the name of mountain,n2
-～産,～さん,made in ~,n2
-～史,～し,history of ~,n2
-～紙,～し,"newspaper, type of paper",n2
-～寺,～じ,the name of temple,n2
-～時間目,～じかんめ,"~th hour, ~th period",n2
-～室,～しつ,counter for room,n2
-～車,～しゃ,~ car,n2
-～者,～しゃ,person,n2
-～社,～しゃ,counter for company,n2
-～手,～しゅ,"~ player, person who does ~",n2
-～酒,～しゅ,kind of alcohol,n2
-～集,～しゅう,collection of ~,n2
-～所,～しょ,place,n2
-～女,～じょ,count for sisters,n2
-～省,～しょう,kind of ministry,n2
-～商,～しょう,"merchant, business",n2
-～勝,～しょう,count for victory,n2
-～条,～じょう,counter for article,n2
-～場,～じょう,"kind of field, ground",n2
-～畳,～じょう,"count for tatami, mat",n2
-～色,～しょく,kind of color,n2
-～過ぎる,～すぎる,too much ~,n2
-～済,～ずみ,finished,n2
-～席,～せき,counter for seats,n2
-～船,～せん,counter for ships,n2
-～戦,～せん,"counter for games, matches",n2
-～前,～ぜん,before ~,n2
-～沿い,～そい,along,n2
-～艘,～そう,counter for ships,n2
-～足,～そく,counter for shoes,n2
-～団,～だん,"group, corps, party",n2
-～着,～ちゃく,counter for clothes; finishing place,n2
-～庁,～ちょう,"office, agency",n2
-～兆,～ちょう,trillion,n2
-～長,～ちょう,"leader, head",n2
-～帳,～ちょう,"~ book, notebook",n2
-～丁目,～ちょうめ,"~ district (of a town; city, block)",n2
-～通,～つう,counter for letters,n2
-～遣い,～づかい,use of ~,n2
-～付,～つき,with ~,n2
-～続く,～つづく,"follow, continue, go on",n2
-～辛い,～づらい,hard to do ~,n2
-～滴,～てき,drop,n2
-～点,～てん,counter for scores,n2
-～頭,～とう,counter for animals,n2
-～等,～とう,"level, place",n2
-～島,～とう,kind of islands,n2
-～道,～どう,"kind of path, road",n2
-～通り,～とおり,"in accordance with ~; following ~; ~ street, ~ avenue",n2
-～内,～ない,inside ~,n2
-～年生,～ねんせい,counter for school year,n2
-～泊,～はく,"counter for staying (e.g., 2 nights)",n2
-～発,～はつ,counter for bullets,n2
-～番目,～ばんめ,~th,n2
-～費,～ひ,cost of ~,n2
-～病,～びょう,kind of disease,n2
-～部,～ぶ,~ part,n2
-～風,～ふう,~ style,n2
-～振り,～ぶり,after an interval of ~,n2
-～遍,～へん,time,n2
-～弁,～べん,"speech, dialect",n2
-～歩,～ほ,"step, pace",n2
-～向け,～むけ,for ~,n2
-～名,～めい,counter for people,n2
-～問,～もん,counter for questions,n2
-～夜,～や,counter for nights,n2
-～流,～りゅう,"fashion, manner, way",n2
-～料,～りょう,"fare, charge",n2
-～領,～りょう,territory,n2
-～力,～りょく,power of ~,n2
-～論,～ろん,theory,n2
-～羽,～わ,counter for rabbits; birds,n2
+〜(日本) 式,にほん しき,"custom,",n2
+～位,い,th place,n2
+～園,えん, garden especially man made,n2
+～日,か,counter for days,n2
+～下,か,under ,n2
+～化,か,action of making something,n2
+～科,か,"family, group, course",n2
+～歌,か,song of ,n2
+～画,が,"picture, painting",n2
+～外,がい,out of ,n2
+～難い,がたい,hard difficult to do ,n2
+～刊,かん," issued magazine, newspaper",n2
+～間,かん,"between, during",n2
+～巻,かん,volume,n2
+～館,かん," hall,  building",n2
+～感,かん,"feeling, sense, impression",n2
+～期,き,"age, period",n2
+～器,き,"device, equipment",n2
+～機,き,machine,n2
+～気味,ぎみ,slightly ,n2
+～教,きょう,religion,n2
+～行,ぎょう,"line, row",n2
+～業,ぎょう,type of business,n2
+～切れ,きれ,out of ,n2
+～口,くち," opening  entrance,  exit",n2
+～家,け,"'s family, the house of ",n2
+～形,けい,shape of ,n2
+～系,けい," system,  lineage,  group",n2
+～圏,けん,"bloc, sphere, area",n2
+～校,こう,counter for school,n2
+～港,こう, port,n2
+～号,ごう,counter for magazine the name of ship,n2
+～国,こく,nation of ,n2
+～毎,ごと,"every , each ",n2
+～山,さん,the name of mountain,n2
+～産,さん,made in ,n2
+～史,し,history of ,n2
+～紙,し,"newspaper, type of paper",n2
+～寺,じ,the name of temple,n2
+～時間目,じかんめ,"th hour, th period",n2
+～室,しつ,counter for room,n2
+～車,しゃ, car,n2
+～者,しゃ,person,n2
+～社,しゃ,counter for company,n2
+～手,しゅ," player, person who does ",n2
+～酒,しゅ,kind of alcohol,n2
+～集,しゅう,collection of ,n2
+～所,しょ,place,n2
+～女,じょ,count for sisters,n2
+～省,しょう,kind of ministry,n2
+～商,しょう,"merchant, business",n2
+～勝,しょう,count for victory,n2
+～条,じょう,counter for article,n2
+～場,じょう,"kind of field, ground",n2
+～畳,じょう,"count for tatami, mat",n2
+～色,しょく,kind of color,n2
+～過ぎる,すぎる,too much ,n2
+～済,ずみ,finished,n2
+～席,せき,counter for seats,n2
+～船,せん,counter for ships,n2
+～戦,せん,"counter for games, matches",n2
+～前,ぜん,before ,n2
+～沿い,そい,along,n2
+～艘,そう,counter for ships,n2
+～足,そく,counter for shoes,n2
+～団,だん,"group, corps, party",n2
+～着,ちゃく,counter for clothes finishing place,n2
+～庁,ちょう,"office, agency",n2
+～兆,ちょう,trillion,n2
+～長,ちょう,"leader, head",n2
+～帳,ちょう," book, notebook",n2
+～丁目,ちょうめ," district of a town city, block",n2
+～通,つう,counter for letters,n2
+～遣い,づかい,use of ,n2
+～付,つき,with ,n2
+～続く,つづく,"follow, continue, go on",n2
+～辛い,づらい,hard to do ,n2
+～滴,てき,drop,n2
+～点,てん,counter for scores,n2
+～頭,とう,counter for animals,n2
+～等,とう,"level, place",n2
+～島,とう,kind of islands,n2
+～道,どう,"kind of path, road",n2
+～通り,とおり,"in accordance with  following   street,  avenue",n2
+～内,ない,inside ,n2
+～年生,ねんせい,counter for school year,n2
+～泊,はく,"counter for staying eg, 2 nights",n2
+～発,はつ,counter for bullets,n2
+～番目,ばんめ,th,n2
+～費,ひ,cost of ,n2
+～病,びょう,kind of disease,n2
+～部,ぶ, part,n2
+～風,ふう, style,n2
+～振り,ぶり,after an interval of ,n2
+～遍,へん,time,n2
+～弁,べん,"speech, dialect",n2
+～歩,ほ,"step, pace",n2
+～向け,むけ,for ,n2
+～名,めい,counter for people,n2
+～問,もん,counter for questions,n2
+～夜,や,counter for nights,n2
+～流,りゅう,"fashion, manner, way",n2
+～料,りょう,"fare, charge",n2
+～領,りょう,territory,n2
+～力,りょく,power of ,n2
+～論,ろん,theory,n2
+～羽,わ,counter for rabbits birds,n2
 相変わらず,あいかわらず,"as usual, as always, as before, as ever, still",n2
 扇ぐ,あおぐ,"to fan, to flap",n2
 青白い,あおじろい,pale,n2
 呆れる,あきれる,"to be shocked, to be appalled",n2
 飽くまで,あくまで,"to the end, to the last, stubbornly",n2
-明くる～,あくる～,"next, following",n2
+明くる～,あくる,"next, following",n2
 明け方,あけがた,dawn,n2
 憧れる,あこがれる,"to long for, to yearn after",n2
 朝寝坊,あさねぼう,"oversleeping, late riser",n2
@@ -124,7 +124,7 @@ expression,reading,meaning,tags
 厚かましい,あつかましい,"impudent, shameless,",n2
 圧縮,あっしゅく,"compression, condensation, pressure",n2
 宛名,あてな,"address, direction",n2
-当てはまる,あてはまる,"to be applicable, to come under (a category)",n2
+当てはまる,あてはまる,"to be applicable, to come under a category",n2
 当てはめる,あてはめる,"to apply, to adapt",n2
 暴れる,あばれる,"to act violently, to rage",n2
 脂,あぶら,"fat, tallow, lard",n2
@@ -144,18 +144,18 @@ expression,reading,meaning,tags
 有難い,ありがたい,"grateful, thankful, appreciated",n2
 荒れる,あれる,"to be stormy, to be rough, to be ruined",n2
 慌ただしい,あわただしい,"busy, hurried",n2
-慌てる,あわてる,"to become confused (disconcerted, disorganized), to be flustered, to panic, to hurry, to rush, to hasten",n2
-安易,あんい,easy-going,n2
+慌てる,あわてる,"to become confused disconcerted, disorganized, to be flustered, to panic, to hurry, to rush, to hasten",n2
+安易,あんい,easygoing,n2
 案外,あんがい,"unexpectedly, surprisingly",n2
 言い出す,いいだす,"to start talking, to suggest",n2
 言い付ける,いいつける,"to tell, to order",n2
 意義,いぎ,"meaning, significance",n2
 生き生き,いきいき,"vividly, lively",n2
-幾～,いく～,several ~,n2
+幾～,いく,several ,n2
 育児,いくじ,"childcare, nursing",n2
 幾分,いくぶん,somewhat,n2
 生け花,いけばな,flower arrangement,n2
-以後,いご,after this; from now on; hereafter,n2
+以後,いご,after this from now on hereafter,n2
 以降,いこう,"on and after, hereafter",n2
 勇ましい,いさましい,"brave, valiant",n2
 衣食住,いしょくじゅう,"food, clothing and shelter",n2
@@ -171,7 +171,7 @@ expression,reading,meaning,tags
 行ってらっしゃい,いってらっしゃい,"have a nice day, see you",n2
 移転,いてん,"moving, transfer",n2
 井戸,いど,water well,n2
-緯度,いど,latitude (navigation),n2
+緯度,いど,latitude navigation,n2
 威張る,いばる,"to be proud, to swagger",n2
 嫌がる,いやがる,"reluctant, to dislike",n2
 煎る,いる,to roast,n2
@@ -181,20 +181,20 @@ expression,reading,meaning,tags
 植木,うえき,"garden shrubs, trees, potted plant",n2
 飢える,うえる,to starve,n2
 浮ぶ,うかぶ,"to float, to rise to surface, to come to mind",n2
-浮かべる,うかべる,to float; to express,n2
+浮かべる,うかべる,to float to express,n2
 浮く,うく,to float,n2
-承る,うけたまわる,"(humble) to hear, to be told, to know",n2
+承る,うけたまわる,"humble to hear, to be told, to know",n2
 受取,うけとり,receipt,n2
-受け持つ,うけもつ,to take (be in) charge of,n2
+受け持つ,うけもつ,to take be in charge of,n2
 薄暗い,うすぐらい,"dim, gloomy",n2
 薄める,うすめる,"to dilute, to water down",n2
 打合せ,うちあわせ,"business meeting, previous arrangement",n2
 打ち消す,うちけす,"to deny, to negate",n2
 写る,うつる,"to be photographed, to be projected",n2
 有無,うむ,"existence or nonexistence, presence of absence consent or refusal, yes or no",n2
-埋める,うめる,"to bury, to fill up, to fill (a seat, a vacant position)",n2
+埋める,うめる,"to bury, to fill up, to fill a seat, a vacant position",n2
 敬う,うやまう,"to show respect, to honor",n2
-裏返す,うらがえす,"to turn inside out, to turn (something) over",n2
+裏返す,うらがえす,"to turn inside out, to turn something over",n2
 裏口,うらぐち,"backdoor, rear entrance",n2
 占う,うらなう,"to predict, to divine",n2
 恨み,うらみ,resentment,n2
@@ -202,32 +202,32 @@ expression,reading,meaning,tags
 羨む,うらやむ,to envy,n2
 売上,うりあげ,"amount sold, proceeds",n2
 売り上げ,うりあげ,"amount sold, sales, proceeds, takings, turnover",n2
-売り切れ,うりきれ,sold-out,n2
+売り切れ,うりきれ,soldout,n2
 売り切れる,うりきれる,to be sold out,n2
 売行き,うれゆき,sales,n2
 売れ行き,うれゆき,"sales, demand",n2
-上～,うわ～,upper ~,n2
+上～,うわ,upper ,n2
 運河,うんが,"canal, waterway",n2
 英文,えいぶん,sentence in English,n2
-英和,えいわ,"English-Japanese (e.g., dictionary)",n2
+英和,えいわ,"EnglishJapanese eg, dictionary",n2
 液体,えきたい,"liquid, fluid",n2
 絵の具,えのぐ,"colors, paints",n2
 偉い,えらい,"great, celebrated, remarkable,",n2
 宴会,えんかい,"party, banquet",n2
 園芸,えんげい,"horticulture, gardening",n2
-演劇,えんげき,play (theatrical),n2
+演劇,えんげき,play theatrical,n2
 円周,えんしゅう,circumference,n2
 遠足,えんそく,"trip, hike, picnic",n2
 延長,えんちょう,"extension, prolongation",n2
 煙突,えんとつ,chimney,n2
 追いかける,おいかける,to chase or run after someone,n2
-追い越す,おいこす,"to pass (e.g., car), to outdistance, to outstrip",n2
-応援,おうえん,"aid, assistance, help, support, reinforcement cheering, rooting (for), support",n2
+追い越す,おいこす,"to pass eg, car, to outdistance, to outstrip",n2
+応援,おうえん,"aid, assistance, help, support, reinforcement cheering, rooting for, support",n2
 王女,おうじょ,princess,n2
 応ずる,おうずる,"to respond, to comply with",n2
 応接,おうせつ,reception,n2
 応対,おうたい,"receiving, dealing with",n2
-往復,おうふく,"(col) round trip, coming and going, return ticket",n2
+往復,おうふく,"col round trip, coming and going, return ticket",n2
 欧米,おうべい,"Europe and America, the West",n2
 応用,おうよう,"application, put to practical use",n2
 大通り,おおどおり,main street,n2
@@ -241,14 +241,14 @@ expression,reading,meaning,tags
 送り仮名,おくりがな,part of word written in kana,n2
 お元気で,おげんきで,Take care',n2
 怠る,おこたる,"to neglect, to fail",n2
-押さえる,おさえる,"to pin down, to hold down, to press down, to hold in place, to hold steady to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part) to get a hold of, to obtain, to seize, to catch, to arrest",n2
+押さえる,おさえる,"to pin down, to hold down, to press down, to hold in place, to hold steady to cover esp a part of one's body with one's hand, to clutch a body part in pain, to press a body part to get a hold of, to obtain, to seize, to catch, to arrest",n2
 お先に,おさきに,"before, after you",n2
-伯父,おじ,(humble) uncle (older than one's parent),n2
-叔父,おじ,uncle (younger than one's parent),n2
+伯父,おじ,humble uncle older than one's parent,n2
+叔父,おじ,uncle younger than one's parent,n2
 惜しい,おしい,"regrettable, disappointing",n2
-伯父さん,おじさん,"(hon.) middle-aged gentleman, uncle",n2
-小父さん,おじさん,"(hon.) middle-aged gentleman, uncle",n2
-叔父さん,おじさん,"(hon.) middle-aged gentleman, uncle",n2
+伯父さん,おじさん,"hon middleaged gentleman, uncle",n2
+小父さん,おじさん,"hon middleaged gentleman, uncle",n2
+叔父さん,おじさん,"hon middleaged gentleman, uncle",n2
 お邪魔します,おじゃまします,Excuse me for disturbing you,n2
 お世話になりました,おせわになりました,I've been in your care,n2
 お大事に,おだいじに,"Take care of yourself, Take care!, Get well soon",n2
@@ -258,32 +258,32 @@ expression,reading,meaning,tags
 脅かす,おどかす,"to threaten, to coerce",n2
 落し物,おとしもの,lost property,n2
 驚かす,おどろかす,"to surprise, to frighten",n2
-お願いします,おねがいします,"Please (lit., I request)",n2
+お願いします,おねがいします,"Please lit, I request",n2
 各々,おのおの,"each, every, either",n2
-伯母,おば,(humble) aunt (older than one's parent),n2
-叔母,おば,aunt (younger than one's parent),n2
+伯母,おば,humble aunt older than one's parent,n2
+叔母,おば,aunt younger than one's parent,n2
 小母さん,おばさん,"lady, woman, ma'am",n2
 お参り,おまいり,"worship, shrine visit",n2
 お待たせしました,おまたせしました,Sorry to have kept you waiting,n2
 お待ちください,おまちください,Please wait a moment,n2
 思い掛けない,おもいがけない,"unexpected, casual",n2
-思い切り,おもいきり,"with all one's strength (heart), resignation, resolution",n2
+思い切り,おもいきり,"with all one's strength heart, resignation, resolution",n2
 思い込む,おもいこむ,"to be under impression that, to be convinced that",n2
 思いっ切り,おもいっきり,"very, much, fully",n2
 思いっきり,おもいっきり,to the best of one's ability,n2
 重たい,おもたい,"heavy, massive, serious",n2
-お休み,おやすみ,"holiday, absence; (exp.) Good night",n2
+お休み,おやすみ,"holiday, absence exp Good night",n2
 親指,おやゆび,thumb,n2
-御～,おん～,honorific ~,n2
+御～,おん,honorific ,n2
 恩恵,おんけい,"blessing, benefit",n2
 温室,おんしつ,greenhouse,n2
 温泉,おんせん,"spa, hot spring",n2
 温帯,おんたい,temperate zone,n2
-御中,おんちゅう,Messrs.,n2
+御中,おんちゅう,Messrs,n2
 女の人,おんなのひと,woman,n2
 蚊,か,mosquito,n2
 貝,かい,"shell, shellfish",n2
-外～,がい～,"foreign ~, outside ~",n2
+外～,がい,"foreign , outside ",n2
 開会,かいかい,opening of a meeting,n2
 会館,かいかん,"meeting hall, assembly hall",n2
 改札,かいさつ,examination of tickets,n2
@@ -310,8 +310,8 @@ expression,reading,meaning,tags
 書留,かきとめ,registered mail,n2
 書取,かきとり,dictation,n2
 垣根,かきね,hedge,n2
-限り,かぎり,"limit(s), as far as possible",n2
-各～,かく～,"every ~, each ~",n2
+限り,かぎり,"limits, as far as possible",n2
+各～,かく,"every , each ",n2
 架空,かくう,"imaginary, fiction, fanciful",n2
 各自,かくじ,"individual, each",n2
 拡充,かくじゅう,expansion,n2
@@ -320,13 +320,13 @@ expression,reading,meaning,tags
 拡張,かくちょう,"expansion, extension",n2
 角度,かくど,angle,n2
 学年,がくねん,"year in school, grade in school",n2
-学部,がくぶ,"department of a university undergraduate (course, program, etc.)",n2
+学部,がくぶ,"department of a university undergraduate course, program, etc",n2
 格別,かくべつ,exceptional,n2
 確率,かくりつ,probability,n2
 学力,がくりょく,"scholarship, knowledge",n2
 掛け算,かけざん,multiplication,n2
-可決,かけつ,"approval, adoption (e.g., motion, bill), passage",n2
-火口,かこう,crater (of a volcano),n2
+可決,かけつ,"approval, adoption eg, motion, bill, passage",n2
+火口,かこう,crater of a volcano,n2
 下降,かこう,"decline, descent, fall",n2
 重ねる,かさねる,"to pile up, to heap up, to stack up, to put on top of another to repeat many times over, to go through repeatedly, to accumulate",n2
 飾り,かざり,"decoration, ornament, trimmings",n2
@@ -337,16 +337,16 @@ expression,reading,meaning,tags
 貸間,かしま,room to let,n2
 貸家,かしや,house for rent,n2
 箇所,かしょ,"place, point, part",n2
-過剰,かじょう,"excess, over-",n2
+過剰,かじょう,"excess, over",n2
 課税,かぜい,taxation,n2
 下線,かせん,"underline, underscore",n2
 加速,かそく,acceleration,n2
 加速度,かそくど,acceleration,n2
 塊,かたまり,"lump, mass, cluster",n2
 固まる,かたまる,"to harden, to solidify, to become firm",n2
-片道,かたみち,one-way (trip),n2
+片道,かたみち,oneway trip,n2
 傾く,かたむく,"to incline toward, to slant, to lurch",n2
-片寄る,かたよる,"to be one-sided, to incline, to be partial",n2
+片寄る,かたよる,"to be onesided, to incline, to be partial",n2
 学科,がっか,"study subject, course of study",n2
 学会,がっかい,academic conference,n2
 楽器,がっき,musical instrument,n2
@@ -355,18 +355,18 @@ expression,reading,meaning,tags
 括弧,かっこ,"parenthesis, brackets",n2
 活字,かつじ,printing type,n2
 勝手に,かってに,"arbitrarily,",n2
-活躍,かつやく,"activity (esp. energetic or successful), great efforts, active participation",n2
+活躍,かつやく,"activity esp energetic or successful, great efforts, active participation",n2
 活力,かつりょく,"vitality, energy",n2
 課程,かてい,"course, curriculum",n2
 仮名,かな,kana,n2
 仮名遣い,かなづかい,"kana orthography, syllabary spelling",n2
-鐘,かね,"bell (often a large hanging bell), chime",n2
+鐘,かね,"bell often a large hanging bell, chime",n2
 加熱,かねつ,heating,n2
 兼ねる,かねる,to simultaneously serve two or more functions,n2
 過半数,かはんすう,majority,n2
-被せる,かぶせる,to cover (with something),n2
+被せる,かぶせる,to cover with something,n2
 釜,かま,"iron pot, kettle",n2
-構いません,かまいません,it's all right; one doesn’t mind,n2
+構いません,かまいません,it's all right one doesn’t mind,n2
 紙屑,かみくず,wastepaper,n2
 神様,かみさま,god,n2
 剃刀,かみそり,razor,n2
@@ -374,15 +374,15 @@ expression,reading,meaning,tags
 歌謡,かよう,"song, ballad",n2
 殻,から,"shell, husk, hull, pod, chaff",n2
 空っぽ,からっぽ,"empty, vacant, hollow",n2
-枯れる,かれる,"to wither, to die (plant), to be blasted (plant)",n2
+枯れる,かれる,"to wither, to die plant, to be blasted plant",n2
 可愛がる,かわいがる,"to love, to be affectionate",n2
-乾かす,かわかす,"to dry (clothes, etc.), to desiccate",n2
+乾かす,かわかす,"to dry clothes, etc, to desiccate",n2
 為替,かわせ,"money order, exchange",n2
 瓦,かわら,roof tile,n2
 間隔,かんかく,"space, interval space character, whitespace",n2
 換気,かんき,ventilation,n2
 感激,かんげき,"deep emotion, impression, inspiration",n2
-関西,かんさい,"south-western half of Japan, including Osaka",n2
+関西,かんさい,"southwestern half of Japan, including Osaka",n2
 元日,がんじつ,New Year's Day,n2
 鑑賞,かんしょう,appreciation,n2
 感ずる,かんずる,"to feel, to sense",n2
@@ -396,19 +396,19 @@ expression,reading,meaning,tags
 缶詰,かんづめ,"canning, canned goods,",n2
 乾電池,かんでんち,"dry cell, battery",n2
 関東,かんとう,"eastern half of Japan, including Tokyo",n2
-観念,かんねん,"idea, notion; sense",n2
-乾杯,かんぱい,Cheers! (a toast),n2
+観念,かんねん,"idea, notion sense",n2
+乾杯,かんぱい,Cheers! a toast,n2
 看板,かんばん,"sign, signboard",n2
-看病,かんびょう,nursing (a patient),n2
+看病,かんびょう,nursing a patient,n2
 冠,かんむり,"crown, wreath",n2
-漢和,かんわ,"Chinese Character-Japanese (e.g., dictionary)",n2
+漢和,かんわ,"Chinese CharacterJapanese eg, dictionary",n2
 気圧,きあつ,atmospheric pressure,n2
 着替え,きがえ,"changing clothes, change of clothes",n2
-着替える,きがえる,to change (one's) clothes,n2
+着替える,きがえる,to change one's clothes,n2
 機関車,きかんしゃ,"locomotive, engine",n2
 飢饉,ききん,famine,n2
 器具,きぐ,instrument,n2
-期限,きげん,"term, period, time frame time limit, deadline, cutoff (date)",n2
+期限,きげん,"term, period, time frame time limit, deadline, cutoff date",n2
 記号,きごう,"symbol, code",n2
 刻む,きざむ,"to mince, to carve, to engrave",n2
 儀式,ぎしき,"ceremony, rite, ritual",n2
@@ -430,20 +430,20 @@ expression,reading,meaning,tags
 清い,きよい,"clear, pure, noble",n2
 強化,きょうか,"strengthen, intensify, reinforce",n2
 境界,きょうかい,boundary,n2
-共産～,きょうさん～,communist ~,n2
+共産～,きょうさん,communist ,n2
 行事,ぎょうじ,"event, function",n2
 恐縮,きょうしゅく,sorry to trouble,n2
 教養,きょうよう,"culture, education, sophistication",n2
-行列,ぎょうれつ,"line, procession; matrix (math)",n2
-漁業,ぎょぎょう,fishing (industry),n2
+行列,ぎょうれつ,"line, procession matrix math",n2
+漁業,ぎょぎょう,fishing industry,n2
 曲線,きょくせん,curve,n2
 規律,きりつ,"order, rules, law",n2
 斬る,きる,"to behead, to murder",n2
 気を付ける,きをつける,"to be careful, to pay attention, to take care",n2
-琴,きん,13-string Japanese zither,n2
+琴,きん,13string Japanese zither,n2
 金魚,きんぎょ,goldfish,n2
 区域,くいき,"zone, district, area",n2
-空～,くう～,empty ~,n2
+空～,くう,empty ,n2
 偶数,ぐうすう,even number,n2
 空想,くうそう,"daydream, fantasy",n2
 空中,くうちゅう,"sky, air",n2
@@ -453,7 +453,7 @@ expression,reading,meaning,tags
 苦情,くじょう,"complaint, grievance, grumble",n2
 苦心,くしん,"pain, trouble",n2
 屑,くず,"waste, scrap",n2
-崩す,くずす,"to destroy, to make change (money)",n2
+崩す,くずす,"to destroy, to make change money",n2
 薬指,くすりゆび,ring finger,n2
 崩れる,くずれる,"to collapse, to crumble",n2
 砕く,くだく,"to break, to smash",n2
@@ -470,7 +470,7 @@ expression,reading,meaning,tags
 悔やむ,くやむ,"to regret, to mourn",n2
 郡,ぐん,"district, county",n2
 稽古,けいこ,"practice, training, study",n2
-敬語,けいご,"honorific language (lit., respect language)",n2
+敬語,けいご,"honorific language lit, respect language",n2
 蛍光灯,けいこうとう,fluorescent lamp,n2
 形式,けいしき,"form, formality, format",n2
 継続,けいぞく,continuation,n2
@@ -481,26 +481,26 @@ expression,reading,meaning,tags
 競馬,けいば,horse racing,n2
 警備,けいび,"defense, guard, policing, security",n2
 形容詞,けいようし,adjective,n2
-形容動詞,けいようどうし,"adjectival noun, quasi-adjective",n2
+形容動詞,けいようどうし,"adjectival noun, quasiadjective",n2
 外科,げか,surgical department,n2
 毛皮,けがわ,"fur, skin, pelt",n2
 激増,げきぞう,sudden increase,n2
 下車,げしゃ,"alighting, getting off",n2
-下旬,げじゅん,month (last third of),n2
+下旬,げじゅん,month last third of,n2
 下水,げすい,"drainage, sewage, ditch, gutter, sewerage",n2
 削る,けずる,"to cut down little by little, to take a percentage",n2
 桁,けた,"column, beam, digit",n2
-下駄,げた,"(Japanese footwear), wooden clogs",n2
+下駄,げた,"Japanese footwear, wooden clogs",n2
 血圧,けつあつ,blood pressure,n2
 月給,げっきゅう,monthly salary,n2
 傑作,けっさく,"masterpiece, best work",n2
 月末,げつまつ,end of the month,n2
 気配,けはい,"indication, sign, hint",n2
 下品,げひん,"vulgar, indecent, coarse",n2
-下品(な),げひん(な),vulgar,n2
+下品(な),げひんな,vulgar,n2
 煙い,けむい,smoky,n2
-険しい,けわしい,"steep, rugged; severe",n2
-現～,げん～,"present, incumbent",n2
+険しい,けわしい,"steep, rugged severe",n2
+現～,げん,"present, incumbent",n2
 見学,けんがく,"tour, study by observation",n2
 謙虚,けんきょ,"modesty, humble",n2
 原稿,げんこう,"manuscript, copy",n2
@@ -516,14 +516,14 @@ expression,reading,meaning,tags
 懸命,けんめい,"eagerness, strenuous",n2
 原理,げんり,"principle, theory, fundamental truth",n2
 原料,げんりょう,raw materials,n2
-碁,ご,go (board game),n2
-小～,こ～,small ~,n2
-恋しい,こいしい,"dear, beloved; to miss",n2
-高～,こう～,high (level) ~,n2
+碁,ご,go board game,n2
+小～,こ,small ,n2
+恋しい,こいしい,"dear, beloved to miss",n2
+高～,こう,high level ,n2
 工員,こういん,factory worker,n2
 強引,ごういん,"forcible, assertive, pushy",n2
 公害,こうがい,"public nuisance, pollution",n2
-高級,こうきゅう,high class; first-rate,n2
+高級,こうきゅう,high class firstrate,n2
 公共,こうきょう,"public, community, communal",n2
 工芸,こうげい,industrial arts,n2
 孝行,こうこう,filial piety,n2
@@ -541,12 +541,12 @@ expression,reading,meaning,tags
 高層,こうそう,"tall, high rise",n2
 構造,こうぞう,"structure, construction",n2
 交替,こうたい,"change, relief, alteration",n2
-交代,こうたい,"alternation, change, relief, relay, shift, substitution (sports, etc.), taking turns",n2
+交代,こうたい,"alternation, change, relief, relay, shift, substitution sports, etc, taking turns",n2
 耕地,こうち,arable land,n2
 交通機関,こうつうきかん,transportation facilities,n2
 校庭,こうてい,school yard,n2
 肯定,こうてい,"positive, affirmation",n2
-高度,こうど,"altitude, height; advanced",n2
+高度,こうど,"altitude, height advanced",n2
 高等,こうとう,"high class, high grade",n2
 合同,ごうどう,"combination, incorporation",n2
 高等学校,こうとうがっこう,senior high school,n2
@@ -554,9 +554,9 @@ expression,reading,meaning,tags
 鉱物,こうぶつ,mineral,n2
 公務,こうむ,"official business, public business",n2
 項目,こうもく,item,n2
-紅葉,こうよう,fall colors (of leaves),n2
+紅葉,こうよう,fall colors of leaves,n2
 合理,ごうり,rational,n2
-交流,こうりゅう,exchange; alternating current,n2
+交流,こうりゅう,exchange alternating current,n2
 合流,ごうりゅう,"confluence, merge, join",n2
 効力,こうりょく,"effect, efficacy",n2
 焦がす,こがす,"to burn, to scorch",n2
@@ -569,32 +569,32 @@ expression,reading,meaning,tags
 心得る,こころえる,"to understand, to have thorough knowledge",n2
 腰掛け,こしかけ,"seat, bench",n2
 腰掛,こしかけ,"seat, bench",n2
-腰掛ける,こしかける,to sit (down),n2
+腰掛ける,こしかける,to sit down,n2
 五十音,ごじゅうおん,the Japanese syllabary,n2
-擦る,こする,"to rub, to chafe, to file, to frost (glass), to strike (match)",n2
+擦る,こする,"to rub, to chafe, to file, to frost glass, to strike match",n2
 個体,こたい,an individual,n2
 小遣い,こづかい,"pocket money, allowance",n2
 古典,こてん,"classics, classic",n2
 言付ける,ことづける,to leave a message,n2
 言葉遣い,ことばづかい,"speech, expression, wording",n2
 御無沙汰,ごぶさた,not writing or contacting for a while,n2
-御免,ごめん,"declining (something); pardon, sorry",n2
+御免,ごめん,"declining something pardon, sorry",n2
 小指,こゆび,little finger,n2
 堪える,こらえる,"to bear, to endure, to put up with",n2
 娯楽,ごらく,"pleasure, amusement, recreation",n2
-御覧,ごらん,"(hon.) look, inspection, try",n2
+御覧,ごらん,"hon look, inspection, try",n2
 転がす,ころがす,to roll,n2
 転がる,ころがる,"to roll, to tumble",n2
 紺,こん,"navy blue, deep blue",n2
-今～,こん～,"this, current",n2
+今～,こん,"this, current",n2
 混合,こんごう,"mixing, mixture",n2
 献立,こんだて,menu,n2
-再～,さい～,re ~,n2
-最～,さい～,the most ~,n2
-在学,ざいがく,(enrolled) in school,n2
+再～,さい,re ,n2
+最～,さい,the most ,n2
+在学,ざいがく,enrolled in school,n2
 再三,さいさん,"again and again, repeatedly",n2
 祭日,さいじつ,"national holiday, festival day",n2
-催促,さいそく,"demand, urge (action), press for",n2
+催促,さいそく,"demand, urge action, press for",n2
 採点,さいてん,"marking, grading",n2
 災難,さいなん,"calamity, misfortune",n2
 裁縫,さいほう,sewing,n2
@@ -602,8 +602,8 @@ expression,reading,meaning,tags
 逆さ,さかさ,"reverse, upside down",n2
 逆様,さかさま,"reverse, upside down",n2
 捜す,さがす,"to search, to seek, to look for",n2
-遡る,さかのぼる,"to go back, to date back; ascend",n2
-酒場,さかば,"bar, bar-room",n2
+遡る,さかのぼる,"to go back, to date back ascend",n2
+酒場,さかば,"bar, barroom",n2
 一昨昨日,さきおととい,"two days before yesterday, three days ago",n2
 先程,さきほど,a little while ago,n2
 索引,さくいん,"index, indices",n2
@@ -622,11 +622,11 @@ expression,reading,meaning,tags
 刺す,さす,"to pierce, to stab, to prick, to thrust",n2
 流石,さすが,"indeed, truly, as one would expect",n2
 撮影,さつえい,photographing,n2
-雑音,ざつおん,"noise (jarring, grating)",n2
+雑音,ざつおん,"noise jarring, grating",n2
 早速,さっそく,"at once, immediately, promptly",n2
-錆,さび,rust (color),n2
+錆,さび,rust color,n2
 錆びる,さびる,"to rust, to become rusty",n2
-座布団,ざぶとん,cushion (Japanese),n2
+座布団,ざぶとん,cushion Japanese,n2
 妨げる,さまたげる,"to disturb, to prevent",n2
 騒がしい,さわがしい,noisy,n2
 三角,さんかく,"triangle, triangular",n2
@@ -637,9 +637,9 @@ expression,reading,meaning,tags
 仕上がる,しあがる,to be finished,n2
 明明後日,しあさって,two days after tomorrow,n2
 寺院,じいん,temple,n2
-自衛,じえい,self-defense,n2
-塩辛,しおから,salty (taste),n2
-塩辛い,しおからい,salty (taste),n2
+自衛,じえい,selfdefense,n2
+塩辛,しおから,salty taste,n2
+塩辛い,しおからい,salty taste,n2
 司会,しかい,"host, chairperson",n2
 四角い,しかくい,square,n2
 仕方がない,しかたがない,"it can't be helped, it's inevitable",n2
@@ -650,20 +650,20 @@ expression,reading,meaning,tags
 茂る,しげる,to grow thick,n2
 持参,じさん,"bringing, taking, carrying",n2
 磁石,じしゃく,magnet,n2
-四捨五入,ししゃごにゅう,rounding up (fractions),n2
+四捨五入,ししゃごにゅう,rounding up fractions,n2
 始終,しじゅう,"continuously, always, constantly",n2
-自習,じしゅう,self-study,n2
+自習,じしゅう,selfstudy,n2
 静まる,しずまる,"to quieten down, to calm down",n2
-姿勢,しせい,attitude; posture,n2
+姿勢,しせい,attitude posture,n2
 自然科学,しぜんかがく,natural science,n2
-時速,じそく,speed (per hour),n2
+時速,じそく,speed per hour,n2
 子孫,しそん,"descendant, offspring",n2
 死体,したい,corpse,n2
 下書き,したがき,"rough copy, draft",n2
-自宅,じたく,one's own home (same as 自分の家 (じぶんのいえ)),n2
+自宅,じたく,one's own home same as 自分の家 じぶんのいえ,n2
 下町,したまち,old parts of town,n2
-自治,じち,"self-government, autonomy",n2
-室～,しつ～,room,n2
+自治,じち,"selfgovernment, autonomy",n2
+室～,しつ,room,n2
 実感,じっかん,"feelings, realization",n2
 湿気,しっき,"moisture, humidity, dampness",n2
 実習,じっしゅう,"practice, training",n2
@@ -672,34 +672,34 @@ expression,reading,meaning,tags
 執筆,しっぴつ,writing,n2
 実物,じつぶつ,an actual thing,n2
 実用,じつよう,"practical use, utility",n2
-実力,じつりょく,"(real) ability, true strength, merit, efficiency, competency",n2
+実力,じつりょく,"real ability, true strength, merit, efficiency, competency",n2
 実例,じつれい,"example, instance",n2
 失恋,しつれん,"broken heart, unrequited love",n2
 指定,してい,"designation, specification, assignment",n2
 私鉄,してつ,private railway,n2
 児童,じどう,"children, juvenile",n2
 縛る,しばる,"to tie, to bind",n2
-地盤,じばん,(the) ground,n2
+地盤,じばん,the ground,n2
 紙幣,しへい,"paper money, notes, bills",n2
-萎む,しぼむ,"to wither (of flowers, dreams, etc.), to wilt",n2
+萎む,しぼむ,"to wither of flowers, dreams, etc, to wilt",n2
 絞る,しぼる,"to press, to wring, to squeeze",n2
 縞,しま,stripe,n2
 地味,じみ,"plain, simple, subdued, sober",n2
 氏名,しめい,full name,n2
 締切,しめきり,deadline,n2
-締め切り,しめきり,"deadline, closing, cut-off, end",n2
+締め切り,しめきり,"deadline, closing, cutoff, end",n2
 締め切る,しめきる,"to close, cancel",n2
 地面,じめん,"ground, earth's surface",n2
 社会科学,しゃかいかがく,social science,n2
 蛇口,じゃぐち,"faucet, tap",n2
 弱点,じゃくてん,"weak point, weakness",n2
 車庫,しゃこ,"garage, car shed",n2
-車掌,しゃしょう,(train) conductor,n2
+車掌,しゃしょう,train conductor,n2
 写生,しゃせい,"sketching, drawing from nature",n2
 社説,しゃせつ,editorial,n2
-車輪,しゃりん,(car) wheel,n2
+車輪,しゃりん,car wheel,n2
 洒落,しゃれ,"joke, pun, witticism",n2
-重～,じゅう～,heavy ~,n2
+重～,じゅう,heavy ,n2
 集会,しゅうかい,"meeting, assembly",n2
 住居,じゅうきょ,"dwelling, house, residence, address",n2
 集金,しゅうきん,money collection,n2
@@ -707,7 +707,7 @@ expression,reading,meaning,tags
 習字,しゅうじ,penmanship,n2
 修繕,しゅうぜん,"repair, mending",n2
 重体,じゅうたい,"serious condition, critical condition",n2
-終点,しゅうてん,"terminus, last stop (e.g train)",n2
+終点,しゅうてん,"terminus, last stop eg train",n2
 重点,じゅうてん,"important point, lay stress on, emphasis",n2
 就任,しゅうにん,"inauguration, assumption of office",n2
 周辺,しゅうへん,"circumference, peripheral",n2
@@ -719,29 +719,29 @@ expression,reading,meaning,tags
 祝日,しゅくじつ,national holiday,n2
 縮小,しゅくしょう,"reduction, curtailment",n2
 受験,じゅけん,taking an examination,n2
-主語,しゅご,(gram) subject,n2
-主人,しゅじん,(one's own) husband,n2
+主語,しゅご,gram subject,n2
+主人,しゅじん,one's own husband,n2
 出勤,しゅっきん,"going to work, at work",n2
 述語,じゅつご,predicate,n2
 出張,しゅっちょう,"official tour, business trip",n2
 寿命,じゅみょう,life span,n2
 主役,しゅやく,leading part,n2
-受話器,じゅわき,(telephone) receiver,n2
+受話器,じゅわき,telephone receiver,n2
 循環,じゅんかん,"circulation, rotation, cycle",n2
 巡査,じゅんさ,policeman,n2
 順々,じゅんじゅん,"in order, in turn",n2
 順序,じゅんじょ,"order, sequence, procedure",n2
 純情,じゅんじょう,pure heart,n2
 純粋,じゅんすい,"pure, genuine, unmixed",n2
-初～,しょ～,first ~,n2
-諸～,しょ～,various ~,n2
-女～,じょ～,things done by women,n2
-省～,しょう～,economizing ~,n2
+初～,しょ,first ,n2
+諸～,しょ,various ,n2
+女～,じょ,things done by women,n2
+省～,しょう,economizing ,n2
 消化,しょうか,digestion,n2
 小学生,しょうがくせい,elementary school pupil,n2
 将棋,しょうぎ,Japanese chess,n2
 蒸気,じょうき,"steam, vapor",n2
-定規,じょうぎ,(measuring) ruler,n2
+定規,じょうぎ,measuring ruler,n2
 上級,じょうきゅう,"advanced level, high grade, senior",n2
 商業,しょうぎょう,"commerce, trade, business",n2
 消極的,しょうきょくてき,passive,n2
@@ -751,19 +751,19 @@ expression,reading,meaning,tags
 商社,しょうしゃ,trading company,n2
 乗車,じょうしゃ,"taking a train, entraining",n2
 上旬,じょうじゅん,first 10 days of month,n2
-小数,しょうすう,"fraction (part of), decimal",n2
+小数,しょうすう,"fraction part of, decimal",n2
 生ずる,しょうずる,"to cause, to arise, to be generated",n2
 商店,しょうてん,"shop, business firm",n2
 焦点,しょうてん,"focus, point",n2
 消毒,しょうどく,disinfection,n2
-勝敗,しょうはい,"victory or defeat, issue (of battle)",n2
-蒸発,じょうはつ,evaporation; unexplained disappearance,n2
+勝敗,しょうはい,"victory or defeat, issue of battle",n2
+蒸発,じょうはつ,evaporation unexplained disappearance,n2
 賞品,しょうひん,"prize, trophy",n2
-上品,じょうひん,"refined, elegant, well-mannered",n2
+上品,じょうひん,"refined, elegant, wellmannered",n2
 勝負,しょうぶ,"victory or defeat, game",n2
-小便,しょうべん,"(col) urine, piss",n2
+小便,しょうべん,"col urine, piss",n2
 消防署,しょうぼうしょ,fire station,n2
-正味,しょうみ,net (weight),n2
+正味,しょうみ,net weight,n2
 正面,しょうめん,front,n2
 消耗,しょうもう,"exhaustion, consumption",n2
 省略,しょうりゃく,"omission, abbreviation, abridgment",n2
@@ -780,7 +780,7 @@ expression,reading,meaning,tags
 初歩,しょほ,"elements, rudiments",n2
 白髪,しらが,"white or grey hair, trendy hair bleaching",n2
 知り合い,しりあい,acquaintance,n2
-私立,しりつ,private (establishment),n2
+私立,しりつ,private establishment,n2
 資料,しりょう,"materials, data",n2
 汁,しる,"juice, soup",n2
 素人,しろうと,"layman, amateur, novice",n2
@@ -791,15 +791,15 @@ expression,reading,meaning,tags
 心身,しんしん,mind and body,n2
 信ずる,しんずる,to believe,n2
 申請,しんせい,"application, request, petition",n2
-人造,じんぞう,"man-made, synthetic, artificial",n2
+人造,じんぞう,"manmade, synthetic, artificial",n2
 寝台,しんだい,bed,n2
 診断,しんだん,diagnosis,n2
 侵入,しんにゅう,"invasion, raid, trespass",n2
 人文科学,じんぶんかがく,"social sciences, humanities",n2
-人命,じんめい,(human) life,n2
+人命,じんめい,human life,n2
 深夜,しんや,late at night,n2
 森林,しんりん,"forest, woods",n2
-親類,しんるい,relative(s) (same as 親戚 (しんせき)),n2
+親類,しんるい,relatives same as 親戚 しんせき,n2
 針路,しんろ,"course, direction",n2
 神話,しんわ,"myth, legend",n2
 酢,す,vinegar,n2
@@ -824,7 +824,7 @@ expression,reading,meaning,tags
 杉,すぎ,Japanese cedar,n2
 好き嫌い,すききらい,"likes and dislikes, taste",n2
 好き好き,すきずき,matter of taste,n2
-透き通る,すきとおる,to be(come) transparent,n2
+透き通る,すきとおる,to become transparent,n2
 隙間,すきま,"crack, gap, opening",n2
 少なくとも,すくなくとも,at least,n2
 図形,ずけい,figure,n2
@@ -840,15 +840,15 @@ expression,reading,meaning,tags
 姓,せい,"surname, family name",n2
 税関,ぜいかん,customs,n2
 製作,せいさく,"manufacture, production",n2
-制作,せいさく,"work (e.g., film, book)",n2
+制作,せいさく,"work eg, film, book",n2
 性質,せいしつ,"nature, property, disposition",n2
 清書,せいしょ,clean copy,n2
 青少年,せいしょうねん,"youth, young person",n2
 整数,せいすう,integer,n2
 清掃,せいそう,cleaning,n2
 生存,せいぞん,"existence, being, survival",n2
-生長,せいちょう,growth (of a plant),n2
-政党,せいとう,(member of) political party,n2
+生長,せいちょう,growth of a plant,n2
+政党,せいとう,member of political party,n2
 生年月日,せいねんがっぴ,date of birth,n2
 性能,せいのう,"ability, capability",n2
 整備,せいび,"maintenance, overhaul",n2
@@ -857,23 +857,23 @@ expression,reading,meaning,tags
 正方形,せいほうけい,square,n2
 正門,せいもん,"main gate, main entrance",n2
 成立,せいりつ,"formation, establishment, completion",n2
-西暦,せいれき,"Christian Era, after (Christ’s) death (A.D.)",n2
-背負う,せおう,to be burdened with; to carry on (one's) back or shoulder(s),n2
+西暦,せいれき,"Christian Era, after Christ’s death AD",n2
+背負う,せおう,to be burdened with to carry on one's back or shoulders,n2
 赤道,せきどう,equator,n2
-折角,せっかく,"with trouble, at great pains, long-awaited",n2
+折角,せっかく,"with trouble, at great pains, longawaited",n2
 接近,せっきん,"getting closer, drawing nearer, approaching",n2
-接する,せっする,to attend to (someone); to associate with,n2
-接続,せつぞく,"connection, union, join, link; changing trains",n2
+接する,せっする,to attend to someone to associate with,n2
+接続,せつぞく,"connection, union, join, link changing trains",n2
 瀬戸物,せともの,"earthenware, crockery, china",n2
 迫る,せまる,"to draw near, to press",n2
 攻める,せめる,"to attack, to assault, to assail",n2
 台詞,せりふ,"speech, words, one's lines, remarks",n2
 栓,せん,"stopper, cork, stopcock",n2
-前～,ぜん～,"former, late ~, past ~",n2
+前～,ぜん,"former, late , past ",n2
 前後,ぜんご,"front and back, before and after",n2
 洗剤,せんざい,"detergent, cleanser, cleaning agent, washing material",n2
 全集,ぜんしゅう,complete works,n2
-全身,ぜんしん,"whole (body), full-length (e.g., portrait) systemic",n2
+全身,ぜんしん,"whole body, fulllength eg, portrait systemic",n2
 扇子,せんす,folding fan,n2
 専制,せんせい,"despotism, autocracy",n2
 先々月,せんせんげつ,month before last,n2
@@ -882,14 +882,14 @@ expression,reading,meaning,tags
 先端,せんたん,"pointed end, tip",n2
 宣伝,せんでん,"publicity, advertisement, advertising, propaganda",n2
 先頭,せんとう,"head, lead, vanguard",n2
-全般,ぜんぱん,"(the) whole, general",n2
+全般,ぜんぱん,"the whole, general",n2
 扇風機,せんぷうき,electric fan,n2
-洗面,せんめん,"wash up (one's face), have a wash",n2
+洗面,せんめん,"wash up one's face, have a wash",n2
 全力,ぜんりょく,"all one's power, whole energy",n2
 線路,せんろ,"line, track, roadbed",n2
-総～,そう～,"gross, general, entire",n2
+総～,そう,"gross, general, entire",n2
 相違,そうい,"difference, discrepancy, variation",n2
-雑巾,ぞうきん,"house-cloth, dust cloth",n2
+雑巾,ぞうきん,"housecloth, dust cloth",n2
 増減,ぞうげん,"increase and decrease, fluctuation",n2
 倉庫,そうこ,"storehouse, warehouse",n2
 相互,そうご,"mutual, reciprocal",n2
@@ -898,8 +898,8 @@ expression,reading,meaning,tags
 造船,ぞうせん,shipbuilding,n2
 騒々しい,そうぞうしい,"noisy, boisterous",n2
 増大,ぞうだい,"increase, growth",n2
-送別,そうべつ,"farewell, send-off",n2
-草履,ぞうり,Japanese sandals (footwear),n2
+送別,そうべつ,"farewell, sendoff",n2
+草履,ぞうり,Japanese sandals footwear,n2
 総理大臣,そうりだいじん,Prime Minister,n2
 送料,そうりょう,"postage, carriage",n2
 属する,ぞくする,"to belong to, to come under",n2
@@ -909,24 +909,24 @@ expression,reading,meaning,tags
 測量,そくりょう,"measurement, surveying",n2
 速力,そくりょく,speed,n2
 素質,そしつ,"talent, capability",n2
-祖先,そせん,ancestor(s),n2
+祖先,そせん,ancestors,n2
 卒直,そっちょく,"frank, candid, honest",n2
 率直,そっちょく,"frank, candid, straightforward, openhearted, direct, outspoken",n2
 その他,そのほか,besides,n2
 剃る,そる,to shave,n2
-逸れる,それる,"to stray (turn) from subject, to go astray",n2
-揃える,そろえる,"to collect, to gather, to get together, to complete (a collection) to arrange, to put in order, to prepare, to get ready to make uniform, to make even, to match",n2
+逸れる,それる,"to stray turn from subject, to go astray",n2
+揃える,そろえる,"to collect, to gather, to get together, to complete a collection to arrange, to put in order, to prepare, to get ready to make uniform, to make even, to match",n2
 算盤,そろばん,abacus,n2
-存じる,ぞんじる,(humble) to know,n2
-存ずる,ぞんずる,(humble) to know,n2
+存じる,ぞんじる,humble to know,n2
+存ずる,ぞんずる,humble to know,n2
 損得,そんとく,"loss and gain, advantage and disadvantage",n2
-第～,だい～,~th,n2
+第～,だい,th,n2
 大学院,だいがくいん,graduate school,n2
 大工,だいく,carpenter,n2
 体系,たいけい,"system, organization",n2
 太鼓,たいこ,"drum, tambourine",n2
-対策,たいさく,"counter-plan, counter-measure",n2
-大して,たいして,"(not so) much, (not) very",n2
+対策,たいさく,"counterplan, countermeasure",n2
+大して,たいして,"not so much, not very",n2
 対照,たいしょう,"contrast, antithesis, comparison",n2
 大小,だいしょう,size,n2
 体制,たいせい,"order, system, structure",n2
@@ -947,27 +947,27 @@ expression,reading,meaning,tags
 蓄える,たくわえる,"to save, to store, to lay in stock",n2
 竹,たけ,bamboo,n2
 但し,ただし,"but, however, provided that",n2
-畳む,たたむ,"to fold (e.g., clothes, umbrella)",n2
+畳む,たたむ,"to fold eg, clothes, umbrella",n2
 立ち止まる,たちどまる,"to stop, to halt, to stand still",n2
 建つ,たつ,"to be erected, to be built",n2
 脱線,だっせん,"derailment, digression",n2
 妥当,だとう,"proper, appropriate",n2
 例える,たとえる,"to compare, to liken",n2
 頼もしい,たのもしい,"reliable, promising",n2
-足袋,たび,"tabi, Japanese socks (with split toe)",n2
+足袋,たび,"tabi, Japanese socks with split toe",n2
 溜息,ためいき,a sigh,n2
 足る,たる,"to be sufficient, to be enough",n2
-短～,たん～,short ~,n2
+短～,たん,short ,n2
 段階,だんかい,"gradation, grade, stage",n2
 短期,たんき,short term,n2
 炭鉱,たんこう,"coal mine, coal pit",n2
-短所,たんしょ,"defect, weak point; disadvantage",n2
+短所,たんしょ,"defect, weak point disadvantage",n2
 淡水,たんすい,fresh water,n2
 断水,だんすい,water outage,n2
-単数,たんすう,singular (number),n2
+単数,たんすう,singular number,n2
 団地,だんち,housing complex,n2
 断定,だんてい,"conclusion, decision",n2
-短編,たんぺん,"short (e.g., story, film)",n2
+短編,たんぺん,"short eg, story, film",n2
 田ぼ,たんぼ,"paddy field, farm",n2
 誓う,ちかう,"to swear, to vow",n2
 地下水,ちかすい,underground water,n2
@@ -990,16 +990,16 @@ expression,reading,meaning,tags
 抽象,ちゅうしょう,abstract,n2
 中世,ちゅうせい,"Middle Ages, medieval times",n2
 中性,ちゅうせい,"neuter gender, neutral",n2
-中途,ちゅうと,"in the middle, half-way",n2
-中年,ちゅうねん,middle-aged,n2
-長～,ちょう～,long ~,n2
+中途,ちゅうと,"in the middle, halfway",n2
+中年,ちゅうねん,middleaged,n2
+長～,ちょう,long ,n2
 超過,ちょうか,"excess, being more than",n2
 彫刻,ちょうこく,"carving, engraving, sculpture",n2
-長所,ちょうしょ,"strong point, merit; advantage",n2
+長所,ちょうしょ,"strong point, merit advantage",n2
 長女,ちょうじょ,eldest daughter,n2
 調整,ちょうせい,"regulation, adjustment, tuning",n2
 調節,ちょうせつ,"regulation, adjustment, control",n2
-長短,ちょうたん,"length, long and short, +-",n2
+長短,ちょうたん,"length, long and short, +",n2
 頂点,ちょうてん,"top, summit",n2
 長男,ちょうなん,eldest son,n2
 長方形,ちょうほうけい,"rectangle, oblong",n2
@@ -1020,14 +1020,14 @@ expression,reading,meaning,tags
 通ずる,つうずる,"to lead, to run, to open",n2
 通知,つうち,"notice, notification",n2
 通帳,つうちょう,bankbook,n2
-通訳,つうやく,"interpretation (i.e., oral translation) interpreter",n2
+通訳,つうやく,"interpretation ie, oral translation interpreter",n2
 通用,つうよう,"popular use, circulation",n2
 通路,つうろ,"passage, pathway",n2
-突き当たり,つきあたり,"end (e.g., of street)",n2
+突き当たり,つきあたり,"end eg, of street",n2
 突き当たる,つきあたる,"to run into, to collide with",n2
 月日,つきひ,"time, years, days",n2
-次ぐ,つぐ,"to follow, to come after, to come next (to)",n2
-伝わる,つたわる,"to spread (of a rumor, news, etc.), to travel, to circulate, to go around, to be passed around, to become known",n2
+次ぐ,つぐ,"to follow, to come after, to come next to",n2
+伝わる,つたわる,"to spread of a rumor, news, etc, to travel, to circulate, to go around, to be passed around, to become known",n2
 突っ込む,つっこむ,"to plunge into, to stick into",n2
 務める,つとめる,"to serve, to act",n2
 努める,つとめる,"to try, to aim",n2
@@ -1037,7 +1037,7 @@ expression,reading,meaning,tags
 粒,つぶ,grain,n2
 潰す,つぶす,"to smash, to waste",n2
 潰れる,つぶれる,"to be smashed, to go bankrupt",n2
-躓く,つまずく,"to trip (over), to stumble",n2
+躓く,つまずく,"to trip over, to stumble",n2
 詰まる,つまる,"to be blocked, to be packed",n2
 積む,つむ,"to pile up, to stack",n2
 爪,つめ,fingernail or toenail,n2
@@ -1047,14 +1047,14 @@ expression,reading,meaning,tags
 吊る,つる,to hang,n2
 吊す,つるす,to hang,n2
 手洗い,てあらい,"restroom, lavatory",n2
-低～,てい～,low ~,n2
-定員,ていいん,"fixed number of regular personnel, capacity (e.g., of boat)",n2
+低～,てい,low ,n2
+定員,ていいん,"fixed number of regular personnel, capacity eg, of boat",n2
 定価,ていか,established price,n2
 低下,ていか,"fall, decline",n2
 定期券,ていきけん,"commuter pass, season ticket",n2
 定休日,ていきゅうび,regular holiday,n2
 停止,ていし,"suspension, interruption, stoppage",n2
-停車,ていしゃ,"stopping (e.g., train)",n2
+停車,ていしゃ,"stopping eg, train",n2
 停電,ていでん,"power outage, electricity outage, blackout",n2
 出入り,でいり,"in and out, coming and going",n2
 出入口,でいりぐち,exit and entrance,n2
@@ -1071,15 +1071,15 @@ expression,reading,meaning,tags
 弟子,でし,"pupil, disciple, apprentice",n2
 手帳,てちょう,notebook,n2
 鉄橋,てっきょう,iron bridge,n2
-手続き,てつづき,"procedure, (legal) process, formalities",n2
+手続き,てつづき,"procedure, legal process, formalities",n2
 鉄砲,てっぽう,gun,n2
-手拭い,てぬぐい,(hand) towel,n2
+手拭い,てぬぐい,hand towel,n2
 手前,てまえ,"before, this side",n2
 出迎え,でむかえ,"meeting, reception",n2
 出迎える,でむかえる,"to meet, to greet",n2
 照らす,てらす,"to shine on, to illuminate",n2
 照る,てる,to shine,n2
-展開,てんかい,"develop, expansion (opposite of compression)",n2
+展開,てんかい,"develop, expansion opposite of compression",n2
 伝記,でんき,"biography, life story",n2
 電球,でんきゅう,light bulb,n2
 点数,てんすう,"marks, points, score",n2
@@ -1089,21 +1089,21 @@ expression,reading,meaning,tags
 点々,てんてん,"here and there, little by little",n2
 転々,てんてん,from one to another,n2
 天皇,てんのう,Emperor of Japan,n2
-電波,でんぱ,electro-magnetic wave,n2
+電波,でんぱ,electromagnetic wave,n2
 電流,でんりゅう,electric current,n2
 電力,でんりょく,electric power,n2
 問い合わせ,といあわせ,inquiry,n2
 銅,どう,copper,n2
-同～,どう～,same ~,n2
+同～,どう,same ,n2
 統一,とういつ,"unity, consolidation, uniformity",n2
 同格,どうかく,"the same rank, equality, apposition",n2
-峠,とうげ,"ridge, (mountain) pass, difficult part",n2
+峠,とうげ,"ridge, mountain pass, difficult part",n2
 統計,とうけい,"scattering, a scatter, dispersion",n2
 動作,どうさ,"action, movements, motions",n2
 東西,とうざい,"East and West, whole country",n2
 当日,とうじつ,"appointed day, very day",n2
 投書,とうしょ,"letter to the editor, letter from a reader, contribution",n2
-登場,とうじょう,entry (on stage),n2
+登場,とうじょう,entry on stage,n2
 灯台,とうだい,lighthouse,n2
 盗難,とうなん,"theft, robbery",n2
 当番,とうばん,being on duty,n2
@@ -1119,25 +1119,25 @@ expression,reading,meaning,tags
 特色,とくしょく,"characteristic, feature",n2
 特定,とくてい,"specific, special, particular",n2
 特売,とくばい,special sale,n2
-溶け込む,とけこむ,to melt into; to become a part of,n2
-溶ける,とける,"(intransitive) to melt, to thaw, to fuse, to dissolve",n2
+溶け込む,とけこむ,to melt into to become a part of,n2
+溶ける,とける,"intransitive to melt, to thaw, to fuse, to dissolve",n2
 退ける,どける,"to dislodge, to put something out of the way",n2
 床の間,とこのま,alcove,n2
-所々,ところどころ,"here and there, some parts (of something)",n2
-都心,としん,heart (of city),n2
+所々,ところどころ,"here and there, some parts of something",n2
+都心,としん,heart of city,n2
 戸棚,とだな,"cupboard, cabinet",n2
 整う,ととのう,"to be prepared, to be in order, to be arranged",n2
-留まる,とどまる,"to be fixed; to abide, to stay (in the one place)",n2
+留まる,とどまる,"to be fixed to abide, to stay in the one place",n2
 怒鳴る,どなる,"to shout, to yell",n2
-殿,どの,Mister (mostly in addressing someone on an envelope),n2
+殿,どの,Mister mostly in addressing someone on an envelope,n2
 飛び込む,とびこむ,"to jump in, to leap in, to plunge into",n2
 泊める,とめる,"to give shelter to, to lodge",n2
 捕える,とらえる,"to seize, to capture, to arrest",n2
 取り入れる,とりいれる,"to harvest, to take in, to adopt",n2
 取り消す,とりけす,to cancel,n2
 取り出す,とりだす,"to take out, to pick out",n2
-採る,とる,"to adopt (measure, proposal); to pick (fruit)",n2
-捕る,とる,"to take, to catch (fish)",n2
+採る,とる,"to adopt measure, proposal to pick fruit",n2
+捕る,とる,"to take, to catch fish",n2
 丼,どんぶり,"porcelain bowl, bowl of rice with food on top",n2
 内科,ないか,"internist clinic, internal medicine",n2
 内線,ないせん,phone extension,n2
@@ -1163,7 +1163,7 @@ expression,reading,meaning,tags
 倣う,ならう,"to imitate, to follow, to emulate",n2
 生る,なる,to bear fruit,n2
 南極,なんきょく,"south pole, Antarctic",n2
-何とも,なんとも,"really, very, extremely, terribly, awfully (not) anything, (not) at all, (not) a bit",n2
+何とも,なんとも,"really, very, extremely, terribly, awfully not anything, not at all, not a bit",n2
 南米,なんべい,South America,n2
 南北,なんぼく,south and north,n2
 匂う,におう,"to be fragrant, to smell",n2
@@ -1177,17 +1177,17 @@ expression,reading,meaning,tags
 日用品,にちようひん,daily necessities,n2
 日課,にっか,"daily work, daily routine",n2
 日程,にってい,schedule,n2
-鈍い,にぶい,"dull (e.g., a knife), thickheaded, slow (opposite of fast), stupid",n2
+鈍い,にぶい,"dull eg, a knife, thickheaded, slow opposite of fast, stupid",n2
 入社,にゅうしゃ,entry to a company,n2
 女房,にょうぼう,wife,n2
-睨む,にらむ,"to glare at, to stare; to keep an eye on",n2
+睨む,にらむ,"to glare at, to stare to keep an eye on",n2
 煮る,にる,"to boil, to simmer, to stew, seethe",n2
 俄,にわか,"sudden, abrupt, unexpected",n2
 縫う,ぬう,to sew,n2
 捩る,ねじる,to twist,n2
 熱する,ねっする,to heat,n2
-寝間着,ねまき,"sleep-wear, pajamas",n2
-寝巻,ねまき,"sleep-wear, pajamas",n2
+寝間着,ねまき,"sleepwear, pajamas",n2
+寝巻,ねまき,"sleepwear, pajamas",n2
 狙い,ねらい,aim,n2
 狙う,ねらう,to aim at,n2
 年度,ねんど,"year, fiscal year",n2
@@ -1197,11 +1197,11 @@ expression,reading,meaning,tags
 農薬,のうやく,agricultural chemicals,n2
 能率,のうりつ,efficiency,n2
 残らず,のこらず,"completely, without exception",n2
-上り,のぼり,"up-train (going to Tokyo), ascent",n2
+上り,のぼり,"uptrain going to Tokyo, ascent",n2
 糊,のり,"glue, paste, starch",n2
-乗換,のりかえ,"a transfer (e.g., trains, buses)",n2
-乗り換え,のりかえ,"(n) transfer (trains, buses, etc.)",n2
-乗り越し,のりこし,riding past (one's station),n2
+乗換,のりかえ,"a transfer eg, trains, buses",n2
+乗り換え,のりかえ,"n transfer trains, buses, etc",n2
+乗り越し,のりこし,riding past one's station,n2
 呑気,のんき,"carefree, optimistic, careless",n2
 灰色,はいいろ,"grey, ashen",n2
 俳句,はいく,haiku poetry,n2
@@ -1213,27 +1213,27 @@ expression,reading,meaning,tags
 秤,はかり,"scales, weighing machine",n2
 吐き気,はきけ,"nausea, sickness in the stomach",n2
 掃く,はく,"to sweep, to brush, to gather up",n2
-歯車,はぐるま,"gear, cog-wheel",n2
+歯車,はぐるま,"gear, cogwheel",n2
 挟まる,はさまる,"to get between, to be caught in",n2
-挟む,はさむ,to pinch; to hold between; to insert,n2
+挟む,はさむ,to pinch to hold between to insert,n2
 梯子,はしご,"ladder, stairs",n2
 始めに,はじめに,"to begin with, first of all",n2
 初めに,はじめに,"to begin with, first of all",n2
 斜,はす,diagonal,n2
-外れる,はずれる,"to be disconnected, to get out of place, to be off, to be out (e.g., of gear)",n2
+外れる,はずれる,"to be disconnected, to get out of place, to be off, to be out eg, of gear",n2
 肌着,はだぎ,underwear,n2
 果して,はたして,"as was expected, really",n2
 果たして,はたして,"as was expected, just as one thought, sure enough",n2
 鉢,はち,"a bowl, a pot",n2
-発,はつ,"to depart (e.g., on a plane, train)",n2
+発,はつ,"to depart eg, on a plane, train",n2
 発揮,はっき,"exhibition, demonstration, display",n2
-発想,はっそう,idea; way of thinking (same as 考え方 (かんがえかた)),n2
-発電,はつでん,"generation (e.g., power)",n2
+発想,はっそう,idea way of thinking same as 考え方 かんがえかた,n2
+発電,はつでん,"generation eg, power",n2
 発売,はつばい,sale,n2
 派手,はで,"showy, loud, flashy, gaudy",n2
 話合い,はなしあい,"discussion, talk",n2
 話し合い,はなしあい,"discussion, talk, conference",n2
-話し掛ける,はなしかける,"to accost a person, to talk (to someone)",n2
+話し掛ける,はなしかける,"to accost a person, to talk to someone",n2
 話中,はなしちゅう,"while talking, the line is busy",n2
 甚だしい,はなはだしい,"extreme, excessive, terrible",n2
 花火,はなび,fireworks,n2
@@ -1241,24 +1241,24 @@ expression,reading,meaning,tags
 跳ねる,はねる,"to jump, to leap",n2
 破片,はへん,"fragment, broken piece",n2
 歯磨き,はみがき,"toothbrushing, toothpaste",n2
-早口,はやくち,fast-talking,n2
+早口,はやくち,fasttalking,n2
 払い込む,はらいこむ,"to deposit, to pay in",n2
 払い戻す,はらいもどす,"to repay, to pay back",n2
 針金,はりがね,wire,n2
 張り切る,はりきる,"to be in high spirits, to be full of vigor",n2
-反～,はん～,"anti ~, counter ~",n2
+反～,はん,"anti , counter ",n2
 反映,はんえい,"reflection, influence",n2
 半径,はんけい,radius,n2
-判子,はんこ,seal (used for signature),n2
-万歳,ばんざい,"banzai, Long live ~!",n2
+判子,はんこ,seal used for signature,n2
+万歳,ばんざい,"banzai, Long live !",n2
 判事,はんじ,"judge, justice",n2
 反省,はんせい,"reflection, reconsideration",n2
 番地,ばんち,"house number, address",n2
 半島,はんとう,peninsula,n2
-非～,ひ～,"anti~, counter~, an~, non~",n2
+非～,ひ,"anti, counter, an, non",n2
 日当たり,ひあたり,"exposure to the sun, sunny place",n2
 日帰り,ひがえり,day trip,n2
-比較的,ひかくてき,comparatively; relatively,n2
+比較的,ひかくてき,comparatively relatively,n2
 日陰,ひかげ,shadow,n2
 引受る,ひきうける,"to undertake, to take up, to take over",n2
 引き返す,ひきかえす,"to turn back, to go back, reverse",n2
@@ -1266,8 +1266,8 @@ expression,reading,meaning,tags
 引き出す,ひきだす,"to pull out, to take out, to withdraw",n2
 引き止める,ひきとめる,"to keep back, to prevent, to hold back",n2
 卑怯,ひきょう,"cowardice, meanness, unfairness",n2
-引分け,ひきわけ,"a draw (in competition), tie game",n2
-引き分け,ひきわけ,"draw (in competition), tie game",n2
+引分け,ひきわけ,"a draw in competition, tie game",n2
+引き分け,ひきわけ,"draw in competition, tie game",n2
 陽射,ひざし,"sunlight, rays of the sun",n2
 日差し,ひざし,sunlight,n2
 肘,ひじ,elbow,n2
@@ -1275,27 +1275,27 @@ expression,reading,meaning,tags
 筆記,ひっき,"note taking, writing",n2
 引っ繰り返す,ひっくりかえす,"to turn over, to overturn, to knock over",n2
 引っ繰り返る,ひっくりかえる,"to be overturned, to be upset, to topple over, to be reversed",n2
-引っ越し,ひっこし,"moving (dwelling, office, etc.), changing residence",n2
+引っ越し,ひっこし,"moving dwelling, office, etc, changing residence",n2
 引っ込む,ひっこむ,"to draw back, to sink, to cave in",n2
 筆者,ひっしゃ,"writer, author",n2
 必需品,ひつじゅひん,"necessities, essential",n2
-一～,ひと～,one ~,n2
+一～,ひと,one ,n2
 人差指,ひとさしゆび,index finger,n2
 一通り,ひととおり,"general, briefly",n2
 人通り,ひとどおり,pedestrian traffic,n2
-瞳,ひとみ,pupil (of eye),n2
+瞳,ひとみ,pupil of eye,n2
 一休み,ひとやすみ,a rest,n2
 独り言,ひとりごと,"a soliloquy, a monologue, speaking to oneself",n2
 皮肉,ひにく,"cynicism, sarcasm",n2
 日日,ひにち,date,n2
-日にち,ひにち,"date (of a planned event, act, etc.), day",n2
+日にち,ひにち,"date of a planned event, act, etc, day",n2
 捻る,ひねる,"to twist, to turn",n2
 日の入り,ひのいり,sunset,n2
 日の出,ひので,sunrise,n2
 響き,ひびき,"echo, sound",n2
-響く,ひびく,to resound; to affect,n2
+響く,ひびく,to resound to affect,n2
 皮膚,ひふ,skin,n2
-冷やす,ひやす,"to cool (from room temperature), to chill, to refrigerate",n2
+冷やす,ひやす,"to cool from room temperature, to chill, to refrigerate",n2
 百科事典,ひゃっかじてん,encyclopedia,n2
 美容,びよう,beauty of figure or form,n2
 表紙,ひょうし,"front cover, binding",n2
@@ -1303,7 +1303,7 @@ expression,reading,meaning,tags
 標準,ひょうじゅん,"standard, level",n2
 標本,ひょうほん,"example, specimen",n2
 評論,ひょうろん,"criticism, critique",n2
-昼寝,ひるね,"nap (at home), siesta",n2
+昼寝,ひるね,"nap at home, siesta",n2
 広げる,ひろげる,"to spread, to extend, to expand, to enlarge, to widen, to broaden",n2
 広さ,ひろさ,extent,n2
 広場,ひろば,plaza,n2
@@ -1316,37 +1316,37 @@ expression,reading,meaning,tags
 不規則,ふきそく,"irregularity, unsteadiness",n2
 普及,ふきゅう,"diffusion, spread",n2
 付近,ふきん,"neighborhood, vicinity",n2
-副～,ふく～,vice ~,n2
+副～,ふく,vice ,n2
 副詞,ふくし,adverb,n2
 複写,ふくしゃ,"copy, duplicate",n2
 複数,ふくすう,"plural, multiple",n2
 膨らます,ふくらます,"to swell, to expand, to inflate",n2
-膨らむ,ふくらむ,"to expand, to swell (out), to become inflated",n2
+膨らむ,ふくらむ,"to expand, to swell out, to become inflated",n2
 不潔,ふけつ,"unclean, dirty",n2
 更ける,ふける,"to get late, to wear on",n2
 符号,ふごう,"sign, mark, symbol",n2
 夫妻,ふさい,"man and wife, married couple",n2
 塞がる,ふさがる,"to be plugged up, to be shut up",n2
-塞ぐ,ふさぐ,"to stuff, to close up, to block (up)",n2
+塞ぐ,ふさぐ,"to stuff, to close up, to block up",n2
 無沙汰,ぶさた,neglecting to stay in contact,n2
 武士,ぶし,"warrior, samurai",n2
-部首,ぶしゅ,radical (of a kanji character),n2
-蒸す,ふす,"to steam (food, towel, etc.) to be hot and humid, to be sultry",n2
+部首,ぶしゅ,radical of a kanji character,n2
+蒸す,ふす,"to steam food, towel, etc to be hot and humid, to be sultry",n2
 襖,ふすま,sliding screen,n2
 附属,ふぞく,"attached, belonging, affiliated",n2
-付属,ふぞく,"being attached (to), being affiliated (to), belonging (to), going with",n2
+付属,ふぞく,"being attached to, being affiliated to, belonging to, going with",n2
 蓋,ふた,"cover, lid, cap",n2
-不通,ふつう,"suspension, interruption, stoppage, tie-up, cessation",n2
+不通,ふつう,"suspension, interruption, stoppage, tieup, cessation",n2
 物騒,ぶっそう,"dangerous, disturbed, insecure",n2
-船便,ふなびん,surface mail (ship),n2
+船便,ふなびん,surface mail ship,n2
 部品,ぶひん,"parts, accessories",n2
 吹雪,ふぶき,snow storm,n2
 父母,ふぼ,"father and mother, parents",n2
 踏切,ふみきり,"railway crossing, level crossing, starting line, scratch, crossover",n2
-麓,ふもと,"the foot, the bottom, the base (of a mountain)",n2
+麓,ふもと,"the foot, the bottom, the base of a mountain",n2
 振り仮名,ふりがな,pronunciation key,n2
 振り向く,ふりむく,"to turn one's face, to turn around",n2
-古～,ふる～,old ~,n2
+古～,ふる,old ,n2
 故郷,ふるさと,"home town, birthplace",n2
 古里,ふるさと,"home town, birthplace",n2
 振舞う,ふるまう,"to behave, to conduct",n2
@@ -1354,9 +1354,9 @@ expression,reading,meaning,tags
 噴火,ふんか,eruption,n2
 分解,ぶんかい,"analysis, disassembly",n2
 文芸,ぶんげい,"literature, art and literature",n2
-文献,ぶんけん,"literature, books (reference)",n2
+文献,ぶんけん,"literature, books reference",n2
 噴水,ふんすい,water fountain,n2
-分数,ぶんすう,fraction (in math),n2
+分数,ぶんすう,fraction in math,n2
 文体,ぶんたい,literary style,n2
 分布,ぶんぷ,distribution,n2
 文房具,ぶんぼうぐ,stationery,n2
@@ -1365,18 +1365,18 @@ expression,reading,meaning,tags
 分類,ぶんるい,classification,n2
 閉会,へいかい,closure,n2
 平気,へいき,"coolness, calmness, unconcern",n2
-並行,へいこう,"(going) side by side, concurrent, at the same time",n2
+並行,へいこう,"going side by side, concurrent, at the same time",n2
 平日,へいじつ,weekday,n2
 兵隊,へいたい,soldier,n2
 平凡,へいぼん,"common, ordinary",n2
 平野,へいや,"plain, open field",n2
 凹む,へこむ,"to be dented, to be indented",n2
 隔てる,へだてる,to be shut out,n2
-別荘,べっそう,villa; vacation home; summer cottage,n2
+別荘,べっそう,villa vacation home summer cottage,n2
 別々,べつべつ,"separately, individually",n2
-編集,へんしゅう,"editing, compilation, editorial (e.g., committee)",n2
+編集,へんしゅう,"editing, compilation, editorial eg, committee",n2
 便所,べんじょ,"toilet, lavatory",n2
-防～,ぼう～,~ prevention,n2
+防～,ぼう, prevention,n2
 望遠鏡,ぼうえんきょう,telescope,n2
 方角,ほうがく,"direction, way",n2
 箒,ほうき,broom,n2
@@ -1391,31 +1391,31 @@ expression,reading,meaning,tags
 包丁,ほうちょう,"kitchen knife, carving knife",n2
 方程式,ほうていしき,equation,n2
 防犯,ぼうはん,prevention of crime,n2
-方面,ほうめん,direction; area,n2
+方面,ほうめん,direction area,n2
 坊や,ぼうや,boy,n2
 放る,ほうる,to let go,n2
 朗らか,ほがらか,"bright, cheerful, melodious",n2
-朗らか(な),ほがらか(な),"cheerful, merry bright (sky, day, etc.), fine, clear",n2
-牧場,ぼくじょう,farm (livestock); pasture land,n2
-牧畜,ぼくちく,stock-farming,n2
+朗らか(な),ほがらかな,"cheerful, merry bright sky, day, etc, fine, clear",n2
+牧場,ぼくじょう,farm livestock pasture land,n2
+牧畜,ぼくちく,stockfarming,n2
 保健,ほけん,"health preservation, hygiene, sanitation",n2
 募集,ぼしゅう,recruitment,n2
 干す,ほす,"to air, to dry, to drink up",n2
 北極,ほっきょく,North Pole,n2
-坊っちゃん,ぼっちゃん,son (of others),n2
+坊っちゃん,ぼっちゃん,son of others,n2
 解く,ほどく,to unfasten,n2
 掘る,ほる,"to dig, to excavate",n2
 彫る,ほる,"to carve, to chisel",n2
-盆,ぼん,Festival of the Dead; tray,n2
-盆地,ぼんち,"basin (e.g., between mountains)",n2
+盆,ぼん,Festival of the Dead tray,n2
+盆地,ぼんち,"basin eg, between mountains",n2
 本部,ほんぶ,headquarters,n2
 本来,ほんらい,"essentially, naturally, by nature",n2
-毎～,まい～,every ~,n2
+毎～,まい,every ,n2
 枚数,まいすう,the number of flat things,n2
-毎度,まいど,"each time, common service-sector greeting",n2
+毎度,まいど,"each time, common servicesector greeting",n2
 枕,まくら,pillow,n2
 曲げる,まげる,"to bend, to crook, to lean",n2
-摩擦,まさつ,friction; rubbing; chafe,n2
+摩擦,まさつ,friction rubbing chafe,n2
 跨ぐ,またぐ,"to step over/across, to stride over/across, to cross to stretch over, to span, to bridge, to saddle, to straddle",n2
 待合室,まちあいしつ,waiting room,n2
 待ち合わせる,まちあわせる,"to rendezvous, to meet at a prearranged place and time",n2
@@ -1426,7 +1426,7 @@ expression,reading,meaning,tags
 真っ先,まっさき,"foremost, beginning",n2
 真っ白,まっしろ,pure white,n2
 祭る,まつる,"to deify, to enshrine",n2
-窓口,まどぐち,(ticket) window,n2
+窓口,まどぐち,ticket window,n2
 真似る,まねる,"to mimic, to imitate",n2
 間も無く,まもなく,"soon, in a short time",n2
 間もなく,まもなく,"soon, shortly, before long, in a short time, in a little while",n2
@@ -1434,16 +1434,16 @@ expression,reading,meaning,tags
 回り道,まわりみち,detour,n2
 満員,まんいん,"full house, no vacancy, sold out",n2
 満点,まんてん,perfect score,n2
-未～,み～,not yet ~,n2
+未～,み,not yet ,n2
 見上げる,みあげる,"to look up at, to admire",n2
-見送る,みおくる,to see off; to escort; to let pass,n2
+見送る,みおくる,to see off to escort to let pass,n2
 見下ろす,みおろす,"to overlook, to look down on something",n2
 見掛け,みかけ,outward appearance,n2
 三日月,みかづき,crescent moon,n2
-岬,みさき,cape (on coast),n2
+岬,みさき,cape on coast,n2
 惨めな,みじめな,"miserable, wretched, unhappy, sad, pitiable",n2
 自ら,みずから,"for one's self, personally",n2
-水着,みずぎ,bathing suit (woman's),n2
+水着,みずぎ,bathing suit woman's,n2
 店屋,みせや,"store, shop",n2
 見出し,みだし,"heading, index",n2
 道順,みちじゅん,"itinerary, route",n2
@@ -1454,12 +1454,12 @@ expression,reading,meaning,tags
 実る,みのる,"to bear fruit, to ripen",n2
 身分,みぶん,"position, status",n2
 見本,みほん,sample,n2
-見舞う,みまう,"to ask after (health), to visit",n2
+見舞う,みまう,"to ask after health, to visit",n2
 未満,みまん,"less than, insufficient",n2
 名字,みょうじ,"surname, family name",n2
-診る,みる,to examine (medically),n2
+診る,みる,to examine medically,n2
 民間,みんかん,"private, civilian",n2
-民主～,みんしゅ～,democratic,n2
+民主～,みんしゅ,democratic,n2
 民謡,みんよう,"folk song, popular song",n2
 無限,むげん,infinite,n2
 無地,むじ,plain,n2
@@ -1469,7 +1469,7 @@ expression,reading,meaning,tags
 紫,むらさき,"purple color, violet",n2
 群れ,むれ,"crowd, flock, herd",n2
 姪,めい,niece,n2
-名～,めい～,famous ~,n2
+名～,めい,famous ,n2
 名作,めいさく,masterpiece,n2
 名詞,めいし,noun,n2
 名刺,めいし,business card,n2
@@ -1481,7 +1481,7 @@ expression,reading,meaning,tags
 恵まれる,めぐまれる,"to be blessed with, to be rich in",n2
 巡る,めぐる,to go around,n2
 目指す,めざす,"to aim at, to have an eye on",n2
-目覚し,めざまし,alarm-clock,n2
+目覚し,めざまし,alarmclock,n2
 目下,めした,"at present, now",n2
 目印,めじるし,"mark, sign, landmark",n2
 目立つ,めだつ,"to be conspicuous, to stand out",n2
@@ -1491,28 +1491,28 @@ expression,reading,meaning,tags
 面接,めんせつ,interview,n2
 面倒臭い,めんどうくさい,"bother to do, tiresome",n2
 儲かる,もうかる,"to be profitable, to yield a profit",n2
-儲ける,もうける,"to earn, to have (bear, beget) a child",n2
+儲ける,もうける,"to earn, to have bear, beget a child",n2
 申し訳ない,もうしわけない,"inexcusable, I am sorry",n2
 木材,もくざい,"lumber, timber, wood",n2
 目次,もくじ,table of contents,n2
-潜る,もぐる,"to dive, to pass through; to evade, to hide",n2
+潜る,もぐる,"to dive, to pass through to evade, to hide",n2
 凭れる,もたれる,"to lean against, to lean on, to recline on",n2
 餅,もち,sticky rice cake,n2
 元々,もともと,"originally, by nature, from the start",n2
 物置,ものおき,storage room,n2
 物語る,ものがたる,"to tell, to indicate",n2
 物差し,ものさし,"ruler, measure",n2
-物凄い,ものすごい,"earth-shattering, staggering, to a very great extent",n2
-揉む,もむ,"to rub, to crumple (up), to wrinkle",n2
+物凄い,ものすごい,"earthshattering, staggering, to a very great extent",n2
+揉む,もむ,"to rub, to crumple up, to wrinkle",n2
 催し,もよおし,"event, festivities, function",n2
-盛る,もる,to serve (food); to fill up; to prescribe,n2
+盛る,もる,to serve food to fill up to prescribe,n2
 問答,もんどう,"questions and answers, dialogue",n2
 喧しい,やかましい,"noisy, loud, clamorous, boisterous",n2
 夜間,やかん,"at night, nighttime",n2
 役者,やくしゃ,actor,n2
 役所,やくしょ,"government office, public office",n2
 役人,やくにん,government official,n2
-薬品,やくひん,"medicine(s), chemical(s)",n2
+薬品,やくひん,"medicines, chemicals",n2
 役目,やくめ,"duty, business",n2
 火傷,やけど,"burn, scald",n2
 夜行,やこう,"night train, night travel",n2
@@ -1525,10 +1525,10 @@ expression,reading,meaning,tags
 夕刊,ゆうかん,evening paper,n2
 友好,ゆうこう,friendship,n2
 郵送,ゆうそう,mailing,n2
-夕立,ゆうだち,(sudden) evening shower (rain),n2
-夕日,ゆうひ,"(in) the evening sun, setting sun",n2
+夕立,ゆうだち,sudden evening shower rain,n2
+夕日,ゆうひ,"in the evening sun, setting sun",n2
 悠々,ゆうゆう,"quiet, calm, leisurely",n2
-有料,ゆうりょう,"admission-paid, toll",n2
+有料,ゆうりょう,"admissionpaid, toll",n2
 浴衣,ゆかた,"bathrobe, informal summer kimono",n2
 行方,ゆくえ,one's whereabouts,n2
 湯気,ゆげ,steam,n2
@@ -1552,51 +1552,51 @@ expression,reading,meaning,tags
 羊毛,ようもう,wool,n2
 漸く,ようやく,"at last, finally, hardly",n2
 要領,ようりょう,"gist, essentials, outline",n2
-翌～,よく～,next ~,n2
+翌～,よく,next ,n2
 欲張り,よくばり,greedy,n2
 余計,よけい,"too much, unnecessary, abundance, surplus, excess, superfluity",n2
-寄せる,よせる,"to come near, to let someone approach to bring near, to bring together, to collect, to gather to deliver (opinion, news, etc.), to send (e.g. a letter), to contribute, to donate to let someone drop by",n2
+寄せる,よせる,"to come near, to let someone approach to bring near, to bring together, to collect, to gather to deliver opinion, news, etc, to send eg a letter, to contribute, to donate to let someone drop by",n2
 余所,よそ,"another place, somewhere else, strange parts",n2
 四つ角,よつかど,"four corners, crossroads",n2
 酔っ払い,よっぱらい,drunkard,n2
 予備,よび,"preparation, spare",n2
-呼び掛ける,よびかける,"to call out to, to accost, to address (crowd), to appeal",n2
-呼び出す,よびだす,"to summon, to call (e.g., phone)",n2
+呼び掛ける,よびかける,"to call out to, to accost, to address crowd, to appeal",n2
+呼び出す,よびだす,"to summon, to call eg, phone",n2
 蘇る,よみがえる,"to be resurrected, to be revived",n2
 慶ぶ,よろこぶ,"to be delighted, to be glad",n2
 来日,らいにち,"coming to Japan, visit to Japan",n2
 落第,らくだい,"failure, dropping out of a class",n2
-欄,らん,"column of text (e.g., as in a newspaper)",n2
+欄,らん,"column of text eg, as in a newspaper",n2
 乱暴,らんぼう,"rude, violent, rough",n2
 理科,りか,science,n2
 利害,りがい,"advantages and disadvantages, interest",n2
 略す,りゃくす,to abbreviate,n2
-流域,りゅういき,(river) basin,n2
+流域,りゅういき,river basin,n2
 寮,りょう,"hostel, dormitory",n2
-両～,りょう～,both ~,n2
+両～,りょう,both ,n2
 両側,りょうがわ,both sides,n2
 漁師,りょうし,fisherman,n2
 領事,りょうじ,consul,n2
 領収,りょうしゅう,"receipt, voucher",n2
 臨時,りんじ,"temporary, special, extraordinary",n2
-留守番,るすばん,"care-taking, caretaker, house-watching",n2
+留守番,るすばん,"caretaking, caretaker, housewatching",n2
 例外,れいがい,exception,n2
 零点,れいてん,"zero, no marks",n2
 冷凍,れいとう,"freezing, cold storage, refrigeration",n2
 列島,れっとう,chain of islands,n2
 煉瓦,れんが,brick,n2
 連合,れんごう,"union, alliance",n2
-ローマ字,ローマじ,"romanization, Roman letters (alphabet)",n2
-録音,ろくおん,(audio) recording,n2
+ローマ字,ローマじ,"romanization, Roman letters alphabet",n2
+録音,ろくおん,audio recording,n2
 論ずる,ろんずる,"to argue, to discuss",n2
-和～,わ～,Japanese style,n2
-和英,わえい,Japanese-English,n2
-我～,わが～,our ~,n2
+和～,わ,Japanese style,n2
+和英,わえい,JapaneseEnglish,n2
+我～,わが,our ,n2
 分かれる,わかれる,"to branch, to fork, to diverge to separate, to split, to divide to disperse, to scatter",n2
 若々しい,わかわかしい,"youthful, young",n2
 詫びる,わびる,to apologize,n2
 和服,わふく,Japanese clothes,n2
 割合に,わりあいに,"relatively, comparatively",n2
-割算,わりざん,division (math),n2
+割算,わりざん,division math,n2
 割と,わりと,"relatively, comparatively",n2
 割引,わりびき,discount,n2

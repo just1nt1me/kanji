@@ -13,18 +13,17 @@ def contains_kanji_or_hiragana(text):
 
 # clean up csv and output
 def clean_csv(csv):
-    level = csv.split('.')[0]                                                   # get the JLPT level from the file name
+    level = csv.split('.')[0]                                                       # get the JLPT level from the file name
     df = pd.DataFrame(pd.read_csv(csv))
-    df = df.drop_duplicates(subset=["expression"])                              # drop any rows that are duplicate expressions
-    df.tags = level                                                             # change all tags to be the JLPT level name
-    # TODO: lowercase values, remove "~" and "-"
+    df = df.drop_duplicates(subset=["expression"])                                  # drop any rows that are duplicate expressions
+    df.tags = level                                                                 # change all tags to be the JLPT level name
     df = df[['expression', 'reading', 'meaning', 'tags']]
     characters_to_remove = r'[～\(\)\.\;\-\~]'                                      # Define the characters you want to remove
-    df['reading'] = df['reading'].str.replace(characters_to_remove, '')         # Apply the .str.replace() method to the specified columns
+    df['reading'] = df['reading'].str.replace(characters_to_remove, '')             # Apply the .str.replace() method to the specified columns
     df['meaning'] = df['meaning'].str.replace(characters_to_remove, '')
-    mask = df['expression'].apply(lambda x: contains_kanji_or_hiragana(x))      # Apply the function and create a boolean mask
-    df = df[mask]                                                               # Filter the DataFrame to keep rows with kanji or a mix of kanji and hiragana
-    df.to_csv('new.csv', index=False)                                                 # output the cleaned csv to the original file
+    mask = df['expression'].apply(lambda x: contains_kanji_or_hiragana(x))          # Apply the function and create a boolean mask
+    df = df[mask]                                                                   # Filter the DataFrame to keep rows with kanji or a mix of kanji and hiragana
+    df.to_csv(csv, index=False)                                               # output the cleaned csv to the original file
 
 def main():
     for csv in csv_list:
@@ -64,5 +63,5 @@ def wordnet_similarity(user_input, correct_answer):
 
 
 if __name__ == "__main__":
-    # main()
-    clean_csv("n5.csv")
+    main()
+    # clean_csv("n5.csv")

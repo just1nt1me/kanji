@@ -56,7 +56,7 @@ class Test:
                 # TODO: check similarity for each comma separated string...
                 similarity = wordnet_similarity(answer, row['meaning'])
 
-                if similarity > 0.8:  # Adjust the threshold as needed
+                if similarity > 0.7:  # Adjust the threshold as needed
                     print(f"{answer} is correct. {row['expression']} means {row['meaning']}")
                     score += 1
                 else:
